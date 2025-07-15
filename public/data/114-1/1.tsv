@@ -17,7 +17,7 @@
 114	1	30	0	宇宙中的生命與太空環境 </br>[ 學分學程：天文重力學程 ]		◎數位課程 All distance learning courses display synchronous learning and face-to-face learning time only.	0	0		06UG021		半	2.0	通識	GU		Life in the Universe and the Space Environments </br>[ Program: The Program of  Astronomy and Gravitation ]	是		30	97	通		1	1015	橋本康弘	◎面授/同步	A3UG
 114	1	10	0	汽車與生活			0	0		06UG025		半	2.0	通識	GU		Vehicle and Life			0	50	通		N	1016	張俊興	四 3-4 和平 工401	A3UG
 114	1	20	0	音樂概論			0	0		0AUG203		半	2.0	通識	GU		Introduction to Music			0	65	通	◎音樂系（學）不得選修	N	1017	吳佩蓉	三 3-4 和平 音308	A1UG
-114	1	10	0	心理學 </br>[ 學分學程：人社學程 肌力與體能學程 音樂輔教學程 ]		中文授課	0	0		0AUG402		半	2.0	通識	GU		Psychology </br>[ Program: Human Services and Social Work Credit Program The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1018	未定	四 3-4 和平 誠202	A2UG/B1UG
+114	1	10	0	心理學 </br>[ 學分學程：人社學程 肌力與體能學程 音樂輔教學程 ]		中文授課	0	0		0AUG402		半	2.0	通識	GU		Psychology </br>[ Program: Human Services and Social Work Credit Program The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1018	楊諮燕	四 3-4 和平 誠202	A2UG/B1UG
 114	1	0	0	健康與生活			0	0		0AUG408		半	2.0	通識	GU		Health and Life			0	60	通		N	1019	黃玫瑄	四 3-4 和平 誠301	A3UG
 114	1	10	0	歷史與人物			0	0		0AUG435		半	2.0	通識	GU		History and Personage			0	50	通		N	1020	陳健文	二 6-7 和平 誠401	A1UG
 114	1	0	0	聖經與人生			0	0		0AUG442		半	2.0	通識	GU		The Bible and Human Life	是		2	50	通		N	1021	范俊銘	四 B-C 公館 Ｓ204	A1UG
@@ -57,7 +57,7 @@
 114	1	0	0	通識教育講座			0	0		0SUG523		半	2.0	通識	GU		Lectures on General Education			0	75	通		N	1055	鄭怡庭	三 3-4 和平 誠301	A2UG
 114	1	10	0	大學入門		非大一、非教育系的學生請先取得授課教師同意並以授權碼方式加選。	0	0		0SUG526	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限教育系（學）選修	N	1056	陳伊琳	三 3-4 和平 教310	B3UG
 114	1	10	0	大學入門		非大一、非心輔系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限心輔系（學）選修	N	1057	劉振維	五 6-7 和平 教513	B3UG
-114	1	3	0	大學入門		非大一、非社教系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	C	半	2.0	通識	GU		Introduction to University Studies			0	45	通	◎限大一修習◎限社教系（學）選修	N	1058	徐敏雄	二 8-9 和平 正101	B3UG
+114	1	3	0	大學入門		非大一、非社教系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	C	半	2.0	通識	GU		Introduction to University Studies			0	45	通	◎限大一修習◎限社教系（學）選修	N	1058	徐敏雄	四 3-4 和平 誠203	B3UG
 114	1	10	0	大學入門		限衛教系(學)選修 非大一、非衛教系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	D	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限衛教系（學）選修	N	1059	張家臻	三 3-4 和平 誠207	B3UG
 114	1	10	0	大學入門		限幼家科學系家庭組(學)選修 非大一、非幼家科學系家庭組的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	E	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限幼家科學系（學）「家庭生活與教育組」選修	N	1060	楊翠竹	三 3-4 和平 樸301	B3UG
 114	1	9	0	大學入門		非公領系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	F	半	2.0	通識	GU		Introduction to University Studies			1	90	通	◎限公領系（學）選修	N	1061	楊怡雯	三 3-4 和平 綜301	B3UG
@@ -466,7 +466,7 @@
 114	1	10	0	東北亞區域文化		大一共同必修，限本系大一修習。（於新生選課結束後，始開放本系大二以上學生與外系生修習）	0	0		EAU0207		半	3.0	東亞系（學）	IU83		Regional Culture of Northeast Asia		1	5	65	必	◎限大一修習◎限東亞系（學）選修	N	1466	林書媺	一 6-8 和平 誠402	
 114	1	0	0	國際關係概論 </br>[ 學分學程：國關與外交學程 ]		政經與區域發展領域，限大一修習。（於新生選課結束後，開放大二以上修習）	0	0		EAU0220		半	3.0	東亞系（學）	IU83		Introduction to International Relations </br>[ Program: The Program of International Relations and Diplomacy ]		1	0	70	選	◎限大一修習	N	1467	徐筱琦	一 2-4 和平 誠203	
 114	1	10	0	東南亞族群關係與社會變遷		文化與應用領域，限大一修習。（於新生選課結束後，開放大二以上修習）	0	0		EAU0230		半	3.0	東亞系（學）	IU83		Ethnic Relations and Social Change in Southeast Asia		1	5	50	選	◎限大一修習	N	1468	張碧君	三 6-8 和平 樸407	
-114	1	10	0	初級越南文（一）		1. 越南語為母語者（包括越南僑生與越南籍學生等）不可選課。2. 大一初級語言課程限本系大一生修習，於新生選課結束後，開放大二以上修習。(外系生請於全校加退選階段登錄系統即時選課）	0	0		EAU0243		半	2.0	東亞系（學）	IU83		Elementary Vietnamese (I)		1	5	50	選	◎限大一修習	N	1469	阮蓮香	二 3-4 和平 無可用教室	
+114	1	10	0	初級越南文（一）		1. 越南語為母語者（包括越南僑生與越南籍學生等）不可選課。2. 大一初級語言課程限本系大一生修習，於新生選課結束後，開放大二以上修習。(外系生請於全校加退選階段登錄系統即時選課）	0	0		EAU0243		半	2.0	東亞系（學）	IU83		Elementary Vietnamese (I)		1	5	50	選	◎限大一修習	N	1469	阮蓮香	二 3-4 和平 誠402	
 114	1	10	0	日本文化史概論		文化與應用領域，限大一修習。（於新生選課結束後，開放大二以上修習）	0	0		EAU0248		半	3.0	東亞系（學）	IU83		Introduction to the History of Japanese Culture		1	5	50	選	◎限大一修習	N	1470	王文萱	一 2-4 和平 正201	
 114	1	10	0	中級韓語（一）		韓語為母語者（包括韓國僑生與韓國籍學生等）不可選課。	0	0		EAU0083		半	2.0	東亞系（學）	IU83		Intermediate Korean(I)		2	5	50	選		N	1471	金恩美	三 6-7 和平 正406	
 114	1	10	0	中級日語（一）		日語為母語者（包括日本僑生與日本籍學生等）不可選課。	0	0		EAU0085		半	2.0	東亞系（學）	IU83		Intermediate Japanese(I)		2	5	50	選		N	1472	王文萱	二 3-4 和平 樸407	
