@@ -25,7 +25,7 @@
 114	1	10	0	休閒與生活 </br>[ 學分學程：肌力與體能學程 ]			0	0		0AUG463		半	2.0	通識	GU		Leisure in Our Daily Life </br>[ Program: The Program of Strength and Conditioning ]			0	50	通		N	1023	李晶	三 3-4 和平 誠203	A2UG
 114	1	10	0	學術寫作			0	0		0HUG011		半	2.0	通識	GU		Academic Writing			1	50	通		N	1024	謝秀卉	二 3-4 和平 樸306	A1UG
 114	1	10	0	樂府詩與人生			0	0		0HUG249		半	2.0	通識	GU		Yuefu Poems and Life			0	135	通	◎國文系（學）不得選修	N	1025	林淑雲	一 6-7 和平 誠101	A1UG
-114	1	10	0	元宇宙敘事導論 </br>[ 學分學程：元宇宙學程 ]			0	0		0HUG253		半	2.0	通識	GU		Introduction to Metaverse Narrative </br>[ Program: The Program of Metaverse Narrative ]			2	50	通		N	1026	羅凡晸 未定	三 3-4 和平 教401	A1UG
+114	1	10	0	元宇宙敘事導論 </br>[ 學分學程：元宇宙學程 ]			0	0		0HUG253		半	2.0	通識	GU		Introduction to Metaverse Narrative </br>[ Program: The Program of Metaverse Narrative ]			2	50	通		N	1026	羅凡晸 曹筱玥	三 3-4 和平 教401	A1UG
 114	1	10	0	莎士比亞的故事			0	0		0HUG432		半	2.0	通識	GU		Shakespeare			0	70	通		N	1027	蘇子中	二 6-7 和平 誠202	A1UG/B2UG
 114	1	10	0	大腦中的語言：心理語言學入門			0	0		0HUG450		半	2.0	通識	GU		Language inside Our Heads: An Introduction to Psycholinguistics	是		0	50	通		N	1028	颯楊	三 8-9 和平 誠305	A1UG
 114	1	10	0	日語（一）		1.日語母語者不可修本課程  2.不接受旁聽  3.只限三校聯盟選課。	0	0		0HUG501	A	半	2.0	通識	GU		Beginning Japanese			0	60	通		N	1029	張怡倩	二 3-4 公館 理圖003	A1UG
@@ -242,7 +242,6 @@
 114	1	10	0	影像處理 </br>[ 學分學程：知識轉譯學程 ]			0	0		GCU0027		半	2.0	圖傳系（學）	HU72		Image Processing </br>[ Program: The Program of Transformation of Knowledge and Cultural Production ]		2	0	50	選	◎限本系(含雙主修)修習◎限大二大三大四修習	N	1241	陳皇利	三 A-B 和平 教402	
 114	1	10	0	影視劇本編寫 </br>[ 學分學程：元宇宙學程 知識轉譯學程 ]			0	0		GCU0037		半	3.0	圖傳系（學）	HU72		Scrip Writing </br>[ Program: The Program of Metaverse Narrative The Program of Transformation of Knowledge and Cultural Production ]		2	0	30	選	◎限本系(含雙主修)修習◎限大二大三大四修習	N	1242	陳明秀	五 6-8 和平 新媒體專業教室	
 114	1	10	0	影視原理與製作			0	0		GCU0108		半	3.0	圖傳系（學）	HU72		Film/video Production		2	0	50	選	◎限本系(含雙主修)修習	N	1243	祝濬清	四 8-10 和平 視聽教室	
-114	1	10	0	編輯學			0	0		GCU0129		半	2.0	圖傳系（學）	HU72		Book Design & Planning		2	0	50	選	◎限本系(含雙主修)修習	N	1244	萬岳憲	二 A-B 和平 誠307	
 114	1	10	0	電腦繪圖與動畫技術			0	0		GCU0145		半	3.0	圖傳系（學）	HU72		Computer Graphics and Animation Techniques		2	0	50	選	◎限本系(含雙主修)修習◎限大二大三大四修習	N	1245	陳淑如	二 A-C 和平 教401	
 114	1	5	0	表現技法			0	0		GCU0155		半	3.0	圖傳系（學）	HU72		Expression Technique	是	2	0	50	選	◎限本系(含雙主修)修習◎限大二大三大四修習	N	1246	涂卉	三 6-8 和平 製作教室B	
 114	1	3	0	動畫實務基礎 </br>[ 學分學程：元宇宙學程 科技藝術學程 知識轉譯學程 ]			0	0		GCU0186		半	3.0	圖傳系（學）	HU72		Basics of Animation Practices </br>[ Program: The Program of Metaverse Narrative The Program of Digital Art and Technology The Program of Transformation of Knowledge and Cultural Production ]		2	0	37	選	◎限本系(含雙主修)修習◎限大二大三大四修習	N	1247	張晏榕	五 2-4 和平 綜1001	
@@ -589,7 +588,7 @@
 114	1	10	0	初級韓文（一） </br>[ 學分學程：國關與外交學程 韓語學程 ]			0	0		L0U2001	D	半	2.0	文學院	L		Korean for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修◎限韓語學程選修	N	1589	康雲柱	一 8-9 和平 誠205	
 114	1	10	0	初級韓文（一） </br>[ 學分學程：國關與外交學程 韓語學程 ]			0	0		L0U2001	E	半	2.0	文學院	L		Korean for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修◎限韓語學程選修	N	1590	洪攸善	五 6-7 和平 樸304	
 114	1	10	0	中級韓文（一） </br>[ 學分學程：韓語學程 ]			0	0		L0U2003	A	半	2.0	文學院	L		Intermediate Korean (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修◎限韓語學程選修 ◎必須先修過【L0U2002  初級韓文（二）】、【PGU7009  初級韓文（二）】、【PGU7001  初級韓文（一）】、【L0U2001  初級韓文（一）】、【EAU0075  初級韓語（一）】、【EAU0071  初級韓語（二）】其中一門	N	1591	金家絃	二 3-4 和平 文學院B1會議室	
-114	1	10	0	中級韓文（一） </br>[ 學分學程：韓語學程 ]			0	0		L0U2003	B	半	2.0	文學院	L		Intermediate Korean (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修◎限韓語學程選修 ◎必須先修過【L0U2002  初級韓文（二）】、【PGU7009  初級韓文（二）】、【PGU7001  初級韓文（一）】、【L0U2001  初級韓文（一）】、【EAU0075  初級韓語（一）】、【EAU0071  初級韓語（二）】其中一門	N	1592	李圭旼	一 8-9 和平 正304	
+114	1	10	0	中級韓文（一） </br>[ 學分學程：韓語學程 ]			0	0		L0U2003	B	半	2.0	文學院	L		Intermediate Korean (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修◎限韓語學程選修 ◎必須先修過【L0U2002  初級韓文（二）】、【PGU7009  初級韓文（二）】、【PGU7001  初級韓文（一）】、【L0U2001  初級韓文（一）】、【EAU0075  初級韓語（一）】、【EAU0071  初級韓語（二）】其中一門	N	1592	李圭旼	一 8-9 和平 樸201	
 114	1	10	0	韓語會話與聽力練習（一） </br>[ 學分學程：韓語學程 ]			0	0		L0U2005	A	半	2.0	文學院	L		Korean Conversation and Listening Practice (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修◎限韓語學程選修	N	1593	金恩美	三 8-9 和平 樸201	
 114	1	10	0	韓語會話與聽力練習（一） </br>[ 學分學程：韓語學程 ]			0	0		L0U2005	B	半	2.0	文學院	L		Korean Conversation and Listening Practice (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修◎限韓語學程選修	N	1594	洪攸善	一 3-4 和平 誠107	
 114	1	10	0	韓語會話與聽力練習（一） </br>[ 學分學程：韓語學程 ]			0	0		L0U2005	C	半	2.0	文學院	L		Korean Conversation and Listening Practice (I) </br>[ Program: Korean Studies and Language Program ]			5	50	必	◎初選 韓語學程 研究生得下修◎限韓語學程選修	N	1595	康雲柱	一 6-7 和平 誠205	
@@ -803,7 +802,6 @@
 114	1	10	0	英文寫作技巧：連貫性與銜接性 </br>[ 學分學程：榮譽英語學程 ]		榮譽英語學程	0	0		ENU5014		半	2.0	英語系（學）	LU21		English Writing Skills: Coherence and Cohesion </br>[ Program: The Honors Program in Advanced English ]	是		1	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎限榮譽英語學程選修	N	1803	宋明達	三 6-7 和平 正305	
 114	1	10	0	英語人際溝通技巧 </br>[ 學分學程：榮譽英語學程 ]		榮譽英語學程	0	0		ENU5015		半	2.0	英語系（學）	LU21		Interpersonal Communication Skills in English </br>[ Program: The Honors Program in Advanced English ]	是		1	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎限榮譽英語學程選修	N	1804	常紹如	四 8-9 和平 正305	
 114	1	10	0	英語討論與思辨知能 </br>[ 學分學程：榮譽英語學程 ]		榮譽英語學程	0	0		ENU5016		半	2.0	英語系（學）	LU21		English Discussion and Critical Thinking Skills </br>[ Program: The Honors Program in Advanced English ]	是		3	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎限榮譽英語學程選修	N	1805	曾於萱	二 8-9 和平 正302	
-114	1	10	0	電影影像識讀 </br>[ 學分學程：元宇宙學程 ]	9		0	0		ENC1115		半	3.0	英語系（學）	LU21		Cinematic Literacy </br>[ Program: The Program of Metaverse Narrative ]	是		0	50	選		N	1806	未定	一 8-10 和平 誠701A	
 114	1	10	0	英文（一） </br>[ 學分學程：科技化教學產業學程 ]			0	0		ENU0168	A	半	3.0	英語系（學）	LU21		English (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	1	0	30	必	◎限本系(含雙主修)修習◎限大一修習	N	1807	謝妙玲	一 2-4 和平 誠305	
 114	1	10	0	英文（一） </br>[ 學分學程：科技化教學產業學程 ]			0	0		ENU0168	B	半	3.0	英語系（學）	LU21		English (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	1	0	30	必	◎限本系(含雙主修)修習◎限大一修習	N	1808	多德	一 2-4 和平 誠304	
 114	1	10	0	英文（一） </br>[ 學分學程：科技化教學產業學程 ]			0	0		ENU0168	C	半	3.0	英語系（學）	LU21		English (I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	1	0	30	必	◎限本系(含雙主修)修習◎限大一修習	N	1809	多德	二 8-10 和平 誠304	
@@ -834,7 +832,6 @@
 114	1	10	0	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	0	0		ENU0150	B	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必	◎限本系(含雙主修)、輔系修習◎限大二大三大四修習	N	1834	劉宇挺	一 6-7 和平 誠304	
 114	1	10	0	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	0	0		ENU0150	C	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必	◎限本系(含雙主修)、輔系修習◎限大二大三大四修習	N	1835	羅美蘭	二 3-4 和平 誠304	
 114	1	10	0	英語字根研究			0	0		ENU0205		半	3.0	英語系（學）	LU21		Classical Roots in English	是	2	1	50	選		N	1836	陳乃嫻	一 2-4 和平 正302	
-114	1	10	0	電影史導論			0	0		ENU0208		半	3.0	英語系（學）	LU21		Introduction to the History of Film　	是	2	0	50	選		N	1837	未定	三 6-8 和平 誠701A	
 114	1	3	0	英語戲劇表演藝術（一） </br>[ 學分學程：元宇宙學程 ]			0	0		ENU0245		半	2.0	英語系（學）	LU21		Theater Performance & Production (I) </br>[ Program: The Program of Metaverse Narrative ]	是	2	0	45	選		N	1838	蘇子中	二 9-10 和平 誠105	
 114	1	10	0	初級法文（一）			0	0		ENU0253		半	2.0	英語系（學）	LU21		Beginning French (I)		2	0	30	選		N	1839	李曉芸	二 8-9 和平 正304	
 114	1	10	0	語言學概論（一） </br>[ 學分學程：客語學程 科技化教學產業學程 ]		建議大二以上選修	0	0		ENU0259	A	半	2.0	英語系（學）	LU21		Introduction to Linguistics (I) </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1840	颯楊	四 8-9 和平 誠305	
@@ -913,7 +910,6 @@
 114	1	10	0	中國政治制度史（政府組織）			0	0		HIU0395		半	2.0	歷史系（學）	LU22		History of Chinese Political Institutions (Governmental Organization)			0	50	選		N	1913	陳昭揚	一 8-9 和平 誠307	
 114	1	10	0	近代西洋思想史			0	0		HIU0397		半	2.0	歷史系（學）	LU22		History of Modern Western Thought			2	50	選		N	1914	陳建元	五 6-7 和平 誠306	
 114	1	10	0	英國史			0	0		HIU0398		半	3.0	歷史系（學）	LU22		History of England			2	50	選		N	1915	盧省言	四 2-4 和平 正406	
-114	1	10	0	日本現代史			0	0		HIU0401		半	2.0	歷史系（學）	LU22		Modern Japanese History			2	50	選		N	1916	王麒銘	二 3-4 和平 正404	
 114	1	10	0	現代韓國歷史與文化			0	0		HIU0402		半	3.0	歷史系（學）	LU22		Modern Korean History and Culture			2	50	選		N	1917	洪攸善	四 6-8 和平 誠306	
 114	1	10	0	歷史教材教法（教）			0	0		HIUE001		半	2.0	歷史系（學）	LU22		Teaching Materials and Methods: History			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	1918	吳翎君	三 8-9 和平 正406	
 114	1	10	0	歷史科教學實習（二）（教）		本課程為進階實習課程，注重入校實地學習訓練，限大四以上修習。	0	0		HIUE210		半	2.0	歷史系（學）	LU22		Teaching Practicum: History (II)			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修◎必須先修過【HIUE110  歷史科教學實習（一）（教）】	N	1919	石蘭梅	五 6-9 和平 樸201	
