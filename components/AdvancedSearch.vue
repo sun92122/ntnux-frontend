@@ -3,7 +3,9 @@
     <div class="advanced-search-box-item">
       <Accordion :activeIndex="0">
         <AccordionPanel>
-          <AccordionHeader :style="{ padding: '0 var(--p-accordion-header-padding) 0 0' }">
+          <AccordionHeader
+            :style="{ padding: '0 var(--p-accordion-header-padding) 0 0' }"
+          >
             <p>上課時間</p>
           </AccordionHeader>
           <AccordionContent>
@@ -37,6 +39,10 @@
           :key="index"
         >
           <Button
+            v-if="
+              filterValue.grouped_select_list === undefined ||
+              filterValue.grouped_select_list.length === 0
+            "
             v-for="(isSelected, option) in filterValue.value"
             :key="option"
             :severity="isSelected ? 'primary' : 'secondary'"
@@ -49,6 +55,29 @@
               }
             "
           ></Button>
+          <TreeSelect
+            ref="treeSelectRef"
+            v-if="filterValue.grouped_select_list"
+            v-model="filterValue.value"
+            :options="filterValue.grouped_select_list"
+            selectionMode="checkbox"
+            filter
+            filterMode="strict"
+            :showClear="true"
+            :placeholder="filterValue.label"
+            :style="{ width: 'clamp(250px, 90%, 350px)' }"
+            @change="
+              (value) => {
+                filterValue.onChange?.(value);
+              }
+            "
+          >
+            <template #empty>
+              <span class="p-multiselect-empty-label">{{
+                filterValue.emptyLabel
+              }}</span>
+            </template>
+          </TreeSelect>
         </div>
       </div>
     </div>
@@ -56,7 +85,6 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
 import { FilterMatchMode, FilterOperator } from "@primevue/core/api";
 
 import {
@@ -66,11 +94,13 @@ import {
   AccordionPanel,
   AccordionHeader,
   AccordionContent,
+  TreeSelect,
 } from "primevue";
 
 import { TimeSelectionTable } from "#components";
 
 const filters = useState("filters");
+const treeSelectRef = useTemplateRef("treeSelectRef");
 
 // const Advanced Search Display Value
 const advancedSearchDisplayValue = useState(
@@ -78,6 +108,7 @@ const advancedSearchDisplayValue = useState(
   () => "點擊進行進階搜尋"
 );
 const timeSelectedCells = useState("timeSelectedCells", () => new Set());
+const deptList = useState("deptList");
 
 const advancedSearchFilters = useState("advancedSearchFilters", () => ({
   上課地點: [
@@ -123,6 +154,17 @@ const advancedSearchFilters = useState("advancedSearchFilters", () => ({
       },
     },
   ],
+  開課系所: [
+    {
+      value: {},
+      grouped_select_list: deptList.value || [],
+      label: "開課系所",
+      emptyLabel: "系所們還在路上",
+      onChange: (value) => {
+        deptFilterHandler(value, deptList.value || []);
+      },
+    },
+  ],
 }));
 
 function advancedSearchRebuild() {
@@ -148,6 +190,9 @@ function updateFilters(updatefilter) {
 
   const filterDescriptions = [];
   for (const [key, filter] of Object.entries(advancedSearchFilters.value)) {
+    if (filter[0].grouped_select_list) {
+      continue;
+    }
     const selectedOptions = Object.entries(filter[0].value)
       .filter(([_, isSelected]) => isSelected)
       .map(([option]) => option);
@@ -161,13 +206,33 @@ function updateFilters(updatefilter) {
         (isTimeHardFilter.value ? "" : "（軟篩選）")
     );
   }
+  if (
+    advancedSearchFilters.value["開課系所"][0].value &&
+    !advancedSearchFilters.value["開課系所"][0].value.empty
+  ) {
+    const treeSelectValue = treeSelectRef.value[0]?.label || "";
+    filterDescriptions.push(`開課系所：${treeSelectValue}`);
+  }
 
   if (filterDescriptions.length > 0) {
-    advancedSearchDisplayValue.value = filterDescriptions.join("｜");
+    advancedSearchDisplayValue.value = filterDescriptions
+      .join("｜")
+      .replace(/,\s*/g, "、");
   } else {
     advancedSearchDisplayValue.value = "點擊進行進階搜尋";
   }
 }
+
+watch(
+  () => deptList.value,
+  (newDeptList) => {
+    if (newDeptList) {
+      advancedSearchFilters.value["開課系所"][0].grouped_select_list =
+        newDeptList;
+    }
+  },
+  { immediate: true }
+);
 
 function locationFilterHandler(location) {
   const hope = location.和平;
@@ -430,6 +495,40 @@ function timeFilterHandler(time) {
 
   updateFilters({ timeListStr: timeListStrFilter });
 }
+
+function deptFilterHandler(value, deptList) {
+  if (!value || Object.keys(value).length === 0) {
+    updateFilters({
+      dept_code: {
+        operator: FilterOperator.OR,
+        constraints: [{ value: null, matchMode: FilterMatchMode.CONTAINS }],
+      },
+    });
+    return;
+  }
+  const deptFilter = Object.entries(value).map(([key, value]) => {
+    if (!value.checked) {
+      return { value: null, matchMode: FilterMatchMode.CONTAINS };
+    }
+    const keyParts = key.split("-");
+    if (keyParts.length === 1) {
+      return deptList[key].data;
+    }
+    if (keyParts.length === 2) {
+      return deptList[keyParts[0]].children[keyParts[1]].data;
+    }
+    {
+      return deptList[keyParts[0]].children[keyParts[1]].children[keyParts[2]]
+        .data;
+    }
+  });
+  updateFilters({
+    dept_code: {
+      operator: FilterOperator.OR,
+      constraints: deptFilter,
+    },
+  });
+}
 </script>
 
 <style scoped lang="scss">
@@ -442,12 +541,18 @@ function timeFilterHandler(time) {
 }
 
 .advanced-search-box-item {
-  flex: 1;
+  flex: 1 0 50%;
+  width: 50%;
 }
 
 @media screen and (max-width: 770px) {
   .advanced-search-box {
     flex-direction: column;
+    padding: 0;
+  }
+
+  .advanced-search-box-item {
+    width: unset;
   }
 }
 
@@ -474,5 +579,15 @@ p {
   font-weight: bold;
   font-size: 1.2rem;
   color: var(--p-dialog-color) !important;
+}
+</style>
+
+<style lang="scss">
+.p-accordionpanel {
+  border-bottom: 0;
+}
+
+.p-treeselect-label {
+  display: block;
 }
 </style>
