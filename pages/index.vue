@@ -27,7 +27,7 @@
           <div class="datatable-header">
             <span>課程資訊</span>
             <div class="datatable-header-end">
-              <span>最後更新：{{ currentlastUpdate }}</span>
+              <span>最後更新：{{ currentLastUpdate }}</span>
               <!-- <Button
                 icon="pi pi-cog"
                 label="顯示設定"
@@ -134,6 +134,7 @@ const {
   tempDatas,
   loading,
   programSet,
+  currentLastUpdate,
   reloadCurrentTerm,
   defaultGlobalFilterFields,
   initTermData,
@@ -268,25 +269,6 @@ onMounted(async () => {
     selectedCourses.value[currentTerm.value] = {};
   }
   selectedRows.value = selectedCourses.value[currentTerm.value];
-
-  const [year, term] = currentTerm.value.split("-");
-  if (!lastUpdate.value[year]) {
-    await fetch(`./data/update/${year}.json`)
-      .then((response) => {
-        if (response.ok) {
-          return response.json();
-        } else {
-          throw new Error("Network response was not ok");
-        }
-      })
-      .then((data) => {
-        lastUpdate.value[year] = data;
-      })
-      .catch((error) => {
-        console.error("Error fetching last update data:", error);
-      });
-  }
-  currentlastUpdate.value = lastUpdate.value[year][term] || "unknown";
 });
 </script>
 

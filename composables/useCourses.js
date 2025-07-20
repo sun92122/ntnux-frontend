@@ -7,6 +7,8 @@ export function useCourses() {
   const tempDatas = useState("tempDatas", () => ({}));
   const loading = useState("loading", () => true);
   const programSet = useState("programSet", () => new Set());
+  const lastUpdate = useState("lastUpdate", () => ({}));
+  const currentLastUpdate = useState("currentLastUpdate", () => "unknown");
 
   const defaultGlobalFilterFields = ["course_name", "teacher", "serial_no"];
 
@@ -42,6 +44,10 @@ export function useCourses() {
 
     if (rowDatas.value[currentTerm.value]) {
       rowData.value = rowDatas.value[currentTerm.value];
+      if (!lastUpdate.value[currentTerm.value]) {
+        await getLastUpdate();
+      }
+      currentLastUpdate.value = lastUpdate.value[currentTerm.value] || "unknown";
       loading.value = false;
       return;
     }
@@ -49,6 +55,8 @@ export function useCourses() {
     rowData.value = [];
     await fetchAllData();
     rowDatas.value[currentTerm.value] = rowData.value;
+    await getLastUpdate();
+    currentLastUpdate.value = lastUpdate.value[currentTerm.value] || "unknown";
   };
 
   const initTermData = async (route) => {
@@ -67,6 +75,13 @@ export function useCourses() {
 
     loadTermData.value = reloadCurrentTerm;
     await reloadCurrentTerm();
+  };
+
+  const getLastUpdate = async () => {
+    const res = await fetch(`/data/${currentTerm.value}/last_update.json`);
+    if (!res.ok) return null;
+    const data = await res.json();
+    lastUpdate.value[currentTerm.value] = data.last_update;
   };
 
   const courseFormatter = (course) => {
@@ -116,6 +131,7 @@ export function useCourses() {
     tempDatas,
     loading,
     programSet,
+    currentLastUpdate,
     reloadCurrentTerm,
     defaultGlobalFilterFields,
     initTermData,
