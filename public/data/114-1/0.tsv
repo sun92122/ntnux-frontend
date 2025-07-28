@@ -87,7 +87,7 @@
 114	1	10	0	棒（壘）球（一）			0	0		PEU0254	M	半	2.0	體育系（學）	AU30		Baseball (Softball) (I)		1	0	50	選	◎限男生修 ◎限大一修習	N	0086	黃輝榮	二 3-4 公館 操場二	
 114	1	10	0	游泳（一）			0	0		PEU0263	F	半	2.0	體育系（學）	AU30		Swimming (I)		1	0	50	必	◎限女生修 ◎限大一修習	N	0087	鄭國輝	五 6-7 和平 游泳館1F大泳池	
 114	1	10	0	游泳（一）			0	0		PEU0263	M	半	2.0	體育系（學）	AU30		Swimming (I)		1	0	50	必	◎限男生修 ◎限大一修習	N	0088	鄭國輝	二 6-7 和平 游泳館1F大泳池	
-114	1	10	0	桌球（一）			0	0		PEU0269	F	半	2.0	體育系（學）	AU30		Table Tennis (I)		1	0	50	選	◎限女生修 ◎限大一修習	N	0089	林靜萍	二 6-7 和平 桌球室	
+114	1	10	0	桌球（一）			0	0		PEU0269	F	半	2.0	體育系（學）	AU30		Table Tennis (I)		1	0	50	選	◎限女生修 ◎限大一修習	N	0089	施亦婕	二 6-7 和平 桌球室	
 114	1	10	0	桌球（一）			0	0		PEU0269	M	半	2.0	體育系（學）	AU30		Table Tennis (I)		1	0	50	選	◎限男生修 ◎限大一修習	N	0090	王傑賢	一 6-7 和平 桌球室	
 114	1	10	0	體操（一）			0	0		PEU0274	F	半	2.0	體育系（學）	AU30		Gymnastics (I)		1	0	50	選	◎限女生修 ◎限大一修習	N	0091	張琪	二 3-4 和平 體操房	
 114	1	10	0	體操（一）			0	0		PEU0274	M	半	2.0	體育系（學）	AU30		Gymnastics (I)		1	0	50	選	◎限男生修 ◎限大一修習	N	0092	張琪	一 3-4 和平 體操房	
@@ -159,7 +159,6 @@
 114	1	10	0	運動專長術科：男子籃球			0	0		FPU0346		半	4.0	競技系（學）	AU32		Sport Specialties: Men Basketball	是		0	50	必	允許重複修	N	0158	石明宗 李秉鴻	一 8-9 和平 體育館一4F, 二 8-9 公館 體育館二3樓, 四 8-9 公館 體育館二3樓, 五 8-9 公館 體育館二3樓	
 114	1	10	0	運動專長術科：女子籃球			0	0		FPU0347		半	4.0	競技系（學）	AU32		Sport Specialties: Women Basketball			0	50	必	允許重複修	N	0159	梁嘉音	一 8-9 和平 體育館一4F, 二 8-9 公館 體育館二3樓, 四 8-9 公館 體育館二3樓, 五 8-9 公館 體育館二3樓	
 114	1	10	0	運動專長術科：壘球			0	0		FPU0348		半	4.0	競技系（學）	AU32		Sport Specialties: Softball			0	50	必	允許重複修	N	0160	陳妙怡	一 8-9 公館 操場二, 二 8-9 公館 操場二, 四 8-9 公館 操場二, 五 8-9 公館 操場二	
-114	1	10	0	運動專長術科：女子足球			0	0		FPU0349		半	4.0	競技系（學）	AU32		Sport Specialties: Female Soccer			0	50	必	允許重複修	N	0161	未定	一 8-9 公館 操場二, 二 8-9 公館 操場二, 四 8-9 公館 操場二, 五 8-9 公館 操場二	
 114	1	10	0	運動專長術科：男子排球			0	0		FPU0350		半	4.0	競技系（學）	AU32		Sport Specialties: Man Volleyball			0	50	必	允許重複修	N	0162	張恩崇	一 8-9 公館 體育館二3樓, 二 8-9 公館 體育館二3樓, 四 8-9 和平 體育館一4F, 五 8-9 公館 體育館二3樓	
 114	1	10	0	運動專長術科：女子排球			0	0		FPU0351		半	4.0	競技系（學）	AU32		Sport Specialties: Women Volleyball			0	50	必	允許重複修	N	0163	張恩崇	一 10-A 公館 體育館二3樓, 二 10-A 公館 體育館二3樓, 四 10-A 公館 體育館二3樓, 五 10-A 公館 體育館二3樓	
 114	1	10	0	運動專長術科：跆拳道			0	0		FPU0352		半	4.0	競技系（學）	AU32		Sport Specialties: Taekwondo	是		0	50	必	允許重複修	N	0164	黃珮昀	一 8-9 公館 體育館二B1, 二 8-9 公館 體育館二B1, 四 8-9 公館 體育館二B1, 五 8-9 公館 體育館二B1	
@@ -189,7 +188,6 @@
 114	1	10	0	教練心理學			0	0		FPU0037		半	2.0	競技系（學）	AU32		Coaching Psychology		3	0	50	選		N	0188	梁嘉音	二 3-4 公館 Ｓ501	
 114	1	10	0	身體素質訓練法 </br>[ 學分學程：肌力與體能學程 ]			0	0		FPU0065		半	2.0	競技系（學）	AU32		Physical Characteristics Training </br>[ Program: The Program of Strength and Conditioning ]		3	0	50	選		N	0189	蔡於儒	一 6-7 公館 Ｓ204	
 114	1	10	0	網球（一）			0	0		FPU0246		半	2.0	競技系（學）	AU32		Tennis (I)		3	0	50	選		N	0190	林岱樵	五 6-7 公館 網球場二	
-114	1	10	0	足球（一）			0	0		FPU0249		半	2.0	競技系（學）	AU32		Soccer (I)		3	0	50	選		N	0191	未定	三 8-9 公館 體育館二3樓	
 114	1	10	0	書報討論	8		0	0		C0C8001		半	1.0	產創學院	C		Seminar	是		0	90	必	允許重複修 ◎課程開放上修	N	0192	林政宏 高文忠	三 3-4 和平 綜210展覽廳	
 114	1	0	0	電腦視覺	8		0	0		AIC8001		半	3.0	AI跨域所（碩）	CMK0		Computer Vision	是		0	30	選	◎課程開放上修	N	0193	未定	二 7-9 和平 TA512	
 114	1	0	0	數位相機設計	8		0	0		AIC8002		半	3.0	AI跨域所（碩）	CMK0		Digital Still Camera Design			0	30	選	◎課程開放上修	N	0194	高文忠	一 2-4 和平 TA512	
@@ -706,7 +704,7 @@
 114	1	10	0	學校諮商實習（一） </br>[ 學分學程：PASSION偏鄉教育學程 ]			0	0		PCU0150	B	半	2.0	心輔系（學）	EU01		Practicum in School Counseling (I) </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]		4	0	50	選		N	0709	姜兆眉	二 5-7 和平 教600	
 114	1	10	0	教育心理與輔導專題實作			0	0		PCU0165		半	2.0	心輔系（學）	EU01		Special Topics on Educational Psychology and Counseling		4	0	50	選		N	0710	吳昭容 陳柏熹	二 3-4 和平 教600	
 114	1	10	0	生涯規劃教學實習（教）		除須滿足先修課程外，應至少修滿教育專業課程12學分(不含教學實習)。	0	0		PCUE110		半	2.0	心輔系（學）	EU01		Teaching Practice in Career Planning		4	0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修◎必須先修過【PCU0011  團體輔導】、【PCUE101  生涯規劃教材教法（教）】	N	0711	張雨霖	二 1-4 和平 教515	
-114	1	10	0	輔導教學實習（一）（教）		除須滿足先修課程外，應至少修滿教育專業課程12學分(不含教學實習)，且專門課程之「領域內跨科課程」應至少修2學分。	0	0		PCUE210		半	2.0	心輔系（學）	EU01		Teaching Practicum: Guidance (I)		4	0	50	選	◎必須先修過【PCU0011  團體輔導】、【PCUE001  輔導教材教法（教）】	N	0712	王櫻芬 陳孟筳	二 1-4 和平 教511	
+114	1	10	0	輔導教學實習（一）（教）		除須滿足先修課程外，應至少修滿教育專業課程12學分(不含教學實習)，且專門課程之「領域內跨科課程」應至少修2學分。	0	0		PCUE210		半	2.0	心輔系（學）	EU01		Teaching Practicum: Guidance (I)		4	0	50	選	◎必須先修過【PCU0011  團體輔導】、【PCUE001  輔導教材教法（教）】	N	0712	張世華 陳孟筳	二 1-4 和平 教511	
 114	1	10	0	社會教育專題實習（一）	9	此課程為大碩合開之大三和大四選修	0	0		SOC9001		半	3.0	社教系（學）	EU02		Studies in Social Innovation and Social Education (I)			2	50	選	◎限本系(含雙主修)修習	N	0713	吳盈慧	三 A-C 和平 教714	
 114	1	10	0	社會學 </br>[ 學分學程：人社學程 ]			4	4		SOU0006		半	3.0	社教系（學）	EU02		Sociology </br>[ Program: Human Services and Social Work Credit Program ]		1	0	50	必	◎限本系(含雙主修)修習◎限大一修習	N	0714	王美文	一 2-4 和平 誠302	
 114	1	10	0	心理學 </br>[ 學分學程：人社學程 ]			0	0		SOU0007		半	2.0	社教系（學）	EU02		Psychology </br>[ Program: Human Services and Social Work Credit Program ]		1	0	50	必	◎限本系(含雙主修)修習◎限大一修習	N	0715	郭郡羽	四 6-7 和平 誠208	
@@ -943,8 +941,8 @@
 114	1	0	0	社區方案規劃與實踐 </br>[ 學分學程：人社學程 ]			0	0		03UG049		半	2.0	通識	GU		Design and Practice of Community-Based Program </br>[ Program: Human Services and Social Work Credit Program ]			0	60	通		N	0946	蔡昕璋 吳振邦	三 10-A 和平 誠104	A2UG
 114	1	5	0	文明的探索			3	3		04UG003	A	半	2.0	通識	GU		The Exploration of Civilization			0	50	通		N	0947	陳健文	一 8-9 和平 正202	A1UG/B2UG
 114	1	10	0	文明的探索			0	0		04UG003	B	半	2.0	通識	GU		The Exploration of Civilization			0	50	通		N	0948	陳昭揚	三 6-7 和平 誠306	A1UG/B2UG
-114	1	10	0	文明的探索			0	0		04UG003	C	半	2.0	通識	GU		The Exploration of Civilization			0	50	通		N	0949	未定	三 8-9 和平 樸401	A1UG/B2UG
-114	1	10	0	西方文明史			0	0		04UG007		半	2.0	通識	GU		Western Civilization			0	50	通		N	0950	未定	五 3-4 和平 誠402	A1UG
+114	1	10	0	文明的探索			0	0		04UG003	C	半	2.0	通識	GU		The Exploration of Civilization			0	50	通		N	0949	陳令杰	三 8-9 和平 樸401	A1UG/B2UG
+114	1	10	0	西方文明史			0	0		04UG007		半	2.0	通識	GU		Western Civilization			0	50	通		N	0950	陳令杰	五 3-4 和平 誠402	A1UG
 114	1	0	0	臺灣歷史與電影			0	0		04UG013		半	2.0	通識	GU		Taiwan History and Movie			0	100	通		N	0951	陳佳宏	五 3-4 和平 誠201	A1UG
 114	1	0	0	臺灣歷史與文化			0	0		04UG015		半	2.0	通識	GU		Taiwan History and Culture			5	50	通		N	0952	許佩賢	二 3-4 和平 誠401	A1UG
 114	1	5	0	２０世紀動盪時局下的知識份子			0	0		04UG023		半	2.0	通識	GU		Intellectuals during Turbulent Times in the 20th Century			0	50	通	◎東亞系（學）不得選修	N	0954	胡元玲	二 9-10 和平 正301	A1UG

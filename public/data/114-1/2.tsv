@@ -527,7 +527,6 @@
 114	1	0	0	體育（桌球初級）			0	0		00UP111	G	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2525	施亦婕	五 1-2 和平 桌球室	
 114	1	5	0	體育（桌球初級）			0	0		00UP111	H	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2526	蔡虔祿	五 3-4 和平 桌球室	
 114	1	0	0	體育（桌球初級）			1	1		00UP111	I	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2527	施亦婕	五 6-7 和平 桌球室	
-114	1	0	0	體育（桌球初級）			0	0		00UP111	J	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2528	施亦婕	五 8-9 和平 桌球室	
 114	1	3	0	體育（游泳初級）			1	1		00UP115	A	半	1.0	普通體育	PE		Physical Education (Beginning Swimming)			0	30	必	允許重複修	N	2529	陳履賢	三 3-4 和平 游泳館1F大泳池	
 114	1	3	0	體育（游泳初級）			0	0		00UP115	B	半	1.0	普通體育	PE		Physical Education (Beginning Swimming)			0	30	必	允許重複修	N	2530	陳履賢	四 3-4 和平 游泳館1F大泳池	
 114	1	3	0	體育（游泳初級）			0	0		00UP115	C	半	1.0	普通體育	PE		Physical Education (Beginning Swimming)			0	30	必	允許重複修	N	2531	陳履賢	四 6-7 和平 游泳館1F大泳池	
@@ -807,10 +806,10 @@
 114	1	10	0	物理教材教法（教） </br>[ 學分學程：國際教師學程-物理 ]			0	0		PHUE001		半	2.0	物理系（學）	SU41		Teaching Materials and Methods: Physics </br>[ Program: The Program of International Baccalaureate Educator Certificate-International  Physics  Education ]		3	0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	2806	陳育霖	五 9-10 公館 Ｓ303	
 114	1	10	-33	電磁學（二）	1		0	33		PHU0216		半	3.0	物理系（學）	SU41		Electricity and Magnetism (II)		3	0	50	必		N	2807	陳鴻宜	一 3-4 公館 Ｓ602, 四 2 公館 Ｓ602	
 114	1	10	-33	近代物理學（一）	1		0	33		PHU0236		半	3.0	物理系（學）	SU41		Modern Physics(I)		3	0	50	必		N	2808	陳啟明	二 3-4 公館 Ｓ602, 四 4 公館 Ｓ602	
-114	1	10	0	近代物理探索與應用（一）	1		0	0		PHU0264		半	1.0	物理系（學）	SU41		Exploration and Applications of Modern Physics (I)		3	0	50	選		N	2809	陳啟明	四 3 公館 理圖003	
+114	1	10	0	近代物理探索與應用（一）	1		0	0		PHU0264		半	1.0	物理系（學）	SU41		Exploration and Applications of Modern Physics (I)		3	0	50	選		N	2809	陳啟明	四 3 公館 Ｓ602	
 114	1	10	-36	電磁學（二）	2		0	36		PHU0216		半	3.0	物理系（學）	SU41		Electricity and Magnetism (II)		3	0	50	必		N	2810	徐鏞元	一 2-4 公館 Ｓ501	
-114	1	10	-36	近代物理學（一）	2		0	36		PHU0236		半	3.0	物理系（學）	SU41		Modern Physics(I)		3	0	50	必		N	2811	張明哲	二 3-4 公館 Ｓ101, 四 4 公館 Ｓ101	
-114	1	10	0	近代物理探索與應用（一）	2		0	0		PHU0264		半	1.0	物理系（學）	SU41		Exploration and Applications of Modern Physics (I)		3	0	50	選		N	2812	張明哲	四 3 公館 Ｅ102	
+114	1	10	-36	近代物理學（一）	2		0	36		PHU0236		半	3.0	物理系（學）	SU41		Modern Physics(I)		3	0	50	必		N	2811	張明哲	二 3-4 公館 Ｓ502, 四 4 公館 Ｓ504	
+114	1	10	0	近代物理探索與應用（一）	2		0	0		PHU0264		半	1.0	物理系（學）	SU41		Exploration and Applications of Modern Physics (I)		3	0	50	選		N	2812	張明哲	四 3 公館 Ｓ504	
 114	1	10	0	相對論導論			0	0		PHU0218		半	3.0	物理系（學）	SU41		Introduction to the Theory of Relativity		4	0	50	選		N	2813	李沃龍	二 2-4 公館 Ｓ302	
 114	1	10	0	研究實習			0	0		PHU0260		半	2.0	物理系（學）	SU41		Research Internship		4	0	50	選		N	2814	林文欽	二 10-C 公館 Ｆ100	
 114	1	10	0	基礎量子力學（一） </br>[ 學分學程：台積電半導體學程 ]			0	0		PHU0268		半	3.0	物理系（學）	SU41		Fundamental Quantum Mechanics (I) </br>[ Program: NTNU and TSMC Semiconductor Program ]		4	0	50	選		N	2815	張明哲	三 6-8 公館 Ｓ402	
