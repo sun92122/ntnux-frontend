@@ -175,7 +175,11 @@
                         ],
                         [
                           '已使用授權碼',
-                          course.counter - course.counter_exceptAuth,
+                          // course.counter - course.counter_exceptAuth,
+                          Math.max(
+                            0,
+                            course.counter - course.counter_exceptAuth
+                          ),
                           course.authorize_p,
                         ],
                         ['系統各校開放名額', null, course.limit],
