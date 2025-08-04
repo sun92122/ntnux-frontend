@@ -720,7 +720,7 @@
 114	1	10	-3	語言學入門			0	3		CHU0385		半	2.0	國文系（學）	LU20		First Approach to Linguistics	是		5	50	選		N	1725	理克	二 3-4 和平 正204	
 114	1	10	-12	語言、文化與認知			0	12		CHU0386		半	2.0	國文系（學）	LU20		Language, Culture and Cognition	是		5	50	選		N	1726	理克	二 6-7 和平 樸205	
 114	1	10	-8	語言、社會與文學：語料庫及現代科技的視野			0	8		CHU0387		半	2.0	國文系（學）	LU20		Language, Society and Literature with Corpus and Modern Technology	是		5	50	選		N	1727	理克	三 3-4 和平 樸302	
-114	1	10	-25	學習評量（教）			0	25		CHUE074		半	2.0	國文系（學）	LU20		Learning Assessment			0	50	選		N	1728	李清筠	三 6-7 和平 樸303	
+114	1	10	-25	學習評量（教）			0	25		CHUE074		半	2.0	國文系（學）	LU20		Learning Assessment			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	1728	李清筠	三 6-7 和平 樸303	
 114	1	10	-15	漢譯佛典選讀	9		0	15		CHC0120		半	2.0	國文系（學）	LU20		The Selected Readings of Chinese translation of Buddhist Scriptures			5	50	選		N	1729	李幸玲	三 8-9 和平 樸304	
 114	1	10	-12	書經（一）	9		0	12		CHC0169		半	2.0	國文系（學）	LU20		Shu-king (I)			5	50	選		N	1730	許華峰	三 8-9 和平 樸206	
 114	1	3	-4	文學概論 </br>[ 學分學程：科技化教學產業學程 文學創作學程 ]			0	4		CHU0015		半	3.0	國文系（學）	LU20		Introduction to Literature </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of Literature Creation ]		1	5	47	選	◎限大一修習	N	1731	范宜如	三 6-8 和平 誠104	
@@ -787,8 +787,8 @@
 114	1	10	-34	訓詁學			0	34		CHU0008	B	半	2.0	國文系（學）	LU20		Semantics		4	5	50	必	◎限本系(含雙主修)修習	N	1792	陳炫瑋	四 3-4 和平 樸303	
 114	1	10	-56	易經（一）			0	56		CHU0233		半	2.0	國文系（學）	LU20		I-King (I)		4	5	50	選		N	1793	賴貴三	二 3-4 和平 樸204	
 114	1	10	-25	古典戲曲選（一）		任課老師：蔡孟珍老師。	0	25		CHU0257		半	2.0	國文系（學）	LU20		Selections of Classical Drama(I)		4	5	50	選		N	1794	蔡孟珍	二 6-7 和平 樸203	
-114	1	10	-33	國文教學實習（一）（教）			0	33		CHUE110	A	半	2.0	國文系（學）	LU20		Teaching Practicum: Chinese (I)		4	0	30	選	◎限本系(含雙主修)修習 ◎必須先修過【CHUE001  國文教材教法（教）】、【CHUE004  國文教材教法研究（教）】其中一門	N	1795	鍾宗憲	四 6-9 和平 樸205	
-114	1	10	-37	國文教學實習（一）（教）			0	37		CHUE110	B	半	2.0	國文系（學）	LU20		Teaching Practicum: Chinese (I)		4	0	30	選	◎限本系(含雙主修)修習 ◎必須先修過【CHUE001  國文教材教法（教）】、【CHUE004  國文教材教法研究（教）】其中一門	N	1796	李鍑倫	四 6-9 和平 樸206	
+114	1	10	-33	國文教學實習（一）（教）			0	33		CHUE110	A	半	2.0	國文系（學）	LU20		Teaching Practicum: Chinese (I)		4	0	30	選	◎限本系(含雙主修)修習    ◎限 二階生 教育學程生 不佔名額生 登記修習生 可修 ◎必須先修過【CHUE001  國文教材教法（教）】、【CHUE004  國文教材教法研究（教）】其中一門	N	1795	鍾宗憲	四 6-9 和平 樸205	
+114	1	10	-37	國文教學實習（一）（教）			0	37		CHUE110	B	半	2.0	國文系（學）	LU20		Teaching Practicum: Chinese (I)		4	0	30	選	◎限本系(含雙主修)修習    ◎限 二階生 教育學程生 不佔名額生 登記修習生 可修 ◎必須先修過【CHUE001  國文教材教法（教）】、【CHUE004  國文教材教法研究（教）】其中一門	N	1796	李鍑倫	四 6-9 和平 樸206	
 114	1	10	-64	中國哲學史（三） </br>[ 學分學程：哲學學程 ]	1		0	64		CHU0303		半	2.0	國文系（學）	LU20		History of Chinese Philosophy(III) </br>[ Program: The Program in Philosophy ]		4	5	50	必	◎限本系(含雙主修)修習	N	1797	江淑君	一 3-4 和平 樸302	
 114	1	10	-22	中國哲學史（三） </br>[ 學分學程：哲學學程 ]	2		0	22		CHU0303		半	2.0	國文系（學）	LU20		History of Chinese Philosophy(III) </br>[ Program: The Program in Philosophy ]		4	5	50	必	◎限本系(含雙主修)修習	N	1798	李幸玲	二 3-4 和平 樸303	
 114	1	10	-31	中國哲學史（三） </br>[ 學分學程：哲學學程 ]	3		0	31		CHU0303		半	2.0	國文系（學）	LU20		History of Chinese Philosophy(III) </br>[ Program: The Program in Philosophy ]		4	5	50	必	◎限本系(含雙主修)修習	N	1799	鄭燦山	二 3-4 和平 樸302	
