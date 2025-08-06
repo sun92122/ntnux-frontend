@@ -408,6 +408,26 @@ function getCourseData() {
                 ? description.brief || description.description
                 : "",
             },
+            {
+              property: "og:title",
+              content: `${acadm} ${course.value.course_name}`,
+            },
+            {
+              property: "og:description",
+              content: description
+                ? description.brief || description.description
+                : "",
+            },
+            {
+              property: "twitter:title",
+              content: `${acadm} ${course.value.course_name}`,
+            },
+            {
+              property: "twitter:description",
+              content: description
+                ? description.brief || description.description
+                : "",
+            },
           ],
         });
       });
