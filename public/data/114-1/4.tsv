@@ -842,7 +842,9 @@
 114	1	0	0	覺察力與自我覺察		管理學院 ; 企業管理系 ; 開放全校大學部學生選修 ; 限修學制：大、碩、博	0	0		ABU0627	A	半	3.0	校際臺科大（學）	9UAB		Comprehension and Self-awareness				5	選			4840	易力行	一 10 IB-409-2, 一 8-9 IB-409-2	
 114	1	0	0	邏輯思考概論		人文社會學院 ; 通識學科 ; 限51人、通識領域課程 ; 限修學制：大、碩、博	0	0		ABU0331	A	半	2.0	校際臺科大（學）	9UAB		Introduction to Logical Thinking				2	選			4841	林景銘	二 8-9 TR-413-2	
 114	1	0	0	觀光日文		人文社會學院 ; 應用外語系 ; 限50人、進階課程建議具備日文基礎者選修、外語選修、教師將於第一次上課做程度能力確認 ; 限修學制：大、碩、博	0	0		ABU0444	A	半	2.0	校際臺科大（學）	9UAB		Tourism  Japanese				3	選			4842	林益泓	五 1-2 TR-510	
-114	1	10	0	西洋近代教育史		授課地點：教802	0	0		EDU0025		半	2.0	教育系（學）	EU00		Modern History of Western  Education		2	0	50	選	◎限本系(含雙主修)修習	N	4843	洪仁進	二 6-7 和平 教室自排	
+114	1	10	-10	西洋近代教育史		授課地點：教802	0	10		EDU0025		半	2.0	教育系（學）	EU00		Modern History of Western  Education		2	0	50	選	◎限本系(含雙主修)修習	N	4843	洪仁進	二 6-7 和平 教室自排	
 114	1	5	0	大學入門			0	0		0SUG533	D	半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限機電系（學）選修	N	4844	程金保	三 3-4 和平 工501(TA501)	B3UG
-114	1	50	0	化學產業實習			0	0		CMU0211		半	2.0	化學系（學）	SU42		Chemical Industry Internship Program			0	0	選	◎加退選全授權碼選課	N	4845	許貫中 葉怡均	三 5-6 公館 教室自排, 四 5 公館 教室自排, 五 5 公館 教室自排	
-114	1	10	0	數位動畫創作研究 </br>[ 學分學程：科技藝術學程 ]			0	0		VDM0037		半	3.0	設計系（碩）	TM68		Studies of Digital Animation </br>[ Program: The Program of Digital Art and Technology ]			1	30	選	◎課程開放上修	N	4846	黃心健	一 2-4 和平 教404	
+114	1	50	-1	化學產業實習			0	1		CMU0211		半	2.0	化學系（學）	SU42		Chemical Industry Internship Program			0	0	選	◎加退選全授權碼選課	N	4845	許貫中 葉怡均	三 5-6 公館 教室自排, 四 5 公館 教室自排, 五 5 公館 教室自排	
+114	1	10	-1	數位動畫創作研究 </br>[ 學分學程：科技藝術學程 ]			0	1		VDM0037		半	3.0	設計系（碩）	TM68		Studies of Digital Animation </br>[ Program: The Program of Digital Art and Technology ]			1	30	選	◎課程開放上修	N	4846	黃心健	一 2-4 和平 教404	
+114	1	0	-2	教育概論（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			0	2		00UE001	D	半	2.0	師培學院	EU		Introduction to Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 可修	N	4847	葉坤靈	四 6-7 和平 教312	
+114	1	10	-1	供應鏈管理			0	1		IEM0429		半	2.0	工教系（碩）	HM70		Supply Chain Management			3	50	選	◎課程不開放上修	N	4848	陳麗妃	二 6-7 和平 研討二	
