@@ -5,6 +5,8 @@ export function useCourses() {
   const rowDatas = useState("rowDatas", () => ({}));
   const rowData = useState("rowData", () => []);
   const tempDatas = useState("tempDatas", () => ({}));
+  const denseDatas = useState("denseDatas", () => ({})); // key: term, value: dense data
+  const denseData = useState("denseData", () => ({})); // key: `{course_code}-{course_group}`, value: dense data
   const loading = useState("loading", () => true);
   const programSet = useState("programSet", () => new Set());
   const lastUpdate = useState("lastUpdate", () => ({}));
@@ -49,6 +51,7 @@ export function useCourses() {
       }
       currentLastUpdate.value = lastUpdate.value[currentTerm.value] || "unknown";
       loading.value = false;
+      denseData.value = denseDatas.value[currentTerm.value] || {};
       return;
     }
 
@@ -57,6 +60,8 @@ export function useCourses() {
     rowDatas.value[currentTerm.value] = rowData.value;
     await getLastUpdate();
     currentLastUpdate.value = lastUpdate.value[currentTerm.value] || "unknown";
+    await fetchDenseData();
+    denseDatas.value[currentTerm.value] = denseData.value;
   };
 
   const initTermData = async (route) => {
@@ -83,6 +88,13 @@ export function useCourses() {
     const data = await res.json();
     lastUpdate.value[currentTerm.value] = data.last_update;
   };
+
+  const fetchDenseData = async () => {
+    const res = await fetch(`/data/${currentTerm.value}/dense.json`);
+    if (!res.ok) return null;
+    const data = await res.json();
+    denseData.value = data;
+  }
 
   const courseFormatter = (course) => {
     const timeLoc = parseTimeInfo(course.time_inf);

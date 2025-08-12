@@ -35,14 +35,36 @@
           >{{ course.teacher }}</Message
         >
         <Message
+          v-if="course.time && course.time !== '◎密集課程'"
           icon="pi pi-clock"
           :severity="
             course.time.match(/.* (0|1)([-/\n\r]|$)/) ? 'warn' : 'secondary'
           "
           class="custom-message"
-          v-if="course.time"
           >{{ course.time }}</Message
         >
+        <Message
+          v-if="course.time == '◎密集課程'"
+          icon="pi pi-clock"
+          severity="warn"
+          class="custom-message"
+          style="cursor: pointer"
+          @click="toggle($event)"
+        >
+          <div style="text-decoration: underline">密集課程</div>
+        </Message>
+        <Popover ref="densePopover">
+          <span style="width: 20rem; white-space: nowrap">
+            <div
+              v-for="value in denseData[
+                `${course.course_code}-${course.course_group}`
+              ] || []"
+              :key="value"
+            >
+              {{ value.date }}: {{ value.time_location }}
+            </div>
+          </span>
+        </Popover>
         <Message
           icon="pi pi-map-marker"
           severity="secondary"
@@ -106,8 +128,7 @@
 </template>
 
 <script setup>
-import Message from "primevue/message";
-import Button from "primevue/button";
+import { Message, Button, Popover } from "primevue";
 
 defineProps({
   course: {
@@ -131,6 +152,14 @@ const generalCoreMap = {
   B3UG: "大學入門",
   C1UG: "專題探究",
   C2UG: "MOOCs",
+};
+
+const densePopover = ref(null);
+const denseData = useState("denseData", () => ({}));
+const toggle = (e) => {
+  if (densePopover.value) {
+    densePopover.value.toggle(e);
+  }
 };
 </script>
 
