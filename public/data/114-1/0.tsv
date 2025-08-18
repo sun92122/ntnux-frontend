@@ -184,7 +184,7 @@
 114	1	10	-2	排球（一）			49	51		FPU0243		半	2.0	競技系（學）	AU32		Volleyball (I)		2	0	50	選		N	0184	張恩崇	五 3-4 公館 體育館二3樓	
 114	1	10	-9	羽球（一）			49	58		FPU0245		半	2.0	競技系（學）	AU32		Badminton (I)		2	0	50	選		N	0185	李建興	二 3-4 公館 中正堂	
 114	1	10	-10	桌球（一）			36	46		FPU0248		半	2.0	競技系（學）	AU32		Table Tennis (I)		2	0	50	選		N	0186	林岱樵	四 1-2 和平 桌球室	
-114	1	10	-13	運動生物力學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			56	69		FPU0016		半	2.0	競技系（學）	AU32		Sports Biomechanics </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		3	0	50	必		N	0187	劉錦璋	一 3-4 公館 體育館二3樓會議室	
+114	1	10	-13	運動生物力學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			55	68		FPU0016		半	2.0	競技系（學）	AU32		Sports Biomechanics </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		3	0	50	必		N	0187	劉錦璋	一 3-4 公館 體育館二3樓會議室	
 114	1	10	-2	教練心理學			10	12		FPU0037		半	2.0	競技系（學）	AU32		Coaching Psychology		3	0	50	選		N	0188	梁嘉音	二 3-4 公館 Ｓ501	
 114	1	10	-1	身體素質訓練法 </br>[ 學分學程：肌力與體能學程 ]			9	10		FPU0065		半	2.0	競技系（學）	AU32		Physical Characteristics Training </br>[ Program: The Program of Strength and Conditioning ]		3	0	50	選		N	0189	蔡於儒	一 6-7 公館 Ｓ204	
 114	1	10	-15	網球（一）			46	61		FPU0246		半	2.0	競技系（學）	AU32		Tennis (I)		3	0	50	選		N	0190	林岱樵	五 6-7 公館 網球場二	
@@ -710,7 +710,7 @@
 114	1	10	-1	社會教育概論			1	2		SOU0042		半	3.0	社教系（學）	EU02		Introduction to Social Education		1	0	50	必	◎限本系(含雙主修)修習◎限大一修習	N	0716	廖世璋	五 7-9 和平 誠208	
 114	1	10	0	行政管理學 </br>[ 學分學程：社團領導學程 ]			0	0		SOU0056		半	2.0	社教系（學）	EU02		Administration and Management </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		1	0	50	選	◎限本系(含雙主修)修習◎限大一修習	N	0717	鄭勝分	二 3-4 和平 誠302	
 114	1	10	0	故事創作			0	0		SOU0116		半	2.0	社教系（學）	EU02		Story Writing		1	2	50	選	◎限本系(含雙主修)修習◎限大一修習	N	0718	曹仕翰	四 8-9 和平 誠208	
-114	1	10	-8	社會科學研究法			54	62		SOU0047		半	3.0	社教系（學）	EU02		Research Method of Social Science		2	0	50	必		N	0719	林玉鵬	四 2-4 和平 誠302	
+114	1	10	-8	社會科學研究法			53	61		SOU0047		半	3.0	社教系（學）	EU02		Research Method of Social Science		2	0	50	必		N	0719	林玉鵬	四 2-4 和平 誠302	
 114	1	10	-4	非營利組織導論			52	56		SOU0063		半	2.0	社教系（學）	EU02		Introduction to Non-Profit Organizations		2	0	50	必		N	0720	鄭勝分	三 6-7 和平 誠208	
 114	1	10	-5	網站設計與多媒體應用			29	34		SOU0071		半	2.0	社教系（學）	EU02		Website Design and Multimedia Application		2	0	50	選		N	0721	萬岳憲	三 A-B 和平 誠205	
 114	1	10	-3	文教採訪報導與應用			45	48		SOU0095		半	2.0	社教系（學）	EU02		News Report on Cultural and Educational Events		2	2	50	選		N	0722	詹婉如	一 A-B 和平 誠401	
@@ -726,7 +726,7 @@
 114	1	10	-19	文化機構實習			2	21		SOU0110		半	2.0	社教系（學）	EU02		Practicum: Cultural Institutions		4	0	50	必		N	0732	徐敏雄 郭郡羽	六 10-C 和平 教710	
 114	1	10	-8	文化行銷			38	46		SOU0125		半	2.0	社教系（學）	EU02		Culture Marketing and Marketing Culture		4	0	50	選		N	0733	徐凱玲	一 3-4 和平 誠108	
 114	1	10	-2	整合行銷傳播			26	28		SOU0126		半	2.0	社教系（學）	EU02		Integrated Marketing Communication		4	0	50	選	◎必須先修過【SOU0121  社會行銷】	N	0734	林鴻洲	二 3-4 和平 正202	
-114	1	10	-3	公共衛生教育實習		暑假時學生將會到各機關開始實習	26	29		HEU0029		半	2.0	衛教系（學）	EU05		Public Health Education Practice			0	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0155  健康促進與衛生教育計畫】、【HEU0028  公共衛生教育】	N	0735	吳文琪	六 1-4 和平 衛教系會議室	
+114	1	10	-3	公共衛生教育實習		暑假時學生將會到各機關開始實習	24	27		HEU0029		半	2.0	衛教系（學）	EU05		Public Health Education Practice			0	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0155  健康促進與衛生教育計畫】、【HEU0028  公共衛生教育】	N	0735	吳文琪	六 1-4 和平 衛教系會議室	
 114	1	15	0	學校健康服務專題研討	9		8	8		HEC9005		半	2.0	衛教系（學）	EU05		Seminar on School Health Services			1	50	選		N	0736	高松景	四 3-4 和平 正103	
 114	1	15	-3	應用統計學	9		4	7		HEC9007		半	2.0	衛教系（學）	EU05		Applied Statistics	是		1	50	選		N	0737	朱妮明	二 6-7 和平 正103	
 114	1	15	-3	衛生法規與倫理	9		26	29		HEC9008		半	2.0	衛教系（學）	EU05		Health Law and Ethics			1	50	必		N	0738	李銘杰	五 3-4 和平 正104	
@@ -734,13 +734,13 @@
 114	1	15	-1	健康促進與衛生教育導論			2	3		HEU0156		半	2.0	衛教系（學）	EU05		Introduction to Health Promotion and Health Education		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0740	張鳳琴	一 6-7 和平 正103	
 114	1	15	-1	人體解剖生理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]			2	3		HEU0179		半	3.0	衛教系（學）	EU05		Human Anatomy and Physiology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0741	王淑慧	一 2-4 和平 正103	
 114	1	15	0	醫務管理			0	0		HEU0190		半	2.0	衛教系（學）	EU05		Healthcare Management		1	1	50	選	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0742	張芳維	一 8-9 和平 正103	
-114	1	15	-1	微生物學			33	34		HEU0009		半	2.0	衛教系（學）	EU05		Microbiology		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0743	賴韻如	二 8-9 公館 Ｂ101	
-114	1	15	-7	營養學 </br>[ 學分學程：肌力與體能學程 ]			33	40		HEU0012		半	2.0	衛教系（學）	EU05		Nutrition </br>[ Program: The Program of Strength and Conditioning ]		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0744	李銘杰	一 8-9 和平 正104	
-114	1	15	-4	流行病學 </br>[ 學分學程：空間學程 ]			43	47		HEU0017		半	3.0	衛教系（學）	EU05		Epidemiology </br>[ Program: The Program of Geospatial Information Science ]		2	0	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0181  生物統計學】	N	0745	連盈如	四 2-4 和平 正104	
+114	1	15	-1	微生物學			32	33		HEU0009		半	2.0	衛教系（學）	EU05		Microbiology		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0743	賴韻如	二 8-9 公館 Ｂ101	
+114	1	15	-7	營養學 </br>[ 學分學程：肌力與體能學程 ]			32	39		HEU0012		半	2.0	衛教系（學）	EU05		Nutrition </br>[ Program: The Program of Strength and Conditioning ]		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0744	李銘杰	一 8-9 和平 正104	
+114	1	15	-4	流行病學 </br>[ 學分學程：空間學程 ]			42	46		HEU0017		半	3.0	衛教系（學）	EU05		Epidemiology </br>[ Program: The Program of Geospatial Information Science ]		2	0	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】、【HEU0181  生物統計學】	N	0745	連盈如	四 2-4 和平 正104	
 114	1	3	-3	健康傳播導論			28	31		HEU0118		半	2.0	衛教系（學）	EU05		Introduction to Health Communication		2	1	35	選		N	0746	李錟鋒	四 10-A 和平 教403	
 114	1	15	-13	老人學概論			11	24		HEU0131		半	2.0	衛教系（學）	EU05		Introduction of gerontology		2	1	50	選		N	0747	張家臻	三 6-7 和平 正104	
-114	1	15	-2	衛生與福利政策導論			31	33		HEU0144		半	2.0	衛教系（學）	EU05		Introduction to Health and Welfare Policy		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0748	張鳳琴	一 3-4 和平 正104	
-114	1	15	-3	健康促進與衛生教育研究法			38	41		HEU0159		半	2.0	衛教系（學）	EU05		Research Methods in Health Promotion and Health Education		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0749	李思賢	二 3-4 和平 正104	
+114	1	15	-2	衛生與福利政策導論			30	32		HEU0144		半	2.0	衛教系（學）	EU05		Introduction to Health and Welfare Policy		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0748	張鳳琴	一 3-4 和平 正104	
+114	1	15	-3	健康促進與衛生教育研究法			37	40		HEU0159		半	2.0	衛教系（學）	EU05		Research Methods in Health Promotion and Health Education		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0749	李思賢	二 3-4 和平 正104	
 114	1	15	-3	性教育			21	24		HEU0014		半	3.0	衛教系（學）	EU05		Sexuality Education		3	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0750	高松景	三 8-10 和平 正104	
 114	1	15	-4	環境衛生			31	35		HEU0015		半	2.0	衛教系（學）	EU05		Environmental Health		3	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0751	曾治乾	四 6-7 和平 正103	
 114	1	5	-1	環境衛生實驗			7	8		HEU0016	A	半	1.0	衛教系（學）	EU05		Environmental Health Laboratory	是	3	0	30	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0752	曾治乾	一 2-4 和平 誠504	
@@ -781,11 +781,11 @@
 114	1	10	0	人類發展			1	1		HGU0004		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Human Development		1	0	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0787	陳虹仰	四 6-8 和平 誠204	
 114	1	10	-3	家庭生活教育概論			2	5		HGU0233		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Introduction to Family Life Education		1	0	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0788	黃淑滿	四 2-4 和平 正203	
 114	1	10	-2	營養學導論 </br>[ 學分學程：肌力與體能學程 ]			0	2		HGU0236		半	2.0	幼家科學系（學）	EU06	家庭生活教育組	Introduction to Nutrition </br>[ Program: The Program of Strength and Conditioning ]		1	0	50	選	◎限本系(含雙主修)修習◎限大一修習	N	0789	徐欣億	一 3-4 和平 誠206	
-114	1	10	-6	家庭資源與管理			40	46		HGU0020		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Family Resources and Management		2	0	50	必	◎必須先修過【HGU0233  家庭生活教育概論】	N	0790	魏秀珍	一 6-8 和平 誠206	
-114	1	10	-3	婚姻與家人關係			48	51		HGU0318		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Marriage and Family Relations		2	0	50	必	◎必須先修過【HGU0191  家庭發展】	N	0791	陳虹仰	二 2-4 和平 誠207	
+114	1	10	-6	家庭資源與管理			39	45		HGU0020		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Family Resources and Management		2	0	50	必	◎必須先修過【HGU0233  家庭生活教育概論】	N	0790	魏秀珍	一 6-8 和平 誠206	
+114	1	10	-3	婚姻與家人關係			47	50		HGU0318		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Marriage and Family Relations		2	0	50	必	◎必須先修過【HGU0191  家庭發展】	N	0791	陳虹仰	二 2-4 和平 誠207	
 114	1	10	-17	老人與家庭 </br>[ 學分學程：高齡學程 ]			48	65		HGU0321		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	The Elderly and Family </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		2	0	50	選		N	0792	吳志文	四 2-4 和平 誠207	
-114	1	10	-4	家庭社會學			33	37		HGU0019		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Family Sociology		3	0	50	必	◎必須先修過【HGU0191  家庭發展】	N	0793	聶西平	五 2-4 和平 誠207	
-114	1	10	-5	家庭生活教育方案設計			31	36		HGU0237		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Program Design of Family Life Education		3	0	50	必	◎必須先修過【HGU0191  家庭發展】、【HGU0233  家庭生活教育概論】	N	0794	黃淑滿	二 2-4 和平 誠206	
+114	1	10	-4	家庭社會學			32	36		HGU0019		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Family Sociology		3	0	50	必	◎必須先修過【HGU0191  家庭發展】	N	0793	聶西平	五 2-4 和平 誠207	
+114	1	10	-5	家庭生活教育方案設計			30	35		HGU0237		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Program Design of Family Life Education		3	0	50	必	◎必須先修過【HGU0191  家庭發展】、【HGU0233  家庭生活教育概論】	N	0794	黃淑滿	二 2-4 和平 誠206	
 114	1	7	-4	服裝結構與製作（二）			7	11		HGU0268		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Clothing Construction (II)		3	0	18	選	◎必須先修過【HGU0267  服裝結構與製作（一）】	N	0795	楊翠竹	一 1-4 和平 勤101	
 114	1	10	-11	烘焙學			16	27		HGU0167		半	2.0	幼家科學系（學）	EU06	家庭生活教育組	Baking		4	0	30	選	◎必須先修過【HGU0010  食物製備】	N	0796	宋慧娟	五 1-4 和平 勤001	
 114	1	10	-5	婚姻教育			32	37		HGU0338		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Marriage Education		4	0	50	必	◎必須先修過【HGU0237  家庭生活教育方案設計】	N	0797	陳翠臻	四 6-8 和平 誠206	
@@ -933,7 +933,7 @@
 114	1	0	-124	鑑識科學概論			96	220		03UG031		半	2.0	通識	GU		Introduction to Forensic Sciences			0	120	通		N	0939	李承龍	三 8-9 和平 教201演講廳	A2UG
 114	1	10	-50	管理學入門			48	98		03UG041	A	半	2.0	通識	GU		Introduction to Management			0	60	通	◎企管系（學）不得選修	N	0940	廖仁傑	二 6-7 和平 誠102	A2UG/B2UG
 114	1	10	-78	管理學入門			47	125		03UG041	B	半	2.0	通識	GU		Introduction to Management			0	60	通	◎企管系（學）不得選修	N	0941	廖仁傑	三 6-7 和平 誠302	A2UG/B2UG
-114	1	10	-93	科技產業營業秘密保護與智慧財產權			27	120		03UG042		半	2.0	通識	GU		Trade Secret Protection and Intellectual Property Rights of Technology Industry			0	100	通		N	0942	劉傳璽	五 6-7 和平 綜509國際會議廳	A2UG
+114	1	10	-93	科技產業營業秘密保護與智慧財產權			26	119		03UG042		半	2.0	通識	GU		Trade Secret Protection and Intellectual Property Rights of Technology Industry			0	100	通		N	0942	劉傳璽	五 6-7 和平 綜509國際會議廳	A2UG
 114	1	1	-17	當代社會與文化關鍵議題			10	27		03UG045	A	半	2.0	通識	GU		Key Issues of Contemporary Society and Culture	是		2	50	通		N	0943	何家騏	三 3-4 和平 誠305	A2UG
 114	1	0	-66	當代社會與文化關鍵議題			42	108		03UG045	B	半	2.0	通識	GU		Key Issues of Contemporary Society and Culture	是		0	49	通		N	0944	范俊銘	四 10-A 公館 Ｓ204	A2UG
 114	1	3	-19	生活中的SDGs </br>[ 學分學程：環境人文學程 ]			20	39		03UG047		半	2.0	通識	GU		SDGs in Daily Life </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		1	50	通		N	0945	蘇淑娟	三 3-4 和平 誠304	A2UG

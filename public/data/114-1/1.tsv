@@ -24,7 +24,7 @@
 114	1	10	-169	個人投資理財			142	311		0AUG462		半	2.0	通識	GU		Personal Finance			0	170	通		N	1022	朱文增	三 3-4 和平 教201演講廳	A2UG
 114	1	10	-83	休閒與生活 </br>[ 學分學程：肌力與體能學程 ]			41	124		0AUG463		半	2.0	通識	GU		Leisure in Our Daily Life </br>[ Program: The Program of Strength and Conditioning ]			0	50	通		N	1023	李晶	三 3-4 和平 誠203	A2UG
 114	1	10	-4	學術寫作			5	9		0HUG011		半	2.0	通識	GU		Academic Writing			1	50	通		N	1024	謝秀卉	二 3-4 和平 樸306	A1UG
-114	1	10	-61	樂府詩與人生			28	89		0HUG249		半	2.0	通識	GU		Yuefu Poems and Life			0	135	通	◎國文系（學）不得選修	N	1025	林淑雲	一 6-7 和平 誠101	A1UG
+114	1	10	-61	樂府詩與人生			27	88		0HUG249		半	2.0	通識	GU		Yuefu Poems and Life			0	135	通	◎國文系（學）不得選修	N	1025	林淑雲	一 6-7 和平 誠101	A1UG
 114	1	10	-19	元宇宙敘事導論 </br>[ 學分學程：元宇宙學程 ]			14	33		0HUG253		半	2.0	通識	GU		Introduction to Metaverse Narrative </br>[ Program: The Program of Metaverse Narrative ]			2	50	通		N	1026	羅凡晸 曹筱玥	三 3-4 和平 教401	A1UG
 114	1	10	-33	莎士比亞的故事			46	79		0HUG432		半	2.0	通識	GU		Shakespeare			0	70	通		N	1027	蘇子中	二 6-7 和平 誠202	A1UG/B2UG
 114	1	5	-30	大腦中的語言：心理語言學入門			11	41		0HUG450		半	2.0	通識	GU		Language inside Our Heads: An Introduction to Psycholinguistics	是		0	50	通		N	1028	颯楊	三 8-9 和平 誠305	A1UG
@@ -296,11 +296,11 @@
 114	1	10	-9	自動控制			57	66		MTU0028		半	3.0	機電系（學）	HU73	　	Automatic Control Engineering		3	0	60	必	◎必須先修過【MTU0009  工程數學（一）】	N	1301	陳美勇	二 2-4 和平 誠203	
 114	1	10	-7	自動控制實驗			28	35		MTU0106	A	半	1.0	機電系（學）	HU73	　	Experiments of Automatic Control		3	0	30	必	◎必須先修過【MTU0009  工程數學（一）】	N	1302	辜漢文	五 2-4 和平 CAD/CAM	
 114	1	10	-3	自動控制實驗			12	15		MTU0106	B	半	1.0	機電系（學）	HU73	　	Experiments of Automatic Control		3	0	30	必	◎必須先修過【MTU0009  工程數學（一）】	N	1303	辜漢文	五 7-9 和平 CAD/CAM	
-114	1	10	0	機構學			39	39		MTU0025		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanisms		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1304	陳美勇	五 A-C 和平 機202會議室	
-114	1	10	-1	材料力學			31	32		MTU0026		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanics of Materials		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1305	鄭淳護	六 2-4 和平 誠207	
-114	1	3	-2	電腦輔助製造			29	31		MTU0103		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Computer-Aided Manufacturing		3	0	30	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1306	趙甦農	六 6-8 和平 教403	
-114	1	10	0	產業實務			33	33		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1307	程金保 陳美勇		
-114	1	10	0	產業實務專題研討			33	33		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1308	程金保 陳美勇		
+114	1	10	0	機構學			38	38		MTU0025		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanisms		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1304	陳美勇	五 A-C 和平 機202會議室	
+114	1	10	-1	材料力學			30	31		MTU0026		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Mechanics of Materials		3	0	50	必	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1305	鄭淳護	六 2-4 和平 誠207	
+114	1	3	-2	電腦輔助製造			28	30		MTU0103		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Computer-Aided Manufacturing		3	0	30	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1306	趙甦農	六 6-8 和平 教403	
+114	1	10	0	產業實務			32	32		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1307	程金保 陳美勇		
+114	1	10	0	產業實務專題研討			32	32		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1308	程金保 陳美勇		
 114	1	20	-1	數位系統			0	1		AEU0003		半	3.0	電機系（學）	HU75		Digital Systems		1	0	120	必	◎限大一修習	N	1309	林政宏	一 7-9 和平 綜202演講廳	
 114	1	5	-2	計算機概論			0	2		AEU0005	A	半	3.0	電機系（學）	HU75		Introduction to Computer Science	是	1	0	35	必	◎限大一修習	N	1310	呂成凱	四 2-4 和平 多媒體與通訊實驗室	
 114	1	5	0	計算機概論			0	0		AEU0005	B	半	3.0	電機系（學）	HU75		Introduction to Computer Science	是	1	0	35	必	◎限大一修習	N	1311	呂成凱	四 7-9 和平 多媒體與通訊實驗室	
@@ -344,8 +344,8 @@
 114	1	10	0	能源科技概論 </br>[ 學分學程：太陽能源與工程學程 ]			0	0		VEU0002		半	2.0	車能學位學程（學）	HU76		Introduction to Energy Technology </br>[ Program: The Program of Solar Energy Engineering ]		1	5	50	必	◎限大一修習	N	1350	林煜軒	四 3-4 和平 工教系會議室	
 114	1	10	0	電路學（一） </br>[ 學分學程：太陽能源與工程學程 ]			0	0		VEU0003		半	3.0	車能學位學程（學）	HU76		Electric Circuits (I) </br>[ Program: The Program of Solar Energy Engineering ]		1	5	50	必	◎限大一修習	N	1351	白凱仁	一 6-8 和平 汽車工場B101	
 114	1	10	0	電路學實驗			0	0		VEU0004		半	3.0	車能學位學程（學）	HU76		Electrical Circuits Experiment	是	1	0	50	必	◎限大一修習	N	1352	劉華棟	四 6-9 和平 電機與感測實驗室	
-114	1	10	-16	工程數學（一） </br>[ 學分學程：太陽能源與工程學程 ]			50	66		VEU0010		半	3.0	車能學位學程（學）	HU76		Engineering Mathematics (I) </br>[ Program: The Program of Solar Energy Engineering ]		2	5	50	必		N	1353	洪翊軒	四 6-8 和平 工501(TA501)	
-114	1	10	-3	熱力學（一）			28	31		VEU0011		半	3.0	車能學位學程（學）	HU76		Thermo-Dynamics (I)	是	2	5	50	必		N	1354	陳韋任	二 2-4 和平 汽車工場B101	
+114	1	10	-16	工程數學（一） </br>[ 學分學程：太陽能源與工程學程 ]			49	65		VEU0010		半	3.0	車能學位學程（學）	HU76		Engineering Mathematics (I) </br>[ Program: The Program of Solar Energy Engineering ]		2	5	50	必		N	1353	洪翊軒	四 6-8 和平 工501(TA501)	
+114	1	10	-3	熱力學（一）			27	30		VEU0011		半	3.0	車能學位學程（學）	HU76		Thermo-Dynamics (I)	是	2	5	50	必		N	1354	陳韋任	二 2-4 和平 汽車工場B101	
 114	1	10	-5	自動控制			22	27		VEU0014		半	3.0	車能學位學程（學）	HU76		Automatic Control Engineering		3	5	50	必		N	1355	陳美勇	四 6-8 和平 汽車工場B101	
 114	1	10	-1	專題研究（一）			27	28		VEU0069		半	2.0	車能學位學程（學）	HU76		Special Topics (I)	是	3	0	50	必		N	1356	洪翊軒 陳韋任 白凱仁 張俊興 劉華棟 林煜軒	六 6-7 和平 汽車工場B101	
 114	1	10	-1	幾何光學	9		20	21		OEC9001		半	3.0	光電學位學程（學）	HU77		Geometrical Optics			5	50	必		N	1357	邱爾德	一 2-4 公館 Ｓ407	
@@ -644,7 +644,7 @@
 114	1	10	-2	社會語言學研討	8	The classroom is located on the 2nd floor of Yunhe Building (Address: No. 1 Yunhe Street). Students from other departments and universities will need to request building access.	3	5		ENC2061		半	3.0	英語系（碩）	LM21		Studies in Sociolinguistics	是		1	50	選	◎必須先修過【ENC2026  社會語言學】 ◎課程不開放上修	N	1650	蘇席瑤	一 7-9 和平 雲201	
 114	1	10	0	語言測驗與評量	8		4	4		ENC3029		半	3.0	英語系（碩）	LM21		Language Testing and Measurement	是		1	50	選	◎課程不開放上修	N	1651	張武昌	三 7-9 和平 誠701B	
 114	1	10	-3	英語科課程設計與教材評估	8		17	20		ENC3033		半	3.0	英語系（碩）	LM21		EFL Course Design and Evaluation of Teaching Materials	是		1	50	選	◎課程不開放上修	N	1652	曾琦芬	二 7-9 和平 誠701B	
-114	1	10	-2	外語習得	8		17	19		ENC3035		半	3.0	英語系（碩）	LM21		Second/Foreign Language Acquisition	是		1	50	選	◎課程不開放上修	N	1653	劉宇挺	一 2-4 和平 誠701A	
+114	1	10	-2	外語習得	8		16	18		ENC3035		半	3.0	英語系（碩）	LM21		Second/Foreign Language Acquisition	是		1	50	選	◎課程不開放上修	N	1653	劉宇挺	一 2-4 和平 誠701A	
 114	1	10	-2	閱讀與寫作教學：理論與實務	8		18	20		ENC3038		半	3.0	英語系（碩）	LM21		Teaching Reading and Writing in ESL/EFL Contexts	是		1	50	選	◎課程不開放上修	N	1654	陳秋蘭	三 2-4 和平 誠701A	
 114	1	10	-5	歷史學研究法（一）		本課程為碩二必修課程，碩二以下勿修習。	17	22		HIM0133		半	2.0	歷史系（碩）	LM22		Seminar in Research Methods of Historiography (I)			0	50	必	◎課程不開放上修	N	1655	楊彥彬	一 3-4 和平 歷史系研究生第1教室	
 114	1	10	0	隋唐史專題研究	8		5	5		HIC0021		半	3.0	歷史系（碩）	LM22		Special Topics in Sui,Tang History			3	50	選	◎課程不開放上修	N	1656	陳登武	三 3-5 和平 歷史系研究生第2教室	
@@ -823,7 +823,7 @@
 114	1	10	-1	英語聽講（一）	1		0	1		ENU0279		半	2.0	英語系（學）	LU21		Basic Aural-Oral Training in English (I)	是	1	0	40	選	◎限本系(含雙主修)修習◎限大一修習	N	1830	許月貴	一 6-7 和平 誠701B	
 114	1	10	-4	英語聽講（一）	2		0	4		ENU0279		半	2.0	英語系（學）	LU21		Basic Aural-Oral Training in English (I)	是	1	0	40	選	◎限本系(含雙主修)修習◎限大一修習	N	1831	吳靜蘭	一 6-7 和平 誠701A	
 114	1	10	-4	女性文學			10	14		ENU0146		半	3.0	英語系（學）	LU21		Literature by Women	是	2	0	50	選		N	1832	戴宇呈	三 6-8 和平 誠304	
-114	1	10	-6	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	31	37		ENU0150	A	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1833	李宜倩	四 6-7 和平 誠304	
+114	1	10	-6	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	30	36		ENU0150	A	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1833	李宜倩	四 6-7 和平 誠304	
 114	1	10	-8	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	37	45		ENU0150	B	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1834	劉宇挺	一 6-7 和平 誠304	
 114	1	10	-15	英語教學概論 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	34	49		ENU0150	C	半	2.0	英語系（學）	LU21		Introduction to TEFL </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1835	羅美蘭	二 3-4 和平 誠304	
 114	1	10	-5	英語字根研究			22	27		ENU0205		半	3.0	英語系（學）	LU21		Classical Roots in English	是	2	1	50	選		N	1836	陳乃嫻	一 2-4 和平 正302	
@@ -843,7 +843,7 @@
 114	1	10	-3	談判英文與溝通			17	20		ENU0343		半	3.0	英語系（學）	LU21		English for Negotiation and Communication	是	2	0	50	選		N	1851	孔繁偉	二 6-8 和平 正305	
 114	1	10	-36	文法與修辭 </br>[ 學分學程：科技化教學產業學程 ]			50	86		ENU6025	A	半	3.0	英語系（學）	LU21		Grammar & Rhetoric </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1852	丁仁	五 3-5 和平 誠305	
 114	1	10	-9	文法與修辭 </br>[ 學分學程：科技化教學產業學程 ]		建議修習輔系第一年時選修	14	23		ENU6025	B	半	3.0	英語系（學）	LU21		Grammar & Rhetoric </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1853	丁仁	五 6-8 和平 誠305	
-114	1	0	-13	英語演講：演說技巧	1		28	41		ENU0217	A	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1854	孔繁偉	四 8-9 和平 正306	
+114	1	0	-13	英語演講：演說技巧	1		27	40		ENU0217	A	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1854	孔繁偉	四 8-9 和平 正306	
 114	1	0	-14	英語演講：演說技巧	1		8	22		ENU0217	B	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1855	曾思旭	四 8-9 和平 正304	
 114	1	10	-11	語言學概論（一） </br>[ 學分學程：客語學程 科技化教學產業學程 ]	1	建議大二以上選修	50	61		ENU0259		半	2.0	英語系（學）	LU21		Introduction to Linguistics (I) </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]	是	2	3	50	必		N	1856	李臻儀	一 6-7 和平 誠305	
 114	1	10	-13	英國文學：中古時期至十八世紀（一）	1		47	60		ENU0291		半	2.0	英語系（學）	LU21		English Literature: Medieval Period to the Eighteenth Century (I)	是	2	0	50	選		N	1857	楊志偉	一 8-9 和平 誠304	
