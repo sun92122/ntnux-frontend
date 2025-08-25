@@ -1,97 +1,97 @@
 ﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
-114	1	3	0	藝術創作與程式設計			42	42		05UG033		半	2.0	通識	GU		Fine Arts and Programming			1	50	通		N	1000	謝諭	三 3-4 和平 正202	A4UG
-114	1	3	0	網頁程式設計入門			32	32		05UG034		半	2.0	通識	GU		Introduction to Web Programming			0	37	通		N	1001	周遵儒	三 9-10 和平 綜1001	A4UG
-114	1	8	0	SQL與資料庫設計			23	23		05UG036		半	2.0	通識	GU		Structured Query Language (SQL) and Database Design			1	50	通		N	1002	劉建成	五 3-4 和平 教402	A4UG
-114	1	3	0	Python程式設計入門		◎臺語      授課	42	42		05UG037		半	2.0	通識	GU		Introduction to Python Programming			5	50	通		N	1003	黃浩霆	一 6-7 和平 誠307	A4UG
-114	1	6	0	生成式AI實務應用 </br>[ 學分學程：元宇宙學程 ]			76	76		05UG038		半	2.0	通識	GU		Practical Applications of Generative AI </br>[ Program: The Program of Metaverse Narrative ]			3	90	通		N	1004	尹相志	三 3-4 和平 誠201	A4UG
-114	1	0	0	人工智慧與日常生活			18	18		05UG039		半	2.0	通識	GU		AI and Everyday Life	是		0	102	通		N	1005	陳立新	三 6-7 和平 誠102	A2UG
-114	1	40	0	星星月亮太陽－天文漫談 </br>[ 學分學程：天文重力學程 ]			58	58		06UG004		半	2.0	通識	GU		Introduction to Astronomy </br>[ Program: The Program of  Astronomy and Gravitation ]	是		25	97	通	◎地科系（學）不得選修	N	1006	橋本康弘	三 3-4 公館 Ｅ202	A3UG
-114	1	10	0	奈米科技			42	42		06UG005	A	半	2.0	通識	GU		Nano Technology			0	50	通		N	1007	鄭淳護	一 3-4 和平 誠102	A3UG/B2UG
-114	1	10	0	奈米科技			127	127		06UG005	B	半	2.0	通識	GU		Nano Technology			0	150	通		N	1008	郭金國	五 3-4 和平 教201演講廳	A3UG/B2UG
-114	1	10	0	環境倫理與永續發展 </br>[ 學分學程：理工實作學程 ]			76	76		06UG006		半	2.0	通識	GU		Environmental Ethics and Sustainable Development </br>[ Program: The Program of STEM Innovation and Practices ]			0	90	通		N	1009	李清安	三 8-9 和平 誠102	A3UG
-114	1	5	0	生活中的化學 </br>[ 學分學程：科技化教學產業學程 ]		主要以客語授課	42	42		06UG007		半	2.0	通識	GU		Life with Chemistry </br>[ Program: The Program of Technology-assisted Teaching Industry ]			0	50	通		N	1010	宋蕙伶	二 6-7 和平 誠204	A3UG
-114	1	20	0	植物與人生			59	59		06UG009		半	2.0	通識	GU		Plants and Human Life			0	70	通		N	1011	趙怡姍	三 3-4 公館 Ｓ101	A3UG
-114	1	4	0	資訊科技與生活 </br>[ 學分學程：高齡學程 ]			42	42		06UG012	A	半	2.0	通識	GU		Information Technology and the Way of Life </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]			0	50	通		N	1012	劉建成	一 3-4 和平 誠104	A4UG
-114	1	4	0	資訊科技與生活 </br>[ 學分學程：高齡學程 ]			42	42		06UG012	B	半	2.0	通識	GU		Information Technology and the Way of Life </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]			0	50	通		N	1013	劉建成	一 6-7 和平 誠104	A4UG
-114	1	0	0	科技與人文的對話		最營養的通識課，包山包海，保證收穫滿滿。	85	85		06UG014		半	2.0	通識	GU		Dialogue between Technology and Humanity			0	100	通		N	1014	王銀國	三 3-4 和平 誠101	A3UG
-114	1	30	0	宇宙中的生命與太空環境 </br>[ 學分學程：天文重力學程 ]		◎數位課程 All distance learning courses display synchronous learning and face-to-face learning time only.	52	52		06UG021		半	2.0	通識	GU		Life in the Universe and the Space Environments </br>[ Program: The Program of  Astronomy and Gravitation ]	是		30	97	通		1	1015	橋本康弘	◎面授/同步	A3UG
-114	1	10	0	汽車與生活			42	42		06UG025		半	2.0	通識	GU		Vehicle and Life			0	50	通		N	1016	張俊興	四 3-4 和平 工401	A3UG
-114	1	20	0	音樂概論			45	45		0AUG203		半	2.0	通識	GU		Introduction to Music			0	65	通	◎音樂系（學）不得選修	N	1017	吳佩蓉	三 3-4 和平 音308	A1UG
-114	1	10	0	心理學 </br>[ 學分學程：人社學程 肌力與體能學程 音樂輔教學程 ]		中文授課	42	42		0AUG402		半	2.0	通識	GU		Psychology </br>[ Program: Human Services and Social Work Credit Program The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1018	楊諮燕	四 3-4 和平 誠202	A2UG/B1UG
-114	1	0	0	健康與生活			51	51		0AUG408		半	2.0	通識	GU		Health and Life			0	60	通		N	1019	黃玫瑄	四 3-4 和平 誠301	A3UG
-114	1	10	0	歷史與人物			43	43		0AUG435		半	2.0	通識	GU		History and Personage			0	50	通		N	1020	陳健文	二 6-7 和平 誠401	A1UG
-114	1	0	0	聖經與人生			42	42		0AUG442		半	2.0	通識	GU		The Bible and Human Life	是		0	49	通		N	1021	范俊銘	四 B-C 公館 Ｓ204	A1UG
-114	1	10	0	個人投資理財			144	144		0AUG462		半	2.0	通識	GU		Personal Finance			0	170	通		N	1022	朱文增	三 3-4 和平 教201演講廳	A2UG
-114	1	10	0	休閒與生活 </br>[ 學分學程：肌力與體能學程 ]			42	42		0AUG463		半	2.0	通識	GU		Leisure in Our Daily Life </br>[ Program: The Program of Strength and Conditioning ]			0	50	通		N	1023	李晶	三 3-4 和平 誠203	A2UG
-114	1	10	0	學術寫作			9	9		0HUG011		半	2.0	通識	GU		Academic Writing			1	50	通		N	1024	謝秀卉	二 3-4 和平 樸306	A1UG
-114	1	10	0	樂府詩與人生			81	81		0HUG249		半	2.0	通識	GU		Yuefu Poems and Life			0	135	通	◎國文系（學）不得選修	N	1025	林淑雲	一 6-7 和平 誠101	A1UG
-114	1	10	0	元宇宙敘事導論 </br>[ 學分學程：元宇宙學程 ]			29	29		0HUG253		半	2.0	通識	GU		Introduction to Metaverse Narrative </br>[ Program: The Program of Metaverse Narrative ]			2	50	通		N	1026	羅凡晸 曹筱玥	三 3-4 和平 教401	A1UG
-114	1	10	0	莎士比亞的故事			59	59		0HUG432		半	2.0	通識	GU		Shakespeare			0	70	通		N	1027	蘇子中	二 6-7 和平 誠202	A1UG/B2UG
-114	1	5	0	大腦中的語言：心理語言學入門			36	36		0HUG450		半	2.0	通識	GU		Language inside Our Heads: An Introduction to Psycholinguistics	是		0	50	通		N	1028	颯楊	三 8-9 和平 誠305	A1UG
-114	1	10	0	日語（一）		1.日語母語者不可修本課程  2.不接受旁聽  3.只限三校聯盟選課。	51	51		0HUG501	A	半	2.0	通識	GU		Beginning Japanese			0	60	通		N	1029	張怡倩	二 3-4 公館 理圖003	A1UG
-114	1	10	0	日語（一）		1.日語母語者不可修本課程  2.不接受旁聽  3.只限三校聯盟選課。	51	51		0HUG501	B	半	2.0	通識	GU		Beginning Japanese			0	60	通		N	1030	張怡倩	二 6-7 公館 理圖003	A1UG
-114	1	0	0	日語（一）		(1)日語為母語者不可選課。(2)本課程不開放授權碼，亦不簽停修單。	42	42		0HUG501	C	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1031	許菁娟	一 8-9 和平 正301	A1UG
-114	1	0	0	日語（一）		(1)日語為母語者不可選課。(2)本課程不開放授權碼，亦不簽停修單。	42	42		0HUG501	D	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1032	許菁娟	三 6-7 和平 正202	A1UG
-114	1	0	0	日語（一）		(1)日語為母語者不可選課。(2)本課程不開放授權碼。僅限三校聯盟學生旁聽 (需來信詢問)。	42	42		0HUG501	E	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1033	簡嘉菁	二 3-4 和平 樸202	A1UG
-114	1	5	0	法語（一） </br>[ 學分學程：國關與外交學程 ]		學過二個月以上法語者，請勿選課。	42	42		0HUG502		半	2.0	通識	GU		French (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1034	李曉芸	三 6-7 和平 正301	A1UG
-114	1	5	0	西班牙語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	42	42		0HUG503	A	半	2.0	通識	GU		Spanish (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1035	張乃翠	三 3-4 和平 正203	A1UG
-114	1	5	0	西班牙語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	39	39		0HUG503	B	半	2.0	通識	GU		Spanish (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1036	張乃翠	三 6-7 和平 正203	A1UG
-114	1	4	0	韓語（一）		1.韓語為母語者不可選課。2.授權碼發放以大四或延畢同學為優先。	42	42		0HUG506	A	半	2.0	通識	GU		Korean (I)			0	50	通		N	1037	魯水晶	二 3-4 公館 Ｓ503	A1UG
-114	1	4	0	韓語（一）		1.韓語為母語者不可選課。2.授權碼發放以大四或延畢同學為優先。	42	42		0HUG506	B	半	2.0	通識	GU		Korean (I)			0	50	通		N	1038	魯水晶	二 6-7 公館 Ｓ503	A1UG
-114	1	5	0	泰語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	32	32		0HUG509	A	半	2.0	通識	GU		Thai Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1039	譚華德	四 6-7 和平 樸306	A1UG
-114	1	5	0	泰語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	14	14		0HUG509	B	半	2.0	通識	GU		Thai Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1040	譚華德	四 8-9 和平 樸306	A1UG
-114	1	0	0	越南語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	14	14		0HUG649	A	半	2.0	通識	GU		Vietnamese (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1041	劉陳石草	三 A-B 和平 誠203	A1UG
-114	1	0	0	越南語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	12	12		0HUG649	B	半	2.0	通識	GU		Vietnamese (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1042	劉陳石草	四 A-B 和平 誠107	A1UG
-114	1	10	0	日語（二）		1.日語母語者不可修本課程  2.不接受旁聽  3.只限三校聯盟選課。	15	15		0HUG652	A	半	2.0	通識	GU		Japanese (II)			0	60	通		N	1043	張怡倩	二 8-9 公館 理圖003	A1UG
-114	1	0	0	日語（二）		(1)日語為母語者不可選課。(2)本課程不開放授權碼，亦不簽停修單。	29	29		0HUG652	B	半	2.0	通識	GU		Japanese (II)			0	50	通		N	1044	許菁娟	三 8-9 和平 正202	A1UG
-114	1	5	0	印尼語（一） </br>[ 學分學程：國關與外交學程 ]		印尼語為母語者，或印尼及馬來西亞國籍者不得修課。	11	11		0HUG653	A	半	2.0	通識	GU		Indonesian Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1045	馮燕妮	二 3-4 和平 正301	A1UG
-114	1	5	0	印尼語（一） </br>[ 學分學程：國關與外交學程 ]		印尼語為母語者，或印尼及馬來西亞國籍者不得修課。	5	5		0HUG653	B	半	2.0	通識	GU		Indonesian Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1046	馮燕妮	二 6-7 和平 正301	A1UG
-114	1	0	0	馬來語 （一）		馬來西亞籍及印尼籍同學不得修習與旁聽。旁聽者需提前知會講師。	14	14		0HUG655	A	半	2.0	通識	GU		Malay Language (I)			0	50	通		N	1047	陳際宇	一 9-10 和平 誠204	A1UG
-114	1	0	0	馬來語 （一）		馬來西亞籍及印尼籍同學不得修習與旁聽。旁聽者需提前知會講師。	18	18		0HUG655	B	半	2.0	通識	GU		Malay Language (I)			0	50	通		N	1048	陳際宇	一 A-B 和平 誠204	A1UG
-114	1	5	0	人類與自然資源 </br>[ 學分學程：環境人文學程 ]		學生自備電腦，三3-4與日本關西大學合開之國際線上課程，需配合日本課程時間，於10:10分開始。	31	31		0NUG245		半	2.0	通識	GU		Human and Natural Sciences </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		2	40	通		N	1049	葉孟宛	三 3-4 公館 Ｓ201	A3UG
-114	1	30	0	生理心理學 </br>[ 學分學程：音樂輔教學程 ]			85	85		0NUG246	A	半	2.0	通識	GU		Physiological Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]			0	100	通		N	1050	呂國棟	三 3-4 公館 Ｅ102	A3UG
-114	1	10	0	生理心理學 </br>[ 學分學程：音樂輔教學程 ]			42	42		0NUG246	B	半	2.0	通識	GU		Physiological Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1051	呂國棟	五 3-4 公館 理圖002	A3UG
-114	1	22	0	３Ｄ列印與創新應用			68	68		0NUG253		半	2.0	通識	GU		3 D Printing and Innovative Applications			0	80	通		N	1052	沈林琥	三 3-4 和平 誠102	A3UG
-114	1	0	0	國際關係導論			42	42		0SUG238		半	2.0	通識	GU		Introduction to International Relations			0	50	通	◎東亞系（學）不得選修	N	1053	徐筱琦	三 3-4 和平 誠206	A2UG
-114	1	5	0	博物館探索			52	52		0SUG514		半	2.0	通識	GU		Exploration of Museum			5	60	通		N	1054	黃玫瑄	三 6-7 和平 誠301	A2UG
-114	1	0	0	通識教育講座			64	64		0SUG523		半	2.0	通識	GU		Lectures on General Education			0	75	通		N	1055	鄭怡庭	三 3-4 和平 誠301	A2UG
-114	1	10	0	大學入門		非大一、非教育系的學生請先取得授課教師同意並以授權碼方式加選。	0	0		0SUG526	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限教育系（學）選修	N	1056	陳伊琳	三 3-4 和平 教310	B3UG
-114	1	10	0	大學入門		非大一、非心輔系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限心輔系（學）選修	N	1057	劉振維	五 6-7 和平 教513	B3UG
-114	1	10	0	大學入門		限衛教系(學)選修 非大一、非衛教系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	D	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限衛教系（學）選修	N	1059	張家臻	三 3-4 和平 誠207	B3UG
-114	1	10	0	大學入門		限幼家科學系家庭組(學)選修 非大一、非幼家科學系家庭組的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	E	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限幼家科學系（學）「家庭生活與教育組」選修	N	1060	楊翠竹	三 3-4 和平 樸301	B3UG
-114	1	8	0	大學入門		非公領系的學生請先取得授課教師同意，並以授權碼方式加選。	2	2		0SUG526	F	半	2.0	通識	GU		Introduction to University Studies			1	90	通	◎限公領系（學）選修	N	1061	楊怡雯	三 3-4 和平 綜301	B3UG
-114	1	10	0	大學入門		限特教系(學)選修，非大一、非特教系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	G	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限特教系（學）選修	N	1062	王宣惠	三 3-4 和平 特115	B3UG
-114	1	10	0	大學入門		限教育學院學士班學生修習（限修人數40）	0	0		0SUG526	I	半	2.0	通識	GU		Introduction to University Studies	是		0	40	通	◎限大一修習◎限教院學士班（學）選修	N	1063	許琇媛	三 3-4 和平 誠204	B3UG
-114	1	10	0	大學入門		限幼家科學系幼教組(學)選修 非大一、非幼家科學系幼教組的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG526	J	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限幼家科學系（學）「幼兒發展與教育組」選修	N	1064	吳怡萱	三 3-4 和平 誠109	B3UG
-114	1	9	0	大學入門		非大一、非國文系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG531	A	半	2.0	通識	GU		Introduction to University Studies			0	90	通	◎限大一修習◎限國文系（學）選修	N	1065	胡衍南	三 3-4 和平 教103	B3UG
-114	1	10	0	大學入門		限英語系修。非大一、非英語系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG531	B	半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限英語系（學）選修	N	1066	許月貴	五 3-4 和平 誠203	B3UG
-114	1	5	0	大學入門		非大一、非歷史系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG531	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限歷史系（學）選修	N	1067	陳昭揚	三 3-4 和平 誠205	B3UG
-114	1	4	0	大學入門		部分週次與E組共同上課；非大一、非地理系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG531	D	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限地理系（學）選修	N	1068	李宗祐	三 3-4 和平 誠107	B3UG
-114	1	5	0	大學入門		部分週次與D組共同上課；非大一、非地理系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG531	E	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限地理系（學）選修	N	1069	洪立三	三 3-4 和平 誠402	B3UG
-114	1	10	0	大學入門		限台文系修習，非台文系的學生請先取得授課教師同意，並以授權碼方式加選。	1	1		0SUG531	F	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限臺文系（學）選修	N	1070	莊育穎	五 3-4 和平 誠108	B3UG
-114	1	10	0	大學入門		限數學系（學）選修；非大一、非數學系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG532	A	半	2.0	通識	GU		Introduction to University Studies			0	90	通	◎限大一修習◎限數學系（學）選修	N	1071	黃聰明 楊青育	三 3-4 公館 Ｂ103	B3UG
-114	1	10	0	大學入門		僅限物理系大一學生選修	0	0		0SUG532	B	半	2.0	通識	GU		Introduction to University Studies			0	65	通	◎限大一修習◎限物理系（學）選修	N	1072	陸亭樺	三 3-4 公館 Ｅ101	B3UG
-114	1	10	0	大學入門		限化學系(學)選修，非大一、非化學系學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG532	C	半	2.0	通識	GU		Introduction to University Studies			0	90	通	◎限大一修習◎限化學系（學）選修	N	1073	李祐慈	三 3-4 公館 Ｅ302	B3UG
-114	1	20	0	大學入門		限生科系(學)選修，非大一、非生科系學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG532	D	半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限生科系（學）選修	N	1074	賴韻如	三 3-4 公館 Ｅ201	B3UG
-114	1	0	0	大學入門		限地科系（學）選修；非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG532	E	半	2.0	通識	GU		Introduction to University Studies			0	49	通	◎限大一修習◎限地科系（學）選修	N	1075	曾瑋玲	三 3-4 公館 Ｓ404	B3UG
-114	1	4	0	大學入門		非大一、非資工系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG532	F	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限資工系（學）選修	N	1076	蔣宗哲	二 6-7 公館 Ｓ602	B3UG
-114	1	5	0	大學入門		非大一、非體育系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG534	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限體育系選修	N	1077	張育愷	三 8-9 和平 金牌講堂	B3UG
-114	1	5	0	大學入門		非大一、非體育系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG534	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限體育系選修	N	1078	掌慶維	三 8-9 和平 正301	B3UG
-114	1	10	0	大學入門		非大一、非競技系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG534	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限競技系（學）選修	N	1079	張恩崇	四 1-2 公館 Ｂ101	B3UG
-114	1	10	0	大學入門		限美術學系大一水墨畫組修習。	0	0		0SUG535	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限美術系（學）「國畫組」選修	N	1080	管偉邦	四 6-7 和平 美101	B3UG
-114	1	0	0	大學入門		限美術學系大一繪畫組修習。	0	0		0SUG535	B	半	2.0	通識	GU		Introduction to University Studies			0	40	通	◎限大一修習◎限美術系（學）「西畫組」選修	N	1081	侯忠穎	四 6-7 和平 美602	B3UG
-114	1	10	0	大學入門		限設計系大一修習。	0	0		0SUG535	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限設計系（學）選修	N	1082	未定	三 9-10 和平 設計系2A教室	B3UG
-114	1	10	0	大學入門		限音樂系修習	0	0		0SUG536	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限音樂系（學）選修	N	1083	吳佩蓉	二 3-4 和平 綜202演講廳	B3UG
-114	1	0	0	大學入門		非大一、非表演藝術學士學位學程學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG536	B	半	2.0	通識	GU		Introduction to University Studies	是		0	45	通	◎限大一修習◎限表演學位學程（學）選修	N	1084	Jonathan Bollen	四 8-9 和平 綜10樓教室	B3UG
-114	1	10	0	大學入門		非大一、非企管系的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG537		半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限企管系（學）選修	N	1085	黃浩霆	三 3-4 和平 誠401	B3UG
-114	1	10	0	大學入門		非東亞系的學生請先取得授課教師同意，並以授權碼方式加選。	3	3		0SUG538	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限東亞系（學）選修	N	1086	林昌平	三 9-10 和平 綜210展覽廳	B3UG
-114	1	10	0	大學入門		限華語系（學）「國際華語與文化組」選修  非大一、非本組的學生請先取得授課教師同意，並以授權碼方式加選。	14	14		0SUG538	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限華語系（學）「國際華語與文化組」選修	N	1087	張雅惠	三 3-4 和平 樸401	B3UG
-114	1	5	0	大學入門		限華語系（學）「應用華語文學組」選修  非大一、非本組的學生請先取得授課教師同意，並以授權碼方式加選。	0	0		0SUG538	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限華語系（學）「應用華語文學組」選修	N	1088	陳嘉凌	三 3-4 和平 正301	B3UG
-114	1	5	0	大學入門		本課程限大一且為全球學士學位學程學生選修，其他學生請先取得授課教師同意，並以授權碼加選。	0	0		0SUG538	D	半	2.0	通識	GU		Introduction to University Studies	是		0	50	通	◎限大一修習◎限全球研究學位學程（學選修	N	1089	鄭怡庭	三 9-10 和平 誠109	B3UG
-114	1	40	0	自主學習：專題探究		專題名稱：陰性創作與出版實務。台大台科大學生選課需授課教師同意以授權碼選課	0	0		0SUG539	A	半	2.0	通識	GU		Self-Directed Learning: Inquiry Study			0	0	通	允許重複修	N	1090	涂卉	五 A-B 和平 誠204	C1UG
-114	1	8	0	自主學習：專題探究		專題名稱：青少年成長議題與影視製作。台大台科大學生選課需授課教師同意以授權碼選課	0	0		0SUG539	B	半	2.0	通識	GU		Self-Directed Learning: Inquiry Study			0	0	通	允許重複修	N	1091	鄭怡庭	五 A-B 和平 正101	C1UG
-114	1	3	0	自主學習：自主探究		已選課或欲選課者，第一週必須出席課堂；並於期限前繳交計畫書或第一周至課堂繳交，否則請務必退選或勿再加選。	8	8		0SUG542	A	半	2.0	通識	GU		Self-Directed Learning: Guided Study			1	43	通		N	1092	楊承山 鄭怡庭	三 A-B 和平 誠105	C1UG
-114	1	3	0	自主學習：自主探究		已選課或欲選課者，第一週必須出席課堂；並於期限前繳交計畫書或第一周至課堂繳交，否則請務必退選或勿再加選。	10	10		0SUG542	B	半	2.0	通識	GU		Self-Directed Learning: Guided Study			1	43	通		N	1093	曾暐傑	三 A-B 和平 誠106	C1UG
+114	1	3		藝術創作與程式設計						05UG033		半	2.0	通識	GU		Fine Arts and Programming			1	50	通		N	1000	謝諭	三 3-4 和平 正202	A4UG
+114	1	3		網頁程式設計入門						05UG034		半	2.0	通識	GU		Introduction to Web Programming			0	37	通		N	1001	周遵儒	三 9-10 和平 綜1001	A4UG
+114	1	8		SQL與資料庫設計						05UG036		半	2.0	通識	GU		Structured Query Language (SQL) and Database Design			1	50	通		N	1002	劉建成	五 3-4 和平 教402	A4UG
+114	1	3		Python程式設計入門		◎臺語      授課				05UG037		半	2.0	通識	GU		Introduction to Python Programming			5	50	通		N	1003	黃浩霆	一 6-7 和平 誠307	A4UG
+114	1	6		生成式AI實務應用 </br>[ 學分學程：元宇宙學程 ]						05UG038		半	2.0	通識	GU		Practical Applications of Generative AI </br>[ Program: The Program of Metaverse Narrative ]			3	90	通		N	1004	尹相志	三 3-4 和平 誠201	A4UG
+114	1	0		人工智慧與日常生活						05UG039		半	2.0	通識	GU		AI and Everyday Life	是		0	102	通		N	1005	陳立新	三 6-7 和平 誠102	A2UG
+114	1	40		星星月亮太陽－天文漫談 </br>[ 學分學程：天文重力學程 ]						06UG004		半	2.0	通識	GU		Introduction to Astronomy </br>[ Program: The Program of  Astronomy and Gravitation ]	是		25	97	通	◎地科系（學）不得選修	N	1006	橋本康弘	三 3-4 公館 Ｅ202	A3UG
+114	1	10		奈米科技						06UG005	A	半	2.0	通識	GU		Nano Technology			0	50	通		N	1007	鄭淳護	一 3-4 和平 誠102	A3UG/B2UG
+114	1	10		奈米科技						06UG005	B	半	2.0	通識	GU		Nano Technology			0	150	通		N	1008	郭金國	五 3-4 和平 教201演講廳	A3UG/B2UG
+114	1	10		環境倫理與永續發展 </br>[ 學分學程：理工實作學程 ]						06UG006		半	2.0	通識	GU		Environmental Ethics and Sustainable Development </br>[ Program: The Program of STEM Innovation and Practices ]			0	90	通		N	1009	李清安	三 8-9 和平 誠102	A3UG
+114	1	5		生活中的化學 </br>[ 學分學程：科技化教學產業學程 ]		主要以客語授課				06UG007		半	2.0	通識	GU		Life with Chemistry </br>[ Program: The Program of Technology-assisted Teaching Industry ]			0	50	通		N	1010	宋蕙伶	二 6-7 和平 誠204	A3UG
+114	1	20		植物與人生						06UG009		半	2.0	通識	GU		Plants and Human Life			0	70	通		N	1011	趙怡姍	三 3-4 公館 Ｓ101	A3UG
+114	1	4		資訊科技與生活 </br>[ 學分學程：高齡學程 ]						06UG012	A	半	2.0	通識	GU		Information Technology and the Way of Life </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]			0	50	通		N	1012	劉建成	一 3-4 和平 誠104	A4UG
+114	1	4		資訊科技與生活 </br>[ 學分學程：高齡學程 ]						06UG012	B	半	2.0	通識	GU		Information Technology and the Way of Life </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]			0	50	通		N	1013	劉建成	一 6-7 和平 誠104	A4UG
+114	1	0		科技與人文的對話		最營養的通識課，包山包海，保證收穫滿滿。				06UG014		半	2.0	通識	GU		Dialogue between Technology and Humanity			0	100	通		N	1014	王銀國	三 3-4 和平 誠101	A3UG
+114	1	30		宇宙中的生命與太空環境 </br>[ 學分學程：天文重力學程 ]		◎數位課程 All distance learning courses display synchronous learning and face-to-face learning time only.				06UG021		半	2.0	通識	GU		Life in the Universe and the Space Environments </br>[ Program: The Program of  Astronomy and Gravitation ]	是		30	97	通		1	1015	橋本康弘	◎面授/同步	A3UG
+114	1	10		汽車與生活						06UG025		半	2.0	通識	GU		Vehicle and Life			0	50	通		N	1016	張俊興	四 3-4 和平 工401	A3UG
+114	1	20		音樂概論						0AUG203		半	2.0	通識	GU		Introduction to Music			0	65	通	◎音樂系（學）不得選修	N	1017	吳佩蓉	三 3-4 和平 音308	A1UG
+114	1	10		心理學 </br>[ 學分學程：人社學程 肌力與體能學程 音樂輔教學程 ]		中文授課				0AUG402		半	2.0	通識	GU		Psychology </br>[ Program: Human Services and Social Work Credit Program The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1018	楊諮燕	四 3-4 和平 誠202	A2UG/B1UG
+114	1	0		健康與生活						0AUG408		半	2.0	通識	GU		Health and Life			0	60	通		N	1019	黃玫瑄	四 3-4 和平 誠301	A3UG
+114	1	10		歷史與人物						0AUG435		半	2.0	通識	GU		History and Personage			0	50	通		N	1020	陳健文	二 6-7 和平 誠401	A1UG
+114	1	0		聖經與人生						0AUG442		半	2.0	通識	GU		The Bible and Human Life	是		0	49	通		N	1021	范俊銘	四 B-C 公館 Ｓ204	A1UG
+114	1	10		個人投資理財						0AUG462		半	2.0	通識	GU		Personal Finance			0	170	通		N	1022	朱文增	三 3-4 和平 教201演講廳	A2UG
+114	1	10		休閒與生活 </br>[ 學分學程：肌力與體能學程 ]						0AUG463		半	2.0	通識	GU		Leisure in Our Daily Life </br>[ Program: The Program of Strength and Conditioning ]			0	50	通		N	1023	李晶	三 3-4 和平 誠203	A2UG
+114	1	10		學術寫作						0HUG011		半	2.0	通識	GU		Academic Writing			1	50	通		N	1024	謝秀卉	二 3-4 和平 樸306	A1UG
+114	1	10		樂府詩與人生						0HUG249		半	2.0	通識	GU		Yuefu Poems and Life			0	135	通	◎國文系（學）不得選修	N	1025	林淑雲	一 6-7 和平 誠101	A1UG
+114	1	10		元宇宙敘事導論 </br>[ 學分學程：元宇宙學程 ]						0HUG253		半	2.0	通識	GU		Introduction to Metaverse Narrative </br>[ Program: The Program of Metaverse Narrative ]			2	50	通		N	1026	羅凡晸 曹筱玥	三 3-4 和平 教401	A1UG
+114	1	10		莎士比亞的故事						0HUG432		半	2.0	通識	GU		Shakespeare			0	70	通		N	1027	蘇子中	二 6-7 和平 誠202	A1UG/B2UG
+114	1	5		大腦中的語言：心理語言學入門						0HUG450		半	2.0	通識	GU		Language inside Our Heads: An Introduction to Psycholinguistics	是		0	50	通		N	1028	颯楊	三 8-9 和平 誠305	A1UG
+114	1	10		日語（一）		1.日語母語者不可修本課程  2.不接受旁聽  3.只限三校聯盟選課。				0HUG501	A	半	2.0	通識	GU		Beginning Japanese			0	60	通		N	1029	張怡倩	二 3-4 公館 理圖003	A1UG
+114	1	10		日語（一）		1.日語母語者不可修本課程  2.不接受旁聽  3.只限三校聯盟選課。				0HUG501	B	半	2.0	通識	GU		Beginning Japanese			0	60	通		N	1030	張怡倩	二 6-7 公館 理圖003	A1UG
+114	1	0		日語（一）		(1)日語為母語者不可選課。(2)本課程不開放授權碼，亦不簽停修單。				0HUG501	C	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1031	許菁娟	一 8-9 和平 正301	A1UG
+114	1	0		日語（一）		(1)日語為母語者不可選課。(2)本課程不開放授權碼，亦不簽停修單。				0HUG501	D	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1032	許菁娟	三 6-7 和平 正202	A1UG
+114	1	0		日語（一）		(1)日語為母語者不可選課。(2)本課程不開放授權碼。僅限三校聯盟學生旁聽 (需來信詢問)。				0HUG501	E	半	2.0	通識	GU		Beginning Japanese			0	50	通		N	1033	簡嘉菁	二 3-4 和平 樸202	A1UG
+114	1	5		法語（一） </br>[ 學分學程：國關與外交學程 ]		學過二個月以上法語者，請勿選課。				0HUG502		半	2.0	通識	GU		French (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1034	李曉芸	三 6-7 和平 正301	A1UG
+114	1	5		西班牙語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。				0HUG503	A	半	2.0	通識	GU		Spanish (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1035	張乃翠	三 3-4 和平 正203	A1UG
+114	1	5		西班牙語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。				0HUG503	B	半	2.0	通識	GU		Spanish (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1036	張乃翠	三 6-7 和平 正203	A1UG
+114	1	4		韓語（一）		1.韓語為母語者不可選課。2.授權碼發放以大四或延畢同學為優先。				0HUG506	A	半	2.0	通識	GU		Korean (I)			0	50	通		N	1037	魯水晶	二 3-4 公館 Ｓ503	A1UG
+114	1	4		韓語（一）		1.韓語為母語者不可選課。2.授權碼發放以大四或延畢同學為優先。				0HUG506	B	半	2.0	通識	GU		Korean (I)			0	50	通		N	1038	魯水晶	二 6-7 公館 Ｓ503	A1UG
+114	1	5		泰語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。				0HUG509	A	半	2.0	通識	GU		Thai Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1039	譚華德	四 6-7 和平 樸306	A1UG
+114	1	5		泰語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。				0HUG509	B	半	2.0	通識	GU		Thai Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1040	譚華德	四 8-9 和平 樸306	A1UG
+114	1	0		越南語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。				0HUG649	A	半	2.0	通識	GU		Vietnamese (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1041	劉陳石草	三 A-B 和平 誠203	A1UG
+114	1	0		越南語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。				0HUG649	B	半	2.0	通識	GU		Vietnamese (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1042	劉陳石草	四 A-B 和平 誠107	A1UG
+114	1	10		日語（二）		1.日語母語者不可修本課程  2.不接受旁聽  3.只限三校聯盟選課。				0HUG652	A	半	2.0	通識	GU		Japanese (II)			0	60	通		N	1043	張怡倩	二 8-9 公館 理圖003	A1UG
+114	1	0		日語（二）		(1)日語為母語者不可選課。(2)本課程不開放授權碼，亦不簽停修單。				0HUG652	B	半	2.0	通識	GU		Japanese (II)			0	50	通		N	1044	許菁娟	三 8-9 和平 正202	A1UG
+114	1	5		印尼語（一） </br>[ 學分學程：國關與外交學程 ]		印尼語為母語者，或印尼及馬來西亞國籍者不得修課。				0HUG653	A	半	2.0	通識	GU		Indonesian Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1045	馮燕妮	二 3-4 和平 正301	A1UG
+114	1	5		印尼語（一） </br>[ 學分學程：國關與外交學程 ]		印尼語為母語者，或印尼及馬來西亞國籍者不得修課。				0HUG653	B	半	2.0	通識	GU		Indonesian Language (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1046	馮燕妮	二 6-7 和平 正301	A1UG
+114	1	0		馬來語 （一）		馬來西亞籍及印尼籍同學不得修習與旁聽。旁聽者需提前知會講師。				0HUG655	A	半	2.0	通識	GU		Malay Language (I)			0	50	通		N	1047	陳際宇	一 9-10 和平 誠204	A1UG
+114	1	0		馬來語 （一）		馬來西亞籍及印尼籍同學不得修習與旁聽。旁聽者需提前知會講師。				0HUG655	B	半	2.0	通識	GU		Malay Language (I)			0	50	通		N	1048	陳際宇	一 A-B 和平 誠204	A1UG
+114	1	5		人類與自然資源 </br>[ 學分學程：環境人文學程 ]		學生自備電腦，三3-4與日本關西大學合開之國際線上課程，需配合日本課程時間，於10:10分開始。				0NUG245		半	2.0	通識	GU		Human and Natural Sciences </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		2	40	通		N	1049	葉孟宛	三 3-4 公館 Ｓ201	A3UG
+114	1	30		生理心理學 </br>[ 學分學程：音樂輔教學程 ]						0NUG246	A	半	2.0	通識	GU		Physiological Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]			0	100	通		N	1050	呂國棟	三 3-4 公館 Ｅ102	A3UG
+114	1	10		生理心理學 </br>[ 學分學程：音樂輔教學程 ]						0NUG246	B	半	2.0	通識	GU		Physiological Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1051	呂國棟	五 3-4 公館 理圖002	A3UG
+114	1	22		３Ｄ列印與創新應用						0NUG253		半	2.0	通識	GU		3 D Printing and Innovative Applications			0	80	通		N	1052	沈林琥	三 3-4 和平 誠102	A3UG
+114	1	0		國際關係導論						0SUG238		半	2.0	通識	GU		Introduction to International Relations			0	50	通	◎東亞系（學）不得選修	N	1053	徐筱琦	三 3-4 和平 誠206	A2UG
+114	1	5		博物館探索						0SUG514		半	2.0	通識	GU		Exploration of Museum			5	60	通		N	1054	黃玫瑄	三 6-7 和平 誠301	A2UG
+114	1	0		通識教育講座						0SUG523		半	2.0	通識	GU		Lectures on General Education			0	75	通		N	1055	鄭怡庭	三 3-4 和平 誠301	A2UG
+114	1	10		大學入門		非大一、非教育系的學生請先取得授課教師同意並以授權碼方式加選。				0SUG526	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限教育系（學）選修	N	1056	陳伊琳	三 3-4 和平 教310	B3UG
+114	1	10		大學入門		非大一、非心輔系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG526	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限心輔系（學）選修	N	1057	劉振維	五 6-7 和平 教513	B3UG
+114	1	10		大學入門		限衛教系(學)選修 非大一、非衛教系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG526	D	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限衛教系（學）選修	N	1059	張家臻	三 3-4 和平 誠207	B3UG
+114	1	10		大學入門		限幼家科學系家庭組(學)選修 非大一、非幼家科學系家庭組的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG526	E	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限幼家科學系（學）「家庭生活與教育組」選修	N	1060	楊翠竹	三 3-4 和平 樸301	B3UG
+114	1	8		大學入門		非公領系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG526	F	半	2.0	通識	GU		Introduction to University Studies			1	90	通	◎限公領系（學）選修	N	1061	楊怡雯	三 3-4 和平 綜301	B3UG
+114	1	10		大學入門		限特教系(學)選修，非大一、非特教系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG526	G	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限特教系（學）選修	N	1062	王宣惠	三 3-4 和平 特115	B3UG
+114	1	10		大學入門		限教育學院學士班學生修習（限修人數40）				0SUG526	I	半	2.0	通識	GU		Introduction to University Studies	是		0	40	通	◎限大一修習◎限教院學士班（學）選修	N	1063	許琇媛	三 3-4 和平 誠204	B3UG
+114	1	10		大學入門		限幼家科學系幼教組(學)選修 非大一、非幼家科學系幼教組的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG526	J	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限幼家科學系（學）「幼兒發展與教育組」選修	N	1064	吳怡萱	三 3-4 和平 誠109	B3UG
+114	1	9		大學入門		非大一、非國文系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	A	半	2.0	通識	GU		Introduction to University Studies			0	90	通	◎限大一修習◎限國文系（學）選修	N	1065	胡衍南	三 3-4 和平 教103	B3UG
+114	1	10		大學入門		限英語系修。非大一、非英語系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	B	半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限英語系（學）選修	N	1066	許月貴	五 3-4 和平 誠203	B3UG
+114	1	5		大學入門		非大一、非歷史系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限歷史系（學）選修	N	1067	陳昭揚	三 3-4 和平 誠205	B3UG
+114	1	4		大學入門		部分週次與E組共同上課；非大一、非地理系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	D	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限地理系（學）選修	N	1068	李宗祐	三 3-4 和平 誠107	B3UG
+114	1	5		大學入門		部分週次與D組共同上課；非大一、非地理系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	E	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限地理系（學）選修	N	1069	洪立三	三 3-4 和平 誠402	B3UG
+114	1	10		大學入門		限台文系修習，非台文系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG531	F	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限臺文系（學）選修	N	1070	莊育穎	五 3-4 和平 誠108	B3UG
+114	1	10		大學入門		限數學系（學）選修；非大一、非數學系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG532	A	半	2.0	通識	GU		Introduction to University Studies			0	90	通	◎限大一修習◎限數學系（學）選修	N	1071	黃聰明 楊青育	三 3-4 公館 Ｂ103	B3UG
+114	1	10		大學入門		僅限物理系大一學生選修				0SUG532	B	半	2.0	通識	GU		Introduction to University Studies			0	65	通	◎限大一修習◎限物理系（學）選修	N	1072	陸亭樺	三 3-4 公館 Ｅ101	B3UG
+114	1	10		大學入門		限化學系(學)選修，非大一、非化學系學生請先取得授課教師同意，並以授權碼方式加選。				0SUG532	C	半	2.0	通識	GU		Introduction to University Studies			0	90	通	◎限大一修習◎限化學系（學）選修	N	1073	李祐慈	三 3-4 公館 Ｅ302	B3UG
+114	1	20		大學入門		限生科系(學)選修，非大一、非生科系學生請先取得授課教師同意，並以授權碼方式加選。				0SUG532	D	半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限生科系（學）選修	N	1074	賴韻如	三 3-4 公館 Ｅ201	B3UG
+114	1	0		大學入門		限地科系（學）選修；非大一、非本系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG532	E	半	2.0	通識	GU		Introduction to University Studies			0	49	通	◎限大一修習◎限地科系（學）選修	N	1075	曾瑋玲	三 3-4 公館 Ｓ404	B3UG
+114	1	4		大學入門		非大一、非資工系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG532	F	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限資工系（學）選修	N	1076	蔣宗哲	二 6-7 公館 Ｓ602	B3UG
+114	1	5		大學入門		非大一、非體育系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG534	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限體育系選修	N	1077	張育愷	三 8-9 和平 金牌講堂	B3UG
+114	1	5		大學入門		非大一、非體育系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG534	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限體育系選修	N	1078	掌慶維	三 8-9 和平 正301	B3UG
+114	1	10		大學入門		非大一、非競技系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG534	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限競技系（學）選修	N	1079	張恩崇	四 1-2 公館 Ｂ101	B3UG
+114	1	10		大學入門		限美術學系大一水墨畫組修習。				0SUG535	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限美術系（學）「國畫組」選修	N	1080	管偉邦	四 6-7 和平 美101	B3UG
+114	1	0		大學入門		限美術學系大一繪畫組修習。				0SUG535	B	半	2.0	通識	GU		Introduction to University Studies			0	40	通	◎限大一修習◎限美術系（學）「西畫組」選修	N	1081	侯忠穎	四 6-7 和平 美602	B3UG
+114	1	10		大學入門		限設計系大一修習。				0SUG535	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限設計系（學）選修	N	1082	未定	三 9-10 和平 設計系2A教室	B3UG
+114	1	10		大學入門		限音樂系修習				0SUG536	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限音樂系（學）選修	N	1083	吳佩蓉	二 3-4 和平 綜202演講廳	B3UG
+114	1	0		大學入門		非大一、非表演藝術學士學位學程學生請先取得授課教師同意，並以授權碼方式加選。				0SUG536	B	半	2.0	通識	GU		Introduction to University Studies	是		0	45	通	◎限大一修習◎限表演學位學程（學）選修	N	1084	Jonathan Bollen	四 8-9 和平 綜10樓教室	B3UG
+114	1	10		大學入門		非大一、非企管系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG537		半	2.0	通識	GU		Introduction to University Studies			0	60	通	◎限大一修習◎限企管系（學）選修	N	1085	黃浩霆	三 3-4 和平 誠401	B3UG
+114	1	10		大學入門		非東亞系的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG538	A	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限東亞系（學）選修	N	1086	林昌平	三 9-10 和平 綜210展覽廳	B3UG
+114	1	10		大學入門		限華語系（學）「國際華語與文化組」選修  非大一、非本組的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG538	B	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限華語系（學）「國際華語與文化組」選修	N	1087	張雅惠	三 3-4 和平 樸401	B3UG
+114	1	5		大學入門		限華語系（學）「應用華語文學組」選修  非大一、非本組的學生請先取得授課教師同意，並以授權碼方式加選。				0SUG538	C	半	2.0	通識	GU		Introduction to University Studies			0	50	通	◎限大一修習◎限華語系（學）「應用華語文學組」選修	N	1088	陳嘉凌	三 3-4 和平 正301	B3UG
+114	1	5		大學入門		本課程限大一且為全球學士學位學程學生選修，其他學生請先取得授課教師同意，並以授權碼加選。				0SUG538	D	半	2.0	通識	GU		Introduction to University Studies	是		0	50	通	◎限大一修習◎限全球研究學位學程（學選修	N	1089	鄭怡庭	三 9-10 和平 誠109	B3UG
+114	1	40		自主學習：專題探究		專題名稱：陰性創作與出版實務。台大台科大學生選課需授課教師同意以授權碼選課				0SUG539	A	半	2.0	通識	GU		Self-Directed Learning: Inquiry Study			0	0	通	允許重複修	N	1090	涂卉	五 A-B 和平 誠204	C1UG
+114	1	8		自主學習：專題探究		專題名稱：青少年成長議題與影視製作。台大台科大學生選課需授課教師同意以授權碼選課				0SUG539	B	半	2.0	通識	GU		Self-Directed Learning: Inquiry Study			0	0	通	允許重複修	N	1091	鄭怡庭	五 A-B 和平 正101	C1UG
+114	1	3		自主學習：自主探究		已選課或欲選課者，第一週必須出席課堂；並於期限前繳交計畫書或第一周至課堂繳交，否則請務必退選或勿再加選。				0SUG542	A	半	2.0	通識	GU		Self-Directed Learning: Guided Study			1	43	通		N	1092	楊承山 鄭怡庭	三 A-B 和平 誠105	C1UG
+114	1	3		自主學習：自主探究		已選課或欲選課者，第一週必須出席課堂；並於期限前繳交計畫書或第一周至課堂繳交，否則請務必退選或勿再加選。				0SUG542	B	半	2.0	通識	GU		Self-Directed Learning: Guided Study			1	43	通		N	1093	曾暐傑	三 A-B 和平 誠106	C1UG
 114	1	10		專題研究		This course is an EMI (English-Medium Instruction) course held at Gongguan Campus, Classroom A100 in the College of Science Building.				H5M0001		半	4.0	科技學院	H		Independent Study	是		0	30	必	◎課程開放上修	N	1094	劉祥麟	一 A-D 公館 教室自排	
 114	1	10		歐美地區技職教育專題						IED0064		半	2.0	工教系（博）	HD70		Special Topics in Technical Vocational Education in European and American Countries	是		0	50	選	◎課程開放上修	N	1095	宋修德	五 7-8 和平 研討四	
 114	1	10		高等工業教育研究法						IED0074		半	2.0	工教系（博）	HD70		Research Methods in advanced Industrial Education	是		0	50	必	◎課程開放上修	N	1096	宋修德	二 7-8 和平 研討四	
@@ -850,7 +850,7 @@
 114	1	0		英語演講：演說技巧	2					ENU0217	A	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1858	高瑪麗	四 6-7 和平 正303	
 114	1	0		英語演講：演說技巧	2					ENU0217	B	半	2.0	英語系（學）	LU21		Public Speaking: Speech	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1859	吳美貞	四 6-7 和平 正304	
 114	1	10		語言學概論（一） </br>[ 學分學程：客語學程 科技化教學產業學程 ]	2	建議大二以上選修				ENU0259		半	2.0	英語系（學）	LU21		Introduction to Linguistics (I) </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]	是	2	3	50	必		N	1860	李臻儀	一 8-9 和平 誠305	
-114	1	10		英國文學：中古時期至十八世紀（一）	2					ENU0291		半	2.0	英語系（學）	LU21		English Literature: Medieval Period to the Eighteenth Century (I)	是	2	0	50	選		N	1861	張瓊惠	四 8-9 和平 正303	
+114	1	20		英國文學：中古時期至十八世紀（一）	2					ENU0291		半	2.0	英語系（學）	LU21		English Literature: Medieval Period to the Eighteenth Century (I)	是	2	0	50	選		N	1861	張瓊惠	四 8-9 和平 正303	
 114	1	10		語言習得						ENU0038		半	3.0	英語系（學）	LU21		Language Acquisition		3	0	50	選		N	1862	程玉秀	三 6-8 和平 正304	
 114	1	0		美國文學						ENU0226		半	3.0	英語系（學）	LU21		American Literature	是	3	0	50	必		N	1863	李秀娟	一 3-5 和平 正303	
 114	1	0		討論與辯論（一）						ENU0247	A	半	2.0	英語系（學）	LU21		Discussion & Debate (I)	是	3	0	30	必		N	1864	常紹如	一 6-7 和平 正305	
