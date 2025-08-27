@@ -71,7 +71,7 @@
 114	1	10	0	運動科學服務			11	11		FPM0070		半	1.0	競技系（碩）	AM32		Exercise and Sport Science Services			0	50	必	◎課程開放上修	N	0070	何仁育	二 6 公館 研003	
 114	1	10	0	運動行為的生態觀			12	12		FPM0075		半	3.0	競技系（碩）	AM32		Ecological Approach to Motor Behavior			0	50	選	◎課程開放上修	N	0071	劉有德	二 2-4 公館 研003	
 114	1	10	0	生態觀運動教練學			6	6		FPM0077		半	3.0	競技系（碩）	AM32		Ecological Coaching Science			0	50	選	◎課程開放上修	N	0072	劉有德	二 7-9 公館 研003	
-114	1	0	0	全民國防教育軍事訓練－國防政策		侯昭原	60	60		ADU0002	A	半	0.0	國防教育	AOD		All-Out Defense Education Military Training-National Defense Policies			2	60	選		N	0073	侯昭原	四 1-2 公館 Ｅ101	
+114	1	0	0	全民國防教育軍事訓練－國防政策		侯昭原	58	58		ADU0002	A	半	0.0	國防教育	AOD		All-Out Defense Education Military Training-National Defense Policies			2	60	選		N	0073	侯昭原	四 1-2 公館 Ｅ101	
 114	1	0	0	全民國防教育軍事訓練－國防政策		侯昭原	60	60		ADU0002	B	半	0.0	國防教育	AOD		All-Out Defense Education Military Training-National Defense Policies			2	60	選		N	0074	侯昭原	四 3-4 公館 Ｅ101	
 114	1	0	0	全民國防教育軍事訓練－防衛動員		劉麗君	60	60		ADU0004	A	半	0.0	國防教育	AOD		All-Out Defense Education Military Training-Defense Mobilization			2	60	選		N	0075	劉麗君	三 6-7 和平 誠101	
 114	1	0	0	全民國防教育軍事訓練－防衛動員		劉麗君	60	60		ADU0004	B	半	0.0	國防教育	AOD		All-Out Defense Education Military Training-Defense Mobilization			2	60	選		N	0076	劉麗君	三 8-9 和平 誠101	
@@ -79,8 +79,8 @@
 114	1	0	0	全民國防教育軍事訓練－國防科技		周建志	60	60		ADU0005	B	半	0.0	國防教育	AOD		All-Out Defense Education Military Training-Defense Technology			2	60	選		N	0078	周建志	四 1-2 和平 誠203	
 114	1	10	0	運動賽會管理	9		8	8		PEC9003		半	3.0	體育系	AU30		Management of Sport Events	是		5	50	選		N	0079	程紹同	五 6-8 和平 體002	
 114	1	10	0	運動防護實習（一）	9		4	4		PEC9004		半	2.0	體育系	AU30		Athletic Training Practicum (I)			0	50	選	◎必須先修過【PEU0067  運動傷害與防護】、【PEU0292  運動貼紮與臨床實作】、【PEU0294  運動推拿指壓學】、【PEU0295  基礎儀器治療學】、【PEU0296  運動傷害評估學】、【PEU0297  運動治療學】	N	0080	黃昱倫	三 A-B 和平 體002	
-114	1	10	0	體育學原理			69	69		PEU0003		半	2.0	體育系	AU30		Principles of Physical Education		1	0	75	必	◎限大一修習	N	0081	陳信亨	一 8-9 和平 誠302	
-114	1	10	0	人體解剖生理學 </br>[ 學分學程：運動科技學程 肌力與體能學程 運動傷害防護學程 ]			67	67		PEU0193		半	2.0	體育系	AU30		Human Anatomy and Physiology </br>[ Program: The Program of Sports Technology The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		1	0	50	必	◎限大一修習	N	0082	王宏豪	四 6-7 和平 金牌講堂	
+114	1	10	0	體育學原理			68	68		PEU0003		半	2.0	體育系	AU30		Principles of Physical Education		1	0	75	必	◎限大一修習	N	0081	陳信亨	一 8-9 和平 誠302	
+114	1	10	0	人體解剖生理學 </br>[ 學分學程：運動科技學程 肌力與體能學程 運動傷害防護學程 ]			66	66		PEU0193		半	2.0	體育系	AU30		Human Anatomy and Physiology </br>[ Program: The Program of Sports Technology The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		1	0	50	必	◎限大一修習	N	0082	王宏豪	四 6-7 和平 金牌講堂	
 114	1	10	0	足球（一）			22	22		PEU0251	F	半	2.0	體育系	AU30		Soccer (I)		1	0	50	選	◎限女生修 ◎限大一修習	N	0083	程瑞福	四 1-2 公館 體育館二3樓	
 114	1	10	0	足球（一）			33	33		PEU0251	M	半	2.0	體育系	AU30		Soccer (I)		1	0	50	選	◎限男生修 ◎限大一修習	N	0084	程瑞福	四 3-4 公館 體育館二3樓	
 114	1	10	0	棒（壘）球（一）			22	22		PEU0254	F	半	2.0	體育系	AU30		Baseball (Softball) (I)		1	0	50	選	◎限女生修 ◎限大一修習	N	0085	潘慈惠	一 3-4 公館 操場二	
@@ -93,7 +93,7 @@
 114	1	10	0	體操（一）			29	29		PEU0274	M	半	2.0	體育系	AU30		Gymnastics (I)		1	0	50	選	◎限男生修 ◎限大一修習	N	0092	張琪	一 3-4 和平 體操房	
 114	1	10	0	田徑（一）			18	18		PEU0277	F	半	2.0	體育系	AU30		Track and Field (I)		1	0	50	選	◎限女生修 ◎限大一修習	N	0093	林淑惠	一 6-7 公館 操場二	
 114	1	10	0	田徑（一）			31	31		PEU0277	M	半	2.0	體育系	AU30		Track and Field (I)		1	0	50	選	◎限男生修 ◎限大一修習	N	0094	詹俊成	五 6-7 公館 操場二	
-114	1	10	0	運動生理學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			80	80		PEU0015		半	2.0	體育系	AU30		Sport Physiology </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		2	0	80	必	◎初選 運動傷害防護學程 研究生得下修	N	0095	王鶴森	一 3-4 和平 誠202	
+114	1	10	0	運動生理學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			79	79		PEU0015		半	2.0	體育系	AU30		Sport Physiology </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		2	0	80	必	◎初選 運動傷害防護學程 研究生得下修	N	0095	王鶴森	一 3-4 和平 誠202	
 114	1	10	0	運動傷害與防護 </br>[ 學分學程：戶外探索領導學程 運動傷害防護學程 高齡學程 ]			64	64		PEU0067		半	2.0	體育系	AU30		Sport Injury and Prevention </br>[ Program: The Program of Outdoor Adventure Leadership The Program of Injury Prevention and Athletic Training The program of Cultivating Seniors Service Talent in Community ]		2	3	70	選	◎初選 運動傷害防護學程 研究生得下修	N	0096	黃昱倫	一 8-9 和平 金牌講堂	
 114	1	10	0	手球（一）			21	21		PEU0081		半	2.0	體育系	AU30		Handball (I)		2	3	50	選		N	0097	黃欽永	二 8-9 和平 體育館一4F	
 114	1	10	0	運動與休閒產業講座 </br>[ 學分學程：運動科技學程 ]			24	24		PEU0111		半	2.0	體育系	AU30		Lectures on Sport and Recreational Industry </br>[ Program: The Program of Sports Technology ]		2	0	50	選		N	0098	王傑賢	四 8-9 和平 樸302	
@@ -115,7 +115,7 @@
 114	1	10	0	柔道			28	28		PEU0303		半	2.0	體育系	AU30		Judo		2	3	50	選		N	0114	黃國恩	三 6-7 和平 武術房一	
 114	1	10	0	臨床解剖肌動學			15	15		PEU0313		半	2.0	體育系	AU30		Clinical Anatomy and Kinesiology		2	0	50	選	◎必須先修過【PEU0193  人體解剖生理學】	N	0115	陳又萍	四 A-B 和平 誠205	
 114	1	10	0	休閒活動概論 </br>[ 學分學程：戶外探索領導學程 高齡學程 ]			50	50		PEU4011		半	2.0	體育系	AU30		Introduction to Recreation </br>[ Program: The Program of Outdoor Adventure Leadership The program of Cultivating Seniors Service Talent in Community ]		2	0	50	選		N	0116	詹俊成	四 3-4 和平 誠208	
-114	1	10	0	體育行政與管理			70	70		PEU4020		半	2.0	體育系	AU30		Administration and Management of Physical Education		2	0	70	必		N	0117	鄭志富	二 6-7 和平 金牌講堂	
+114	1	10	0	體育行政與管理			69	69		PEU4020		半	2.0	體育系	AU30		Administration and Management of Physical Education		2	0	70	必		N	0117	鄭志富	二 6-7 和平 金牌講堂	
 114	1	10	0	運動技術分析 </br>[ 學分學程：運動科技學程 ]			14	14		PEU0034		半	2.0	體育系	AU30		Sports Technique Analysis </br>[ Program: The Program of Sports Technology ]		3	0	50	選		N	0118	蔡虔祿	四 8-9 和平 樸105	
 114	1	10	0	運動倫理與法律			7	7		PEU0046		半	2.0	體育系	AU30		Sport Ethics and Legal Aspects		3	5	50	選		N	0119	陳慶鴻	四 8-9 和平 樸303	
 114	1	10	0	應用運動心理學			7	7		PEU0062		半	2.0	體育系	AU30		Applied Sport Psychology	是	3	0	50	選		N	0120	洪聰敏	二 8-9 和平 樸105	
@@ -184,7 +184,7 @@
 114	1	10	0	排球（一）			50	50		FPU0243		半	2.0	競技系（學）	AU32		Volleyball (I)		2	0	50	選		N	0184	張恩崇	五 3-4 公館 體育館二3樓	
 114	1	10	0	羽球（一）			50	50		FPU0245		半	2.0	競技系（學）	AU32		Badminton (I)		2	0	50	選		N	0185	李建興	二 3-4 公館 中正堂	
 114	1	10	0	桌球（一）			47	47		FPU0248		半	2.0	競技系（學）	AU32		Table Tennis (I)		2	0	50	選		N	0186	林岱樵	四 1-2 和平 桌球室	
-114	1	10	0	運動生物力學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			55	55		FPU0016		半	2.0	競技系（學）	AU32		Sports Biomechanics </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		3	0	50	必		N	0187	劉錦璋	一 3-4 公館 體育館二3樓會議室	
+114	1	10	0	運動生物力學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			54	54		FPU0016		半	2.0	競技系（學）	AU32		Sports Biomechanics </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		3	0	50	必		N	0187	劉錦璋	一 3-4 公館 體育館二3樓會議室	
 114	1	10	0	教練心理學			15	15		FPU0037		半	2.0	競技系（學）	AU32		Coaching Psychology		3	0	50	選		N	0188	梁嘉音	二 3-4 公館 Ｓ501	
 114	1	10	0	身體素質訓練法 </br>[ 學分學程：肌力與體能學程 ]			50	50		FPU0065		半	2.0	競技系（學）	AU32		Physical Characteristics Training </br>[ Program: The Program of Strength and Conditioning ]		3	0	50	選		N	0189	蔡於儒	一 6-7 公館 Ｓ204	
 114	1	10	0	網球（一）			50	50		FPU0246		半	2.0	競技系（學）	AU32		Tennis (I)		3	0	50	選		N	0190	林岱樵	五 6-7 公館 網球場二	
@@ -212,17 +212,17 @@
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A2	E	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限光電學位學程（學）、生科系（學）、地科系（學）、資工系（學）、營養學位學程（學）選修	N	0214	謝秀卉	一 3-4 公館 Ｓ204	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	19	19		00UA7A2	F	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限光電學位學程（學）、生科系（學）、地科系（學）、資工系（學）、營養學位學程（學）選修	N	0215	黃子純	一 3-4 公館 Ｓ304	
 114	1	0	0	中文閱讀與思辨			62	62		00UA7A2	G	半	2.0	共同科	CU		Chinese Reading and Thinking			0	72	必	◎限競技系（學）選修	N	0216	徐國能	一 3-4 公館 Ｓ102	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	A	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0217	林玉玫	五 1-2 和平 樸202	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	B	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0218	林津羽	五 1-2 和平 誠204	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	C	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0219	徐敏媛	五 1-2 和平 樸205	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	D	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0220	陳惠鈴	五 1-2 和平 樸203	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	E	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0221	陳筱筠	五 1-2 和平 樸206	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	F	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0222	謝秀卉	五 1-2 和平 樸306	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	G	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0223	謝嘉文	五 1-2 和平 正406	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	H	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0224	魏伯全	五 1-2 和平 正102	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	I	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0225	汪文祺	五 1-2 和平 正103	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	J	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0226	紀金慶	五 1-2 和平 正106	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	23	23		00UA7A3	K	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班（學）、科技系（學）、英語系（學）、音樂系（學）選修	N	0227	朱先敏	五 1-2 公館 Ｓ502	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	A	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0217	林玉玫	五 1-2 和平 樸202	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	B	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0218	林津羽	五 1-2 和平 誠204	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	C	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0219	徐敏媛	五 1-2 和平 樸205	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	D	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0220	陳惠鈴	五 1-2 和平 樸203	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	E	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0221	陳筱筠	五 1-2 和平 樸206	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	F	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0222	謝秀卉	五 1-2 和平 樸306	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	G	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0223	謝嘉文	五 1-2 和平 正406	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	H	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0224	魏伯全	五 1-2 和平 正102	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	I	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0225	汪文祺	五 1-2 和平 正103	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A3	J	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0226	紀金慶	五 1-2 和平 正106	
+114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	23	23		00UA7A3	K	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限教育系（學）、心輔系（學）、社教系（學）、衛教系（學）、教院學士班、科技系（學）、英語系（學）、音樂系（學）選修	N	0227	朱先敏	五 1-2 公館 Ｓ502	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A4	A	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限體育系、幼家科學系（學）、公領系（學）、特教系（學）、學習科學學位學程（學、企管系（學）、美術系（學）、設計系（學）選修	N	0228	徐敏媛	五 3-4 和平 樸205	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A4	B	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限體育系、幼家科學系（學）、公領系（學）、特教系（學）、學習科學學位學程（學、企管系（學）、美術系（學）、設計系（學）選修	N	0229	黃薏文	五 3-4 和平 正101	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。紀金慶教師	37	37		00UA7A4	C	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限體育系、幼家科學系（學）、公領系（學）、特教系（學）、學習科學學位學程（學、企管系（學）、美術系（學）、設計系（學）選修	N	0230	紀金慶	五 3-4 和平 正106	
@@ -241,13 +241,13 @@
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A5	D	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限東亞系（學）、國文系（學）、歷史系（學）、地理系（學）、臺文系（學）、表演學位學程（學）選修	N	0243	黃薏文	五 6-7 和平 正101	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	16	16		00UA7A5	E	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限東亞系（學）、國文系（學）、歷史系（學）、地理系（學）、臺文系（學）、表演學位學程（學）選修	N	0244	賴昶	五 6-7 和平 誠106	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A5	F	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限東亞系（學）、國文系（學）、歷史系（學）、地理系（學）、臺文系（學）、表演學位學程（學）選修	N	0245	謝秀卉	五 6-7 和平 樸306	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	22	22		00UA7A5	G	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限東亞系（學）、國文系（學）、歷史系（學）、地理系（學）、臺文系（學）、表演學位學程（學）選修	N	0246	王鍾山	五 6-7 和平 樸206	
+114	1	3	0	中文閱讀與思辨		原則上不發放授權碼。	22	22		00UA7A5	G	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限東亞系（學）、國文系（學）、歷史系（學）、地理系（學）、臺文系（學）、表演學位學程（學）選修	N	0246	王鍾山	五 6-7 和平 樸206	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	29	29		00UA7A5	H	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限東亞系（學）、國文系（學）、歷史系（學）、地理系（學）、臺文系（學）、表演學位學程（學）選修	N	0247	許仲南	五 6-7 和平 誠107	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	33	33		00UA7A5	I	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限東亞系（學）、國文系（學）、歷史系（學）、地理系（學）、臺文系（學）、表演學位學程（學）選修	N	0248	陳明緻	五 6-7 公館 Ｓ502	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A6	A	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限工教系（學）、圖傳系（學）、機電系（學）、電機系（學）、車能學位學程（學）、華語系（學）「應用華語文學組」選修	N	0249	林佩怡	五 8-9 和平 正406	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A6	B	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限工教系（學）、圖傳系（學）、機電系（學）、電機系（學）、車能學位學程（學）、華語系（學）「應用華語文學組」選修	N	0250	陳嘉琪	五 8-9 和平 樸202	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A6	C	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限工教系（學）、圖傳系（學）、機電系（學）、電機系（學）、車能學位學程（學）、華語系（學）「應用華語文學組」選修	N	0251	賴昶	五 8-9 和平 誠106	
-114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A6	D	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限工教系（學）、圖傳系（學）、機電系（學）、電機系（學）、車能學位學程（學）、華語系（學）「應用華語文學組」選修	N	0252	王鍾山	五 8-9 和平 樸205	
+114	1	3	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A6	D	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限工教系（學）、圖傳系（學）、機電系（學）、電機系（學）、車能學位學程（學）、華語系（學）「應用華語文學組」選修	N	0252	王鍾山	五 8-9 和平 樸205	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A6	E	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限工教系（學）、圖傳系（學）、機電系（學）、電機系（學）、車能學位學程（學）、華語系（學）「應用華語文學組」選修	N	0253	許仲南	五 8-9 和平 樸206	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	37	37		00UA7A6	F	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限大一修習◎限工教系（學）、圖傳系（學）、機電系（學）、電機系（學）、車能學位學程（學）、華語系（學）「應用華語文學組」選修	N	0254	陳明緻	五 8-9 公館 Ｓ502	
 114	1	0	0	中文閱讀與思辨		不限系所。原則上不發放授權碼。	35	35		00UA7A7	A	半	2.0	共同科	CU		Chinese Reading and Thinking			0	35	必	◎限大一修習	N	0255	曾暐傑	二 A-B 和平 誠105	
@@ -255,57 +255,57 @@
 114	1	0	0	中文閱讀與思辨		不限系所。原則上不發放授權碼。	35	35		00UA7A7	C	半	2.0	共同科	CU		Chinese Reading and Thinking			0	35	必	◎限大一修習	N	0257	黃月銀	四 A-B 和平 誠106	
 114	1	0	0	中文閱讀與思辨		原則上不發放授權碼。	27	27		00UA7A8		半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必	◎限華語系（學）「國際華語與文化組」選修◎必須先修過【CLU0069  讀寫訓練（四）】	N	0258	陳惠鈴	五 8-9 和平 樸306	
 114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	28	28		00UB7A1	A	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0259	柯珍宜	一 3-4 公館 Ｓ502	
-114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	48	48		00UB7A1	B	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0260	陳嬿如	五 1-2 和平 正301	
-114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	24	24		00UB7A1	C	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0261	曾於萱	五 3-4 和平 正301	
-114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	27	27		00UB7A1	D	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0262	柯衣凡	五 3-4 和平 樸202	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	31	31		00UB7A1	E	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0263	陳嬿如	五 6-7 和平 正301	
-114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	47	47		00UB7A1	F	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0264	陳嬿如	五 8-9 和平 正301	
-114	1	0	0	英文（一）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程	37	37		00UB7A2	A	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0265	李金安	一 1-2 公館 Ｓ303	
+114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	47	47		00UB7A1	B	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0260	陳嬿如	五 1-2 和平 正301	
+114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	25	25		00UB7A1	C	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0261	曾於萱	五 3-4 和平 正301	
+114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	28	28		00UB7A1	D	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0262	柯衣凡	五 3-4 和平 樸202	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	33	33		00UB7A1	E	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0263	陳嬿如	五 6-7 和平 正301	
+114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	48	48		00UB7A1	F	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0264	陳嬿如	五 8-9 和平 正301	
+114	1	0	0	英文（一）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程	38	38		00UB7A2	A	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0265	李金安	一 1-2 公館 Ｓ303	
 114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	33	33		00UB7A2	B	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0266	李金安	一 3-4 公館 Ｓ303	
 114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	30	30		00UB7A2	C	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0267	王潔	一 3-4 公館 Ｓ202	
-114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	43	43		00UB7A2	D	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0268	郭儀風	五 1-2 公館 Ｓ402	
-114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	27	27		00UB7A2	E	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0269	郭儀風	五 3-4 公館 Ｓ402	
-114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	46	46		00UB7A2	F	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0270	陳瑄	五 1-2 和平 樸204	
+114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	44	44		00UB7A2	D	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0268	郭儀風	五 1-2 公館 Ｓ402	
+114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	28	28		00UB7A2	E	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0269	郭儀風	五 3-4 公館 Ｓ402	
+114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	47	47		00UB7A2	F	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0270	陳瑄	五 1-2 和平 樸204	
 114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	47	47		00UB7A2	G	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0271	王潔	五 1-2 和平 正302	
 114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	30	30		00UB7A2	H	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0272	王潔	五 3-4 和平 正302	
 114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	29	29		00UB7A2	I	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0273	陳惠芬	五 3-4 和平 正404	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	32	32		00UB7A2	J	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0274	陳瑄	五 6-7 和平 樸204	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	32	32		00UB7A2	K	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0275	陳惠芬	五 6-7 和平 正404	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	33	33		00UB7A2	J	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0274	陳瑄	五 6-7 和平 樸204	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	34	34		00UB7A2	K	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0275	陳惠芬	五 6-7 和平 正404	
 114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	51	51		00UB7A2	L	半	2.0	共同科	CU		English (I)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0276	項瑞芳	五 8-9 和平 正404	
-114	1	0	0	英文（一）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程	45	45		00UB7A3	A	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0277	翁悅心	一 1-2 公館 Ｓ302	
-114	1	0	0	英文（一）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程、競技系	44	44		00UB7A3	B	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0278	陳惠芬	一 1-2 公館 Ｓ403	
-114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	32	32		00UB7A3	C	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0279	翁悅心	一 3-4 公館 Ｓ302	
-114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	33	33		00UB7A3	D	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0280	徐立妍	一 3-4 公館 Ｓ307	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	31	31		00UB7A3	E	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0281	甘甯	五 6-7 公館 Ｓ503	
-114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	46	46		00UB7A3	F	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0282	甘甯	五 8-9 公館 Ｓ503	
-114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	46	46		00UB7A3	G	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0283	翁悅心	五 1-2 和平 正404	
-114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	47	47		00UB7A3	H	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0284	邵毓娟	五 1-2 和平 樸402	
+114	1	0	0	英文（一）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程	46	46		00UB7A3	A	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0277	翁悅心	一 1-2 公館 Ｓ302	
+114	1	0	0	英文（一）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程、競技系	46	46		00UB7A3	B	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0278	陳惠芬	一 1-2 公館 Ｓ403	
+114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	34	34		00UB7A3	C	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0279	翁悅心	一 3-4 公館 Ｓ302	
+114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	34	34		00UB7A3	D	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0280	徐立妍	一 3-4 公館 Ｓ307	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	33	33		00UB7A3	E	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0281	甘甯	五 6-7 公館 Ｓ503	
+114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	47	47		00UB7A3	F	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0282	甘甯	五 8-9 公館 Ｓ503	
+114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	48	48		00UB7A3	G	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0283	翁悅心	五 1-2 和平 正404	
+114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	48	48		00UB7A3	H	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0284	邵毓娟	五 1-2 和平 樸402	
 114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	31	31		00UB7A3	I	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0285	黃郁珺	五 3-4 和平 正203	
 114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	29	29		00UB7A3	J	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0286	徐立妍	五 3-4 和平 誠205	
-114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	29	29		00UB7A3	K	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0287	邵毓娟	五 3-4 和平 樸402	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	33	33		00UB7A3	L	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0288	黃郁珺	五 6-7 和平 正203	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	32	32		00UB7A3	M	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0289	金瑄桓	五 6-7 和平 樸402	
-114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	49	49		00UB7A3	N	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0290	黃郁珺	五 8-9 和平 正203	
-114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	49	49		00UB7A3	O	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0291	金瑄桓	五 8-9 和平 樸402	
-114	1	0	0	英文（一）		競技系專班	68	68		00UB7A4	A	半	2.0	共同科	CU		English (I)			0	60	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0292	林伊莉	一 1-2 公館 Ｓ101	
-114	1	0	0	英文（一）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程、競技系	48	48		00UB7A4	B	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0293	蘇鈺恩	一 1-2 公館 Ｓ402	
-114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	32	32		00UB7A4	C	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0294	林伊莉	一 3-4 公館 Ｓ101	
+114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	30	30		00UB7A3	K	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0287	邵毓娟	五 3-4 和平 樸402	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	34	34		00UB7A3	L	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0288	黃郁珺	五 6-7 和平 正203	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	33	33		00UB7A3	M	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0289	金瑄桓	五 6-7 和平 樸402	
+114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	55	55		00UB7A3	N	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0290	黃郁珺	五 8-9 和平 正203	
+114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	52	52		00UB7A3	O	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0291	金瑄桓	五 8-9 和平 樸402	
+114	1	0	0	英文（一）		競技系專班	70	70		00UB7A4	A	半	2.0	共同科	CU		English (I)			0	60	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0292	林伊莉	一 1-2 公館 Ｓ101	
+114	1	0	0	英文（一）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程、競技系	52	52		00UB7A4	B	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0293	蘇鈺恩	一 1-2 公館 Ｓ402	
+114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	33	33		00UB7A4	C	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0294	林伊莉	一 3-4 公館 Ｓ101	
 114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	32	32		00UB7A4	D	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0295	蘇鈺恩	一 3-4 公館 Ｓ402	
 114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	46	46		00UB7A4	E	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0296	彭家洋	五 1-2 和平 樸407	
-114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	47	47		00UB7A4	F	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0297	蘇鈺恩	五 1-2 和平 正201	
-114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	48	48		00UB7A4	G	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0298	林伊莉	五 1-2 和平 正202	
-114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	31	31		00UB7A4	H	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0299	彭家洋	五 3-4 和平 樸407	
+114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	46	46		00UB7A4	F	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0297	蘇鈺恩	五 1-2 和平 正201	
+114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	49	49		00UB7A4	G	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0298	林伊莉	五 1-2 和平 正202	
+114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	32	32		00UB7A4	H	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0299	彭家洋	五 3-4 和平 樸407	
 114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	31	31		00UB7A4	I	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0300	陳亞玲	五 3-4 和平 正204	
 114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	31	31		00UB7A4	J	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0301	陳秋梅	五 3-4 和平 正202	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	31	31		00UB7A4	K	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0302	彭家洋	五 6-7 和平 樸407	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	29	29		00UB7A4	L	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0303	陳亞玲	五 6-7 和平 正204	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	34	34		00UB7A4	M	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0304	陳秋梅	五 6-7 和平 正202	
-114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	49	49		00UB7A4	N	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0305	陳亞玲	五 8-9 和平 正204	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	33	33		00UB7A4	K	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0302	彭家洋	五 6-7 和平 樸407	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	38	38		00UB7A4	L	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0303	陳亞玲	五 6-7 和平 正204	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	35	35		00UB7A4	M	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0304	陳秋梅	五 6-7 和平 正202	
+114	1	0	0	英文（一）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	54	54		00UB7A4	N	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0305	陳亞玲	五 8-9 和平 正204	
 114	1	0	0	英文（一）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程、競技系專班	45	45		00UB7A5	A	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0306	林政憲	一 1-2 公館 Ｓ503	
-114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	32	32		00UB7A5	B	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0307	林政憲	一 3-4 公館 Ｓ503	
-114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	43	43		00UB7A5	C	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0308	藍偉華	五 1-2 和平 正304	
+114	1	0	0	英文（一）		數學系、物理系、化學系、全球研究學程	33	33		00UB7A5	B	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0307	林政憲	一 3-4 公館 Ｓ503	
+114	1	0	0	英文（一）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	47	47		00UB7A5	C	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0308	藍偉華	五 1-2 和平 正304	
 114	1	0	0	英文（一）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	30	30		00UB7A5	D	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0309	藍偉華	五 3-4 和平 正304	
-114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	33	33		00UB7A5	E	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0310	林政憲	五 6-7 和平 正303	
+114	1	0	0	英文（一）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	38	38		00UB7A5	E	半	2.0	共同科	CU		English (I)			0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0310	林政憲	五 6-7 和平 正303	
 114	1	0	0	英文（三）：文學與文化			35	35		00UB9A1	A	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0311	柯衣凡	一 3-4 和平 正204	
 114	1	0	0	英文（三）：文學與文化			35	35		00UB9A1	B	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0312	蘇子中	一 3-4 和平 正405	
 114	1	0	0	英文（三）：文學與文化			35	35		00UB9A1	C	半	2.0	共同科	CU		English (III): Literature and Culture	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0313	柯衣凡	四 3-4 和平 正204	
@@ -329,7 +329,7 @@
 114	1	0	0	英文（三）：學術英文寫作與口語表達			35	35		00UB9N1	A	半	2.0	共同科	CU		English (III): Academic Writing and Oral Presentation English	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0331	曾輔國	五 3-4 公館 Ｓ203	
 114	1	0	0	英文（三）：學術英文寫作與口語表達			35	35		00UB9N1	B	半	2.0	共同科	CU		English (III): Academic Writing and Oral Presentation English	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0332	曾輔國	四 3-4 和平 樸407	
 114	1	0	0	英文（三）：學術英文寫作與口語表達			35	35		00UB9N1	C	半	2.0	共同科	CU		English (III): Academic Writing and Oral Presentation English	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0333	范雅筑	四 3-4 和平 樸402	
-114	1	0	0	英文（三）：學術英文寫作與口語表達			35	35		00UB9N1	D	半	2.0	共同科	CU		English (III): Academic Writing and Oral Presentation English	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0334	曾輔國	四 6-7 和平 樸407	
+114	1	0	0	英文（三）：學術英文寫作與口語表達			34	34		00UB9N1	D	半	2.0	共同科	CU		English (III): Academic Writing and Oral Presentation English	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0334	曾輔國	四 6-7 和平 樸407	
 114	1	0	0	英文（三）：專業英語簡報			24	24		00UB9P1	A	半	2.0	共同科	CU		English (III): Professional Presentation in English	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0335	范雅筑	四 6-7 和平 正201	
 114	1	0	0	英文（三）：專業英語簡報			26	26		00UB9P1	B	半	2.0	共同科	CU		English (III): Professional Presentation in English	是		0	35	必	◎必須先修過【英文(一)】◎必須先修過【英文(二)】	N	0336	范雅筑	四 8-9 和平 正201	
 114	1	10	0	教育統計學（一）			80	80		E0U0001	A	半	2.0	教育學院	E		Educational Statistics (I)	是		0	80	選		N	0337	陳柏邑	二 3-4 和平 教103	
@@ -345,7 +345,7 @@
 114	1	10	0	教育詮釋學專題研究			6	6		EDD0011		半	3.0	教育系（博）	ED00		Special Topics in Educational Hermeneutics			0	30	選	◎課程不開放上修	N	0347	方永泉	三 9-A 和平 教801	
 114	1	10	0	高等教育財政政策			0	0		EDD0029		半	3.0	教育系（博）	ED00		Policy Analysis on Higher Education Finance	是		0	30	選	◎課程開放上修	N	0348	余穎麒	四 2-4 和平 教813	
 114	1	10	0	質性研究方法論專題研究			14	14		EDD0109		半	3.0	教育系（博）	ED00		Special Topics on Qualitative Research Methodology			0	30	選	◎課程不開放上修	N	0349	甄曉蘭	四 2-4 和平 教804	
-114	1	10	0	教育行政專題研究			4	4		EDD0159		半	3.0	教育系（博）	ED00		Special Topics on Educational Administration			0	30	必	◎課程不開放上修	N	0350	黃乃熒 陳玉娟 陳宏彰	四 9-A 和平 教803	
+114	1	10	0	教育行政專題研究			3	3		EDD0159		半	3.0	教育系（博）	ED00		Special Topics on Educational Administration			0	30	必	◎課程不開放上修	N	0350	黃乃熒 陳玉娟 陳宏彰	四 9-A 和平 教803	
 114	1	10	0	英語名著選讀與批判研究			4	4		EDD0160		半	3.0	教育系（博）	ED00		Critical Study of Selected Readings in English Educational Classics	是		0	30	選	◎課程不開放上修	N	0351	甄曉蘭	二 7-9 和平 教813	
 114	1	10	0	課程與教學新興議題研究			3	3		EDD0162		半	3.0	教育系（博）	ED00		Emerging Issues in Curriculum and Instruction	是		0	30	選	◎課程不開放上修	N	0352	甄曉蘭 郝永崴	四 9-A 和平 教804	
 114	1	10	0	進階諮商理論專題研究			4	4		PCD1004		半	3.0	心輔系（博）	ED01		Advanced Special Topics on Counseling Theories		1	0	50	必	◎課程不開放上修	N	0353	金樹人	四 2-4 和平 教517	
@@ -388,7 +388,7 @@
 114	1	10	0	教育機會均等研究	8		9	9		EDC0204		半	3.0	教育系（碩）	EM00		Studies in Equality of Educational Opportunity			0	30	選	◎課程不開放上修	N	0391	王麗雲	一 2-4 和平 教803	
 114	1	10	0	學生文化研究	8		14	14		EDC0207		半	3.0	教育系（碩）	EM00		Studies in Student Culture			0	30	選	◎課程不開放上修	N	0392	黃鴻文	二 2-4 和平 教801	
 114	1	10	0	文化社會學與教育研究	8		17	17		EDC0214		半	3.0	教育系（碩）	EM00		Studies in Sociology of Culture and Education			0	30	選	◎課程不開放上修	N	0393	鄭英傑	四 6-8 和平 教801	
-114	1	10	0	英文教育名著批判	8		13	13		EDC0222		半	3.0	教育系（碩）	EM00		Critical Study in Selected English Educational Readings			0	30	選	◎課程不開放上修	N	0394	李玉馨	四 6-8 和平 教803	
+114	1	10	0	英文教育名著批判	8		12	12		EDC0222		半	3.0	教育系（碩）	EM00		Critical Study in Selected English Educational Readings			0	30	選	◎課程不開放上修	N	0394	李玉馨	四 6-8 和平 教803	
 114	1	10	0	網路教學與教育研究	8		16	16		EDC0226		半	3.0	教育系（碩）	EM00		Telecommunications and Educational Research	是		0	30	選	◎課程不開放上修	N	0395	郝永崴	四 6-8 和平 教813	
 114	1	10	0	教育政策新興議題研究	8		17	17		EDC8001		半	3.0	教育系（碩）	EM00		Studies in Emerging Issues in Educational Policies			0	30	選	◎課程不開放上修	N	0396	王麗雲 陳宏彰	一 6-8 和平 教803	
 114	1	10	0	教育哲史研討	8		8	8		EDC8004		半	3.0	教育系（碩）	EM00		Seminar on Philosophy and History Education			0	30	選	◎課程不開放上修	N	0397	洪仁進 崔	五 3-5 和平 教801	
@@ -532,7 +532,7 @@
 114	1	10	0	教育心理學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE002	D	半	2.0	師培學院	EU		Educational Psychology </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 幼教師資生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0536	王孜?	一 8-9 和平 樸301	
 114	1	10	0	教育心理學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE002	E	半	2.0	師培學院	EU		Educational Psychology </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 幼教師資生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0537	張文哲	五 9-10 和平 教513	
 114	1	10	0	教育哲學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE003	A	半	2.0	師培學院	EU		Philosophy of Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0538	洪仁進	一 6-7 和平 教310	
-114	1	10	0	教育哲學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE003	B	半	2.0	師培學院	EU		Philosophy of Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0539	陳伊琳	二 3-4 和平 正306	
+114	1	10	0	教育哲學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			49	49		00UE003	B	半	2.0	師培學院	EU		Philosophy of Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0539	陳伊琳	二 3-4 和平 正306	
 114	1	10	0	教育哲學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE003	C	半	2.0	師培學院	EU		Philosophy of Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0540	陳伊琳	二 8-9 和平 樸401	
 114	1	10	0	教育哲學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE003	D	半	2.0	師培學院	EU		Philosophy of Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0541	林秀珍	三 6-7 和平 誠204	
 114	1	10	0	教育哲學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE003	E	半	2.0	師培學院	EU		Philosophy of Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0542	葉坤靈	三 8-9 和平 教9樓綜合教室	
@@ -542,7 +542,7 @@
 114	1	10	0	教育社會學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE004	D	半	2.0	師培學院	EU		Sociology of Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 幼教師資生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0546	張珍瑋	五 3-4 和平 樸401	
 114	1	10	0	教育社會學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE004	E	半	2.0	師培學院	EU		Sociology of Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 幼教師資生 不佔名額生 登記修習生 資優教育學程生 國小教育學程生 國小不佔名額生 可修	N	0547	張珍瑋	五 8-9 和平 樸301	
 114	1	10	0	教學原理（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			27	27		00UE005	A	半	2.0	師培學院	EU		Principles of Instruction </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 可修	N	0548	藍淑珠	一 B-C 和平 誠205	
-114	1	10	0	教學原理（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE005	B	半	2.0	師培學院	EU		Principles of Instruction </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 可修	N	0549	湯仁燕	一 3-4 和平 樸202	
+114	1	10	0	教學原理（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			49	49		00UE005	B	半	2.0	師培學院	EU		Principles of Instruction </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 可修	N	0549	湯仁燕	一 3-4 和平 樸202	
 114	1	10	0	教學原理（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE005	C	半	2.0	師培學院	EU		Principles of Instruction </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 可修	N	0550	湯仁燕	二 3-4 和平 正406	
 114	1	3	0	教學原理（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			45	45		00UE005	D	半	2.0	師培學院	EU		Principles of Instruction </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	45	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 可修	N	0551	王力億	五 6-7 和平 正102	
 114	1	10	0	班級經營（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			50	50		00UE006	A	半	2.0	師培學院	EU		Classroom Management </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 可修	N	0552	張民杰	四 6-7 和平 樸301	
@@ -584,7 +584,7 @@
 114	1	10	0	實地學習（A）（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]		本課程係期末彙整實地學習時數加註成績單用，不涉選課。如欲採認實地學習時數請洽各系辦或師培課程組。	0	0		00UE087		半	0.0	師培學院	EU		Field Lesson(A) </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0589	葉怡芬		
 114	1	10	0	實地學習（B）（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]		本課程係期末彙整實地學習時數加註成績單用，不涉選課。如欲採認實地學習時數請洽各系辦或師培課程組。	0	0		00UE088		半	0.0	師培學院	EU		Field Lesson(B) </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0590	葉怡芬		
 114	1	10	0	實地學習（C）（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]		本課程係期末彙整實地學習時數加註成績單用，不涉選課。如欲採認實地學習時數請洽各系辦或師培課程組。	0	0		00UE089		半	0.0	師培學院	EU		Field Lesson(C) </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選 ◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0591	葉怡芬		
-114	1	10	0	數學適性教學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			37	37		00UE093		半	2.0	師培學院	EU		Differentiated Instruction in Mathematics </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0592	謝佳叡	一 8-9 公館 數學館M212	
+114	1	10	0	數學適性教學（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			36	36		00UE093		半	2.0	師培學院	EU		Differentiated Instruction in Mathematics </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0592	謝佳叡	一 8-9 公館 數學館M212	
 114	1	10	0	閱讀暨資訊素養教育（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			19	19		00UE096		半	2.0	師培學院	EU		Reading and Information Literacy Education </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0593	林玫伶	二 8-9 和平 樸304	
 114	1	10	0	親職教育與親師合作（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			48	48		00UE097	A	半	2.0	師培學院	EU		Parent Education : Families and Schools Working Together </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0594	陳婉琦	三 A-B 和平 誠208	
 114	1	10	0	親職教育與親師合作（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			32	32		00UE097	B	半	2.0	師培學院	EU		Parent Education : Families and Schools Working Together </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0595	陳婉琦	五 A-B 和平 誠402	
@@ -649,7 +649,7 @@
 114	1	10	0	教育概論		本班採中文授課	44	44		EDU0153	B	半	2.0	教育系（學）	EU00		Introduction to Education		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0654	葉坤靈	三 6-7 和平 教9樓綜合教室	
 114	1	10	0	教育心理學 </br>[ 學分學程：PASSION偏鄉教育學程 ]			28	28		EDU0154	A	半	2.0	教育系（學）	EU00		Educational Psychology </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]	是	1	1	50	必	◎限大一大二修習	N	0655	唐淑華	二 8-9 和平 教310	
 114	1	10	0	教育心理學 </br>[ 學分學程：PASSION偏鄉教育學程 ]		本班採中文授課	47	47		EDU0154	B	半	2.0	教育系（學）	EU00		Educational Psychology </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一大二修習	N	0656	唐淑華	二 3-4 和平 教9樓綜合教室	
-114	1	10	0	中國教育史	1		39	39		EDU0003		半	2.0	教育系（學）	EU00		History of Chinese Education		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一◎限甲班修習	N	0657	周愚文	一 6-7 和平 教802	
+114	1	10	0	中國教育史	1		38	38		EDU0003		半	2.0	教育系（學）	EU00		History of Chinese Education		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一◎限甲班修習	N	0657	周愚文	一 6-7 和平 教802	
 114	1	10	0	中國教育史	2		31	31		EDU0003		半	2.0	教育系（學）	EU00		History of Chinese Education		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一◎限乙班修習	N	0658	周愚文	一 3-4 和平 教802	
 114	1	10	0	教育政治學			50	50		EDU0021		半	2.0	教育系（學）	EU00		Politics of Education		2	0	50	選		N	0659	王麗雲	二 8-9 和平 教312	
 114	1	10	0	美育原理 </br>[ 學分學程：社團領導學程 ]			10	10		EDU0022		半	2.0	教育系（學）	EU00		Theories of Aesthetic Education </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		2	0	50	選	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0660	林逢祺	二 6-7 和平 教802	
@@ -721,7 +721,7 @@
 114	1	10	0	社區總體營造 </br>[ 學分學程：人社學程 ]			50	50		SOU0081		半	2.0	社教系（學）	EU02		Community Building </br>[ Program: Human Services and Social Work Credit Program ]		3	2	50	選		N	0728	吳盈慧	三 8-9 和平 誠208	
 114	1	10	0	消費者行為			44	44		SOU0118		半	2.0	社教系（學）	EU02		Consumer Behavior		3	0	50	選	◎必須先修過【SOU0121  社會行銷】	N	0729	林鴻洲	二 6-7 和平 誠208	
 114	1	10	0	數位文創影視行銷			35	35		SOU0131		半	2.0	社教系（學）	EU02		Film, Television and Digital Media Marketing & Creative Industry	是	3	0	50	選	◎必須先修過【SOU0042  社會教育概論】	N	0730	林玉鵬	二 3-4 和平 正201	
-114	1	10	0	社會教育機構實習			33	33		SOU0109		半	2.0	社教系（學）	EU02		Practicum: Social Education Institutions		4	0	50	必		N	0731	張振維	六 10-C 和平 教714	
+114	1	10	0	社會教育機構實習			32	32		SOU0109		半	2.0	社教系（學）	EU02		Practicum: Social Education Institutions		4	0	50	必		N	0731	張振維	六 10-C 和平 教714	
 114	1	10	0	文化機構實習			21	21		SOU0110		半	2.0	社教系（學）	EU02		Practicum: Cultural Institutions		4	0	50	必		N	0732	徐敏雄 郭郡羽	六 10-C 和平 教710	
 114	1	10	0	文化行銷			46	46		SOU0125		半	2.0	社教系（學）	EU02		Culture Marketing and Marketing Culture		4	0	50	選		N	0733	徐凱玲	一 3-4 和平 誠108	
 114	1	10	0	整合行銷傳播			26	26		SOU0126		半	2.0	社教系（學）	EU02		Integrated Marketing Communication		4	0	50	選	◎必須先修過【SOU0121  社會行銷】	N	0734	林鴻洲	二 3-4 和平 正202	
@@ -730,8 +730,8 @@
 114	1	15	0	應用統計學	9		13	13		HEC9007		半	2.0	衛教系（學）	EU05		Applied Statistics	是		1	50	選		N	0737	朱妮明	二 6-7 和平 正103	
 114	1	15	0	衛生法規與倫理	9		36	36		HEC9008		半	2.0	衛教系（學）	EU05		Health Law and Ethics			1	50	必		N	0738	李銘杰	五 3-4 和平 正104	
 114	1	15	0	安全教育			25	25		HEU0075		半	2.0	衛教系（學）	EU05		Safety Education	是	1	1	50	選	◎限大一修習	N	0739	張育通	二 8-9 和平 正103	
-114	1	15	0	健康促進與衛生教育導論			43	43		HEU0156		半	2.0	衛教系（學）	EU05		Introduction to Health Promotion and Health Education		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0740	張鳳琴	一 6-7 和平 正103	
-114	1	15	0	人體解剖生理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]			43	43		HEU0179		半	3.0	衛教系（學）	EU05		Human Anatomy and Physiology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0741	王淑慧	一 2-4 和平 正103	
+114	1	15	0	健康促進與衛生教育導論			42	42		HEU0156		半	2.0	衛教系（學）	EU05		Introduction to Health Promotion and Health Education		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0740	張鳳琴	一 6-7 和平 正103	
+114	1	15	0	人體解剖生理學 </br>[ 學分學程：肌力與體能學程 音樂輔教學程 ]			42	42		HEU0179		半	3.0	衛教系（學）	EU05		Human Anatomy and Physiology </br>[ Program: The Program of Strength and Conditioning The Program of Music-assisted Guidance and Special Education ]		1	1	50	必	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0741	王淑慧	一 2-4 和平 正103	
 114	1	15	0	醫務管理			30	30		HEU0190		半	2.0	衛教系（學）	EU05		Healthcare Management		1	1	50	選	◎限本系(含雙主修)、輔系修習◎限大一修習	N	0742	張芳維	一 8-9 和平 正103	
 114	1	15	0	微生物學			36	36		HEU0009		半	2.0	衛教系（學）	EU05		Microbiology		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0743	賴韻如	二 8-9 公館 Ｂ101	
 114	1	15	0	營養學 </br>[ 學分學程：肌力與體能學程 ]			37	37		HEU0012		半	2.0	衛教系（學）	EU05		Nutrition </br>[ Program: The Program of Strength and Conditioning ]		2	1	50	必	◎必須先修過(也可以同時修)【HEU0156  健康促進與衛生教育導論】	N	0744	李銘杰	一 8-9 和平 正104	
@@ -790,7 +790,7 @@
 114	1	10	0	婚姻教育			32	32		HGU0338		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Marriage Education		4	0	50	必	◎必須先修過【HGU0237  家庭生活教育方案設計】	N	0797	陳翠臻	四 6-8 和平 誠206	
 114	1	10	0	家庭生活教育職場實習			31	31		HGU0391		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Internship in Family Life Education		4	0	50	必	◎必須先修過【HGU0390  家庭生活教育職場觀摩】	N	0798	楊翠竹	六 1-6 和平 教室自排	
 114	1	2	0	政治學			50	50		CEU0003		半	2.0	公領系（學）	EU07		Political Science			1	50	必		N	0799	呂啟民	五 10-A 和平 誠401	
-114	1	10	0	經濟學 </br>[ 學分學程：財金學程 ]			101	101		CEU0011		半	2.0	公領系（學）	EU07		Economics </br>[ Program: The Program of Finance ]			7	150	必	◎公領系（學） 不得修習	N	0800	周有熙	一 10-A 和平 教201演講廳	
+114	1	10	0	經濟學 </br>[ 學分學程：財金學程 ]			100	100		CEU0011		半	2.0	公領系（學）	EU07		Economics </br>[ Program: The Program of Finance ]			7	150	必	◎公領系（學） 不得修習	N	0800	周有熙	一 10-A 和平 教201演講廳	
 114	1	10	0	比較公民教育		何家騏老師	17	17		CEU0514		半	2.0	公領系（學）	EU07		Comparative Civic Education	是		3	50	選		N	0801	何家騏	四 6-7 和平 正105	
 114	1	10	0	公民與社會教學實習（一）（教）			40	40		CEUE004		半	2.0	公領系（學）	EU07		Teaching Practicum: Civics and Society (I)			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修◎必須先修過【CEUE002  公民與社會（公民）教材教法（教）】	N	0802	劉秀嫚	二 6-9 和平 誠大樓公團部	
 114	1	10	0	童軍教學實習（一）（教）			9	9		CEUE008		半	2.0	公領系（學）	EU07		Teaching Practicum: Scout Education (I)			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修◎必須先修過【CEUE101  童軍教育教材教法（教）】	N	0803	徐秀婕	二 6-9 和平 童技室	
@@ -888,16 +888,16 @@
 114	1	10	0	學習評量與測驗			33	33		LSU0042		半	3.0	學習科學學位學程（學）	EU11		Learning Assessment and Testing			0	50	選		N	0895	李旻憲	一 6-8 和平 教103	
 114	1	10	0	資訊行為			32	32		LSU0047		半	3.0	學習科學學位學程（學）	EU11		Information Behavior			0	50	選		N	0896	林宗進	四 6-8 和平 教201演講廳	
 114	1	8	0	學習動機與策略			17	17		LSU0054		半	3.0	學習科學學位學程（學）	EU11		Learning Motivation and Strategies			1	50	選		N	0897	張欣怡	三 6-8 和平 誠109	
-114	1	10	0	機率導論			23	23		LSU0056		半	3.0	學習科學學位學程（學）	EU11		Theory of Probability			0	50	必		N	0898	李良一	五 2-4 和平 綜509國際會議廳	
+114	1	10	0	機率導論			22	22		LSU0056		半	3.0	學習科學學位學程（學）	EU11		Theory of Probability			0	50	必		N	0898	李良一	五 2-4 和平 綜509國際會議廳	
 114	1	10	0	專題討論			19	19		LSU0059		半	2.0	學習科學學位學程（學）	EU11		Seminar			0	50	必		N	0899	吳清麟 李良一	二 6-7 和平 正201	
 114	1	10	0	總整課程（一）			15	15		LSU0060		半	2.0	學習科學學位學程（學）	EU11		Capstone (I)			0	50	必		N	0900	林宗進	二 6-7 和平 正204	
-114	1	4	0	跨文化溝通與全球公民素養			46	46		TEU0005		半	3.0	教院學士班（學）	EU13		Cross-Cultural Communication and Global Citizenship Literacy	是		1	50	必		N	0901	胡翠君	四 2-4 和平 樸105	
-114	1	0	0	情緒管理與壓力調適			27	27		TEU0024		半	3.0	教院學士班（學）	EU13		Mood Management and Pressure Adjustment	是	1	0	40	選	◎限大一修習	N	0902	范俊銘	二 8-10 和平 正105	
-114	1	10	0	質性研究			8	8		TEU0020		半	3.0	教院學士班（學）	EU13		Qualitative Research	是	2	0	50	選		N	0903	郭晏輔	一 6-8 和平 正406	
-114	1	10	0	教育社會學			14	14		TEU0022		半	2.0	教院學士班（學）	EU13		Sociology of Education	是	2	0	50	選		N	0904	鄭景澤	四 8-9 和平 正103	
+114	1	4	0	跨文化溝通與全球公民素養			46	46		TEU0005		半	3.0	教院學士班	EU13		Cross-Cultural Communication and Global Citizenship Literacy	是		1	50	必		N	0901	胡翠君	四 2-4 和平 樸105	
+114	1	0	0	情緒管理與壓力調適			27	27		TEU0024		半	3.0	教院學士班	EU13		Mood Management and Pressure Adjustment	是	1	0	40	選	◎限大一修習	N	0902	范俊銘	二 8-10 和平 正105	
+114	1	10	0	質性研究			8	8		TEU0020		半	3.0	教院學士班	EU13		Qualitative Research	是	2	0	50	選		N	0903	郭晏輔	一 6-8 和平 正406	
+114	1	10	0	教育社會學			14	14		TEU0022		半	2.0	教院學士班	EU13		Sociology of Education	是	2	0	50	選		N	0904	鄭景澤	四 8-9 和平 正103	
 114	1	0	0	西洋古典音樂			15	15		01UG003		半	2.0	通識	GU		Classical Music	是		0	50	通	◎音樂系（學）不得選修	N	0905	劉錦紋	二 6-7 公館 Ｂ101	A1UG
 114	1	6	0	音樂鑑賞 </br>[ 學分學程：高齡學程 社團領導學程 ]			25	25		01UG004	A	半	2.0	通識	GU		Music Appreciation </br>[ Program: The program of Cultivating Seniors Service Talent in Community The Program of Club Members Leadership And Empowerment Cultivation ]	是		0	50	通	◎音樂系（學）不得選修	N	0906	劉錦紋	一 8-9 公館 Ｓ101	A1UG
-114	1	6	0	音樂鑑賞 </br>[ 學分學程：高齡學程 社團領導學程 ]			16	16		01UG004	B	半	2.0	通識	GU		Music Appreciation </br>[ Program: The program of Cultivating Seniors Service Talent in Community The Program of Club Members Leadership And Empowerment Cultivation ]	是		5	50	通	◎音樂系（學）不得選修	N	0907	劉錦紋	二 8-9 公館 Ｓ101	A1UG
+114	1	6	0	音樂鑑賞 </br>[ 學分學程：高齡學程 社團領導學程 ]			15	15		01UG004	B	半	2.0	通識	GU		Music Appreciation </br>[ Program: The program of Cultivating Seniors Service Talent in Community The Program of Club Members Leadership And Empowerment Cultivation ]	是		5	50	通	◎音樂系（學）不得選修	N	0907	劉錦紋	二 8-9 公館 Ｓ101	A1UG
 114	1	10	0	音樂鑑賞 </br>[ 學分學程：高齡學程 社團領導學程 ]			42	42		01UG004	C	半	2.0	通識	GU		Music Appreciation </br>[ Program: The program of Cultivating Seniors Service Talent in Community The Program of Club Members Leadership And Empowerment Cultivation ]			1	50	通	◎音樂系（學）不得選修	N	0908	林芝良	五 1-2 和平 音308	A1UG
 114	1	10	0	臺灣小說選讀			40	40		01UG006		半	2.0	通識	GU		Selected Readings in Taiwanese Novels			3	104	通		N	0909	林淑慧	三 3-4 和平 教202會議廳	A1UG
 114	1	0	0	旅行文學		本課程授課為全台語文進行為主。	25	25		01UG008		半	2.0	通識	GU		Travelling Literature			0	50	通		N	0910	魏俊陽	二 9-10 和平 正202	A1UG
@@ -905,22 +905,22 @@
 114	1	0	0	亞裔美國文學與電影的藝術形式		Add the course online. Students should be able to read journal articles written in English and write an essay in English. Learn how to use Microsoft Teams and Moodle. Include your name, your student number, course title, and group B in all correspondence.	22	22		01UG011	B	半	2.0	通識	GU		Forms of Asian American Literature and Film	是		0	70	通		N	0912	左乙萱	五 8-9 和平 樸401	A1UG
 114	1	10	0	舞蹈鑑賞 </br>[ 學分學程：高齡學程 社團領導學程 ]			14	14		01UG012		半	3.0	通識	GU		Dance Appreciation </br>[ Program: The program of Cultivating Seniors Service Talent in Community The Program of Club Members Leadership And Empowerment Cultivation ]			5	50	通		N	0913	王宏豪	一 6-8 和平 誠202	A1UG
 114	1	5	0	戲劇鑑賞 </br>[ 學分學程：社團領導學程 ]			42	42		01UG016		半	2.0	通識	GU		Drama Appreciation </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]			0	50	通		N	0914	王秀娟	三 3-4 和平 正204	A1UG
-114	1	9	0	民間文學與說唱藝術			54	54		01UG018		半	2.0	通識	GU		Folk Literatures and Speaking-Singing Arts			0	85	通	◎國文系（學）不得選修	N	0915	蔡孟珍	三 3-4 和平 誠202	A1UG
+114	1	9	0	民間文學與說唱藝術			53	53		01UG018		半	2.0	通識	GU		Folk Literatures and Speaking-Singing Arts			0	85	通	◎國文系（學）不得選修	N	0915	蔡孟珍	三 3-4 和平 誠202	A1UG
 114	1	0	0	文學與電影		◎數位課程 僅顯示同步遠距及面授時間。	21	21		01UG021		半	3.0	通識	GU		Literature and Film			10	110	通		1	0916	蘇榕	◎面授/同步	A1UG
 114	1	0	0	日本美術鑑賞			42	42		01UG027		半	2.0	通識	GU		Appreciation of Japanese Art			3	50	通		N	0917	蔡家丘	四 8-9 和平 美術館601	A1UG
 114	1	10	0	音樂與戲劇			42	42		01UG033		半	2.0	通識	GU		Music and Drama			3	50	通	◎音樂系（學）不得選修	N	0918	王望舒	四 3-4 和平 誠102	A1UG/B2UG
-114	1	10	0	高行健與表演藝術			25	25		01UG037		半	2.0	通識	GU		Gao Xingjian and the Performance Art			0	50	通		N	0919	黃于真	三 8-9 和平 誠302	A1UG
+114	1	10	0	高行健與表演藝術			24	24		01UG037		半	2.0	通識	GU		Gao Xingjian and the Performance Art			0	50	通		N	0919	黃于真	三 8-9 和平 誠302	A1UG
 114	1	10	0	音樂與我			17	17		01UG038		半	2.0	通識	GU		Music and I	是		1	50	通	◎音樂系（學）不得選修	N	0920	趙菁文	三 5-6 和平 音308	A1UG
 114	1	10	0	鋼琴黃金年代			16	16		01UG039		半	2.0	通識	GU		The Golden Age of Piano	是		1	50	通	◎音樂系（學）不得選修	N	0921	廖皎含	四 3-4 和平 音308	A1UG
 114	1	3	0	認識錄像藝術：從電影院到美術館			35	35		01UG042		半	2.0	通識	GU		Introduction to Video Art: from Movie Theater to Art Museum	是		0	45	通		N	0922	謝佩君	二 6-7 和平 誠106	A1UG
 114	1	0	0	哲學入門			64	64		02UG001		半	2.0	通識	GU		Introduction to Philosophy			0	95	通	◎公領系（學）不得選修	N	0923	傅皓政	一 3-4 和平 誠301	A2UG
-114	1	5	0	思考方法			42	42		02UG002		半	2.0	通識	GU		Methods of Thinking			0	50	通		N	0924	郭芳如	四 3-4 和平 正202	A2UG
+114	1	5	0	思考方法			41	41		02UG002		半	2.0	通識	GU		Methods of Thinking			0	50	通		N	0924	郭芳如	四 3-4 和平 正202	A2UG
 114	1	10	0	道德推理			57	57		02UG005		半	2.0	通識	GU		Moral Reasoning			0	100	通		N	0925	洪仁進	一 8-9 和平 教201演講廳	A2UG
 114	1	0	0	人生哲學與批判性思考		不開放授權碼。	55	55		02UG010	A	半	2.0	通識	GU		A Good Life and Critical Thinking			0	65	通		N	0926	鄭鈞瑋	三 3-4 和平 誠108	A2UG
 114	1	0	0	人生哲學與批判性思考		不開放授權碼。	55	55		02UG010	B	半	2.0	通識	GU		A Good Life and Critical Thinking			0	65	通		N	0927	鄭鈞瑋	三 6-7 和平 誠108	A2UG
 114	1	10	0	人生哲學與批判性思考			42	42		02UG010	C	半	2.0	通識	GU		A Good Life and Critical Thinking			0	50	通		N	0928	紀金慶	四 3-4 公館 理圖002	A2UG
 114	1	0	0	人生哲學與批判性思考			15	15		02UG010	D	半	2.0	通識	GU		A Good Life and Critical Thinking			0	50	通		N	0929	劉育兆	五 3-4 公館 理圖001	A2UG
-114	1	10	0	佛學中的人生智慧			102	102		02UG019		半	2.0	通識	GU		Wisdom of Life from Buddhism			0	120	通		N	0930	釋見見	四 8-9 和平 綜210展覽廳	A2UG
+114	1	10	0	佛學中的人生智慧			101	101		02UG019		半	2.0	通識	GU		Wisdom of Life from Buddhism			0	120	通		N	0930	釋見見	四 8-9 和平 綜210展覽廳	A2UG
 114	1	10	0	經典與情緒素養			42	42		02UG020		半	2.0	通識	GU		Emotions in Classics and Literature			0	50	通		N	0931	徐國能 金培懿 張崑將	四 6-7 和平 誠203	A1UG
 114	1	0	0	多元文化 </br>[ 學分學程：PASSION偏鄉教育學程 社團領導學程 ]			42	42		03UG003		半	2.0	通識	GU		Multicultural Literacy </br>[ Program: The Program of PASSION Quality Education in Rural Schools The Program of Club Members Leadership And Empowerment Cultivation ]	是		0	49	通		N	0932	范俊銘	四 8-9 公館 Ｓ204	A2UG
 114	1	10	0	現代公民與法律			42	42		03UG005		半	2.0	通識	GU		Citizenship and Law			0	50	通	◎公領系（學）不得選修	N	0933	陳彥?	四 A-B 和平 誠104	A2UG
@@ -932,7 +932,7 @@
 114	1	0	0	鑑識科學概論			102	102		03UG031		半	2.0	通識	GU		Introduction to Forensic Sciences			0	120	通		N	0939	李承龍	三 8-9 和平 教201演講廳	A2UG
 114	1	10	0	管理學入門			51	51		03UG041	A	半	2.0	通識	GU		Introduction to Management			0	60	通	◎企管系（學）不得選修	N	0940	廖仁傑	二 6-7 和平 誠102	A2UG/B2UG
 114	1	10	0	管理學入門			52	52		03UG041	B	半	2.0	通識	GU		Introduction to Management			0	60	通	◎企管系（學）不得選修	N	0941	廖仁傑	三 6-7 和平 誠302	A2UG/B2UG
-114	1	10	0	科技產業營業秘密保護與智慧財產權			85	85		03UG042		半	2.0	通識	GU		Trade Secret Protection and Intellectual Property Rights of Technology Industry			0	100	通		N	0942	劉傳璽	五 6-7 和平 綜509國際會議廳	A2UG
+114	1	10	0	科技產業營業秘密保護與智慧財產權			84	84		03UG042		半	2.0	通識	GU		Trade Secret Protection and Intellectual Property Rights of Technology Industry			0	100	通		N	0942	劉傳璽	五 6-7 和平 綜509國際會議廳	A2UG
 114	1	1	0	當代社會與文化關鍵議題			26	26		03UG045	A	半	2.0	通識	GU		Key Issues of Contemporary Society and Culture	是		2	50	通		N	0943	何家騏	三 3-4 和平 誠305	A2UG
 114	1	0	0	當代社會與文化關鍵議題			42	42		03UG045	B	半	2.0	通識	GU		Key Issues of Contemporary Society and Culture	是		0	49	通		N	0944	范俊銘	四 10-A 公館 Ｓ204	A2UG
 114	1	3	0	生活中的SDGs </br>[ 學分學程：環境人文學程 ]			38	38		03UG047		半	2.0	通識	GU		SDGs in Daily Life </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		1	50	通		N	0945	蘇淑娟	三 3-4 和平 誠304	A2UG
@@ -954,7 +954,7 @@
 114	1	0	0	邏輯思考與應用		全國最有個性的通識課，但保證教到會(免費個別教導)。	70	70		05UG001	B	半	2.0	通識	GU		Logical Thinking and Application			15	155	通		N	0962	王銀國	二 8-9 和平 誠101	A3UG/B2UG
 114	1	0	0	邏輯思考與應用			32	32		05UG001	C	半	2.0	通識	GU		Logical Thinking and Application			2	55	通		N	0963	蔡承志	二 6-7 和平 誠203	A3UG/B2UG
 114	1	5	0	邏輯思考與應用			38	38		05UG001	D	半	2.0	通識	GU		Logical Thinking and Application			0	60	通		N	0964	王鍾山	五 3-4 和平 誠401	A3UG/B2UG
-114	1	0	0	科學思維 </br>[ 學分學程：科技化教學產業學程 理工實作學程 ]		不開放授權碼。	64	64		05UG002	A	半	2.0	通識	GU		Introduction to Scientific Thinking </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of STEM Innovation and Practices ]			0	75	通		N	0965	鍾兆晉	一 10-A 和平 誠203	A3UG
+114	1	0	0	科學思維 </br>[ 學分學程：科技化教學產業學程 理工實作學程 ]		不開放授權碼。	62	62		05UG002	A	半	2.0	通識	GU		Introduction to Scientific Thinking </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of STEM Innovation and Practices ]			0	75	通		N	0965	鍾兆晉	一 10-A 和平 誠203	A3UG
 114	1	0	0	科學思維 </br>[ 學分學程：科技化教學產業學程 理工實作學程 ]		不開放授權碼。	45	45		05UG002	B	半	2.0	通識	GU		Introduction to Scientific Thinking </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of STEM Innovation and Practices ]			0	75	通		N	0966	鍾兆晉	一 B-C 和平 誠203	A3UG
 114	1	10	0	小說與電影中的數學思維			42	42		05UG005		半	2.0	通識	GU		Mathematical Thinking in Fiction and Films			0	50	通		N	0967	謝佳叡	三 3-4 公館 Ｂ101	A3UG
 114	1	0	0	科學的語言			47	47		05UG010		半	2.0	通識	GU		The Language of Sciences			2	55	通		N	0968	蔡承志	二 8-9 和平 誠203	A3UG
@@ -978,7 +978,7 @@
 114	1	5	0	試算表進階應用與程式設計			42	42		05UG021	B	半	2.0	通識	GU		Advanced Applications of Spreadsheets and Programming			3	50	通		N	0986	吳清輝	三 6-7 和平 教401	A4UG
 114	1	4	0	學程式玩音樂 </br>[ 學分學程：音樂科技學程 ]			42	42		05UG022		半	2.0	通識	GU		Learning Programming for Music </br>[ Program: The Program of Computer Music and Audio Technology ]			3	50	通		N	0987	林宜徵	二 3-4 和平 教402	A4UG
 114	1	3	0	文本分析與程式設計			12	12		05UG023	A	半	2.0	通識	GU		Textual Data Analysis			0	37	通		N	0988	王祥安	五 3-4 和平 教403	A4UG
-114	1	4	0	文本分析與程式設計			22	22		05UG023	B	半	2.0	通識	GU		Textual Data Analysis			3	50	通		N	0989	王祥安	五 6-7 和平 教401	A4UG
+114	1	4	0	文本分析與程式設計			21	21		05UG023	B	半	2.0	通識	GU		Textual Data Analysis			3	50	通		N	0989	王祥安	五 6-7 和平 教401	A4UG
 114	1	5	0	遊戲程式設計 </br>[ 學分學程：資訊科技應用學程 ]			21	21		05UG025	A	半	2.0	通識	GU		Learn to Code: Images, Animation, and Games </br>[ Program: The Program of Application of Information Technology ]			1	50	通		N	0990	劉建成	二 6-7 公館 理圖801	A4UG
 114	1	5	0	遊戲程式設計 </br>[ 學分學程：資訊科技應用學程 ]			42	42		05UG025	B	半	2.0	通識	GU		Learn to Code: Images, Animation, and Games </br>[ Program: The Program of Application of Information Technology ]			1	50	通		N	0991	劉建成	四 6-7 和平 教402	A4UG
 114	1	10	0	運動數據分析與程式設計			41	41		05UG026		半	2.0	通識	GU		Computer Programming and Data Analysis in Sports			1	50	通		N	0992	劉爾剛	三 B-C 和平 教401	A4UG
