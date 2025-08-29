@@ -17,6 +17,9 @@
         :rows="50"
         :rowsPerPageOptions="[10, 20, 50, 100]"
         :loading="loading"
+        contextMenu
+        v-model:contextMenuSelection="selectedProduct"
+        @rowContextmenu="onRowContextMenu"
         :style="{
           border: '1px solid var(--p-datatable-border-color)',
           borderRadius: '0.5rem',
@@ -109,6 +112,7 @@
           </template>
         </Column>
       </DataTable>
+      <ContextMenu ref="cm" :model="menuModel" @hide="selectedProduct = null" />
     </div>
   </div>
 </template>
@@ -121,7 +125,7 @@ import { FilterMatchMode, FilterOperator } from "@primevue/core/api";
 import { useCourses } from "~/composables/useCourses";
 import { useSelectCourse } from "~/composables/useSelectCourse";
 
-import { DataTable, Column, Skeleton, Button } from "primevue";
+import { DataTable, Column, Skeleton, Button, ContextMenu } from "primevue";
 import { CourseCell, CourseSearchBar } from "#components";
 
 const router = useRouter();
@@ -171,6 +175,84 @@ const currentlastUpdate = ref("unknown");
 // 搜尋模式與子篩選器
 const searchMode = ref("");
 
+const selectedProduct = ref(null);
+const cm = ref(null);
+const menuModel = ref([
+  {
+    get label() {
+      if (!selectedProduct.value) {
+        return "有點錯誤";
+      }
+      return selectedProduct.value.course_name;
+    },
+    icon: "pi pi-info-circle",
+    command: () => {
+      if (selectedProduct.value) {
+        router.push({
+          name: "course",
+          query: {
+            year: selectedProduct.value.acadm_year,
+            term: selectedProduct.value.acadm_term,
+            id: selectedProduct.value.serial_no,
+          },
+        });
+      }
+      selectedProduct.value = null;
+    },
+  },
+  {
+    get label() {
+      return checkSelectedCourse(selectedProduct.value?.serial_no)
+        ? "取消選課"
+        : "加入選課";
+    },
+    get icon() {
+      return checkSelectedCourse(selectedProduct.value?.serial_no)
+        ? "pi pi-minus"
+        : "pi pi-plus";
+    },
+    command: () => {
+      if (selectedProduct.value) {
+        selectCourse(selectedProduct.value);
+      }
+      selectedProduct.value = null;
+    },
+  },
+  {
+    get label() {
+      return checkSelectCode(selectedProduct.value?.course_code)
+        ? "取消收藏"
+        : "加入收藏";
+    },
+    get icon() {
+      return checkSelectCode(selectedProduct.value?.course_code)
+        ? "pi pi-heart"
+        : "pi pi-heart-fill";
+    },
+    command: () => {
+      if (selectedProduct.value) {
+        selectCodeHandler(
+          selectedProduct.value.course_code,
+          selectedProduct.value.course_name
+        );
+      }
+      selectedProduct.value = null;
+    },
+  },
+  {
+    // label: "選課總人數：",
+    get label() {
+      if (!selectedProduct.value) {
+        return "有點錯誤";
+      }
+      return `選課總人數：${
+        Number(selectedProduct.value.counter_exceptAuth) || "?"
+      } / ${Number(selectedProduct.value.limit_count_h) || "?"}`;
+    },
+    icon: "pi pi-users",
+  },
+]);
+
 const filters = useState("filters", () => ({
   global: {
     value: null,
@@ -200,6 +282,10 @@ const filters = useState("filters", () => ({
     ])
   ),
 }));
+
+function onRowContextMenu(event) {
+  cm.value.show(event.originalEvent);
+}
 
 function scroll(deltaY) {
   if (
