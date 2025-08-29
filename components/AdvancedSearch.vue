@@ -146,6 +146,29 @@ const advancedSearchFilters = useState("advancedSearchFilters", () => ({
       },
     },
   ],
+  選課資訊: [
+    {
+      value: { 未額滿課程: false },
+      onChange: (value) => {
+        updateFilters({
+          notFull: value.未額滿課程
+            ? {
+                operator: FilterOperator.OR,
+                constraints: [
+                  {
+                    value: true,
+                    matchMode: FilterMatchMode.EQUALS,
+                  },
+                ],
+              }
+            : {
+                operator: FilterOperator.OR,
+                constraints: [],
+              },
+        });
+      },
+    },
+  ],
   學分數: [
     {
       value: { 1: false, 2: false, 3: false, 4: false, ">= 5": false },
@@ -188,39 +211,46 @@ function updateFilters(updatefilter) {
   const updatedFilters = { ...filters.value, ...updatefilter };
   filters.value = updatedFilters;
 
-  const filterDescriptions = [];
-  for (const [key, filter] of Object.entries(advancedSearchFilters.value)) {
-    if (filter[0].grouped_select_list) {
-      continue;
+  setTimeout(() => {
+    const filterDescriptions = [];
+    for (const [key, filter] of Object.entries(advancedSearchFilters.value)) {
+      if (filter[0].grouped_select_list) {
+        continue;
+      }
+      const selectedOptions = Object.entries(filter[0].value)
+        .filter(([_, isSelected]) => isSelected)
+        .map(([option]) => option);
+      if (selectedOptions.length > 0) {
+        filterDescriptions.push(`${key}：${selectedOptions.join("、")}`);
+      }
     }
-    const selectedOptions = Object.entries(filter[0].value)
-      .filter(([_, isSelected]) => isSelected)
-      .map(([option]) => option);
-    if (selectedOptions.length > 0) {
-      filterDescriptions.push(`${key}：${selectedOptions.join("、")}`);
+    if (timeFilterFormatList.value.length > 0) {
+      filterDescriptions.push(
+        `上課時間：${timeFilterFormatList.value.join("、")}` +
+          (isTimeHardFilter.value ? "" : "（軟篩選）")
+      );
     }
-  }
-  if (timeFilterFormatList.value.length > 0) {
-    filterDescriptions.push(
-      `上課時間：${timeFilterFormatList.value.join("、")}` +
-        (isTimeHardFilter.value ? "" : "（軟篩選）")
-    );
-  }
-  if (
-    advancedSearchFilters.value["開課系所"][0].value &&
-    !advancedSearchFilters.value["開課系所"][0].value.empty
-  ) {
-    const treeSelectValue = treeSelectRef.value[0]?.label || "";
-    filterDescriptions.push(`開課系所：${treeSelectValue}`);
-  }
+    if (
+      advancedSearchFilters.value["開課系所"][0].value &&
+      Object.keys(advancedSearchFilters.value["開課系所"][0].value).length !== 0
+    ) {
+      console.log(advancedSearchFilters.value["開課系所"][0].value);
+      const treeSelectValue = treeSelectRef.value[0]?.label || "";
+      console.log(treeSelectValue);
+      if (treeSelectValue !== "開課系所") {
+        // filterDescriptions.push(`開課系所：${treeSelectValue}`);
+        filterDescriptions.push(`開課系所：...`);
+      }
+    }
 
-  if (filterDescriptions.length > 0) {
-    advancedSearchDisplayValue.value = filterDescriptions
-      .join("｜")
-      .replace(/,\s*/g, "、");
-  } else {
-    advancedSearchDisplayValue.value = "點擊進行進階搜尋";
-  }
+    if (filterDescriptions.length > 0) {
+      advancedSearchDisplayValue.value = filterDescriptions
+        .join("｜")
+        .replace(/,\s*/g, "、");
+    } else {
+      advancedSearchDisplayValue.value = "點擊進行進階搜尋";
+    }
+  }, 0);
 }
 
 watch(

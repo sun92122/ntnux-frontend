@@ -124,6 +124,7 @@ export function useCourses() {
       item.teacher = teacherNameFormatter(item.teacher);
       item.timeListStr = parseTimeListStr(item.timeLocList);
       item.programs = parseProgram(item.chn_name);
+      item.notFull = Number(item.counter_exceptAuth) < Number(item.limit_count_h);
 
       if (item.programs) {
         item.programs.split("/").forEach((program) => {
