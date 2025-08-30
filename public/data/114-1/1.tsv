@@ -26,7 +26,7 @@
 114	1	10	0	學術寫作			32	32		0HUG011		半	2.0	通識	GU		Academic Writing			1	50	通		N	1024	謝秀卉	二 3-4 和平 樸306	A1UG
 114	1	10	0	樂府詩與人生			135	135		0HUG249		半	2.0	通識	GU		Yuefu Poems and Life			0	135	通	◎國文系（學）不得選修	N	1025	林淑雲	一 6-7 和平 誠101	A1UG
 114	1	10	0	元宇宙敘事導論 </br>[ 學分學程：元宇宙學程 ]			52	52		0HUG253		半	2.0	通識	GU		Introduction to Metaverse Narrative </br>[ Program: The Program of Metaverse Narrative ]			2	50	通		N	1026	羅凡晸 曹筱玥	三 3-4 和平 教401	A1UG
-114	1	10	0	莎士比亞的故事			70	70		0HUG432		半	2.0	通識	GU		Shakespeare			0	70	通		N	1027	蘇子中	二 6-7 和平 誠202	A1UG/B2UG
+114	1	28	0	莎士比亞的故事			70	70		0HUG432		半	2.0	通識	GU		Shakespeare			0	70	通		N	1027	蘇子中	二 6-7 和平 誠202	A1UG/B2UG
 114	1	5	0	大腦中的語言：心理語言學入門			50	50		0HUG450		半	2.0	通識	GU		Language inside Our Heads: An Introduction to Psycholinguistics	是		0	50	通		N	1028	颯楊	三 8-9 和平 誠305	A1UG
 114	1	10	0	日語（一）		1.日語母語者不可修本課程  2.不接受旁聽  3.只限三校聯盟選課。	60	60		0HUG501	A	半	2.0	通識	GU		Beginning Japanese			0	60	通		N	1029	張怡倩	二 3-4 公館 理圖003	A1UG
 114	1	10	0	日語（一）		1.日語母語者不可修本課程  2.不接受旁聽  3.只限三校聯盟選課。	60	60		0HUG501	B	半	2.0	通識	GU		Beginning Japanese			0	60	通		N	1030	張怡倩	二 6-7 公館 理圖003	A1UG
@@ -107,24 +107,24 @@
 114	1	5	0	科技與工程教育比較專題研究			4	4		ITD0044		半	3.0	科技系（博）	HD71		Special Topics on Comparative Technology and Engineering Education			3	30	選	◎課程不開放上修	N	1106	林坤誼	四 2-4 和平 科技系TB212教室	
 114	1	5	0	研究方法論			4	4		ITD0010		半	3.0	科技系（博）	HD71		Research Methodology		1	0	30	必	◎課程不開放上修	N	1107	張基成	五 2-4 和平 科技系TA513教室	
 114	1	10	0	科學與數學理論		◎數位課程   All distance learning courses display synchronous learning and face-to-face learning time only.    Class location : TB413	3	3		STD0005		半	2.0	科工學位學程（博）	HD78		Theory in Science and Mathematics	是	1	3	30	選	◎課程不開放上修	1	1108	賴以威	◎面授/同步	
-114	1	10	0	教育統計學			30	30		IEM0001		半	2.0	工教系（碩）	HM70		Educational Statistics			0	50	必	◎課程開放上修	N	1109	李懿芳	二 9-10 和平 研討六	
-114	1	10	0	工業教育研究法（一）			29	29		IEM0002		半	2.0	工教系（碩）	HM70		Research Methods in Industrial Education (I)			0	50	必	◎課程開放上修	N	1110	詹育	二 3-4 和平 工教系會議室	
+114	1	10	0	教育統計學			29	29		IEM0001		半	2.0	工教系（碩）	HM70		Educational Statistics			0	50	必	◎課程開放上修	N	1109	李懿芳	二 9-10 和平 研討六	
+114	1	10	0	工業教育研究法（一）			28	28		IEM0002		半	2.0	工教系（碩）	HM70		Research Methods in Industrial Education (I)			0	50	必	◎課程開放上修	N	1110	詹育	二 3-4 和平 工教系會議室	
 114	1	10	0	書報討論－技職教育（一）			14	14		IEM0004		半	1.0	工教系（碩）	HM70		Seminar on Vocational Technical (I)			0	50	必	◎課程開放上修	N	1111	詹育	三 7 和平 研討六	
-114	1	10	0	科技管理			16	16		IEM0086		半	2.0	工教系（碩）	HM70		Technology Management			0	50	必	◎課程開放上修	N	1112	陳麗妃	三 5-6 和平 研討一	
+114	1	10	0	科技管理			15	15		IEM0086		半	2.0	工教系（碩）	HM70		Technology Management			0	50	必	◎課程開放上修	N	1112	陳麗妃	三 5-6 和平 研討一	
 114	1	10	0	合金鍛造與鑄造特論			7	7		IEM0154		半	3.0	工教系（碩）	HM70		Special Topic of Casting and Forging of Alloys			0	50	選	◎課程開放上修	N	1113	郭金國	五 6-8 和平 研討一	
-114	1	10	0	企業實習			10	10		IEM0334		半	1.0	工教系（碩）	HM70		Enterprise Practice			0	50	選	◎課程不開放上修	N	1114	周明 陳麗妃 蘇友珊	三 1-2 和平 研討五	
+114	1	10	0	企業實習			9	9		IEM0334		半	1.0	工教系（碩）	HM70		Enterprise Practice			0	50	選	◎課程不開放上修	N	1114	周明 陳麗妃 蘇友珊	三 1-2 和平 研討五	
 114	1	10	0	書報討論－技職教育（三）			13	13		IEM0377		半	1.0	工教系（碩）	HM70		Seminar on Vocational Technical  (III)			0	50	必	◎課程開放上修	N	1115	曾璧光	三 8 和平 研討五	
-114	1	10	0	書報討論－科技應用管理（三）			12	12		IEM0387		半	1.0	工教系（碩）	HM70		Seminar on Technological Application Management(III)			0	50	必	◎課程開放上修	N	1116	陳麗妃	三 8 和平 研討四	
-114	1	10	0	書報討論－科技應用管理（一）			15	15		IEM0395		半	1.0	工教系（碩）	HM70		Seminar on Technological Application Management(I)			0	50	必	◎課程開放上修	N	1117	蘇友珊	三 7 和平 研討一	
+114	1	10	0	書報討論－科技應用管理（三）			11	11		IEM0387		半	1.0	工教系（碩）	HM70		Seminar on Technological Application Management(III)			0	50	必	◎課程開放上修	N	1116	陳麗妃	三 8 和平 研討四	
+114	1	10	0	書報討論－科技應用管理（一）			14	14		IEM0395		半	1.0	工教系（碩）	HM70		Seminar on Technological Application Management(I)			0	50	必	◎課程開放上修	N	1117	蘇友珊	三 7 和平 研討一	
 114	1	10	0	技職教育行政與視導研究			5	5		IEM0404		半	2.0	工教系（碩）	HM70		Technical-Vocational Education Administration and Supervision			0	50	選	◎課程開放上修	N	1118	曾璧光	一 9-10 和平 研討四	
 114	1	10	0	技職教育教材與教學設計研究			11	11		IEM0407		半	2.0	工教系（碩）	HM70		Teaching Material and Instruction Design of Technical-Vocational Education			0	50	選	◎課程開放上修	N	1119	陳美姿	三 9-10 和平 研討五	
 114	1	10	0	技職教育測驗與評量研究			4	4		IEM0408		半	2.0	工教系（碩）	HM70		Test and Measurement Assessment of Technical-Vocational Education			0	50	選	◎課程開放上修	N	1120	吳明振	一 7-8 和平 研討四	
 114	1	10	0	技職教育職涯發展研究			12	12		IEM0411		半	2.0	工教系（碩）	HM70		Career Development of Technical-Vocational Education			3	50	選	◎課程開放上修	N	1121	詹育	二 5-6 和平 工教系會議室	
 114	1	10	0	技職教育法規研究			12	12		IEM0412		半	2.0	工教系（碩）	HM70		Technical-Vocational Education Law			0	50	選	◎課程開放上修	N	1122	胡茹萍	二 7-8 和平 研討一	
 114	1	10	0	ＳＴＥＭ與技職教育			7	7		IEM0418		半	2.0	工教系（碩）	HM70		Stem and Technical Vocational Education			0	50	選	◎課程開放上修	N	1123	周明	三 A-B 和平 研討八	
-114	1	10	0	策略管理	8		17	17		IEC0021		半	2.0	工教系（碩）	HM70		Strategic Management			0	50	必	◎課程開放上修	N	1124	蘇友珊	一 3-4 和平 研討四	
-114	1	10	0	創造力與創新管理	8		18	18		IEC0029		半	2.0	工教系（碩）	HM70		Creativity Application and Innovation Management			0	50	必	◎課程開放上修	N	1126	蘇友珊	一 5-6 和平 研討四	
-114	1	10	0	新產品企劃與分析	8		14	14		IEC8011		半	3.0	工教系（碩）	HM70		New Product Planning and Analysis			0	50	選	◎課程開放上修	N	1128	周明	五 A-C 和平 研討八	
+114	1	10	0	策略管理	8		16	16		IEC0021		半	2.0	工教系（碩）	HM70		Strategic Management			0	50	必	◎課程開放上修	N	1124	蘇友珊	一 3-4 和平 研討四	
+114	1	10	0	創造力與創新管理	8		17	17		IEC0029		半	2.0	工教系（碩）	HM70		Creativity Application and Innovation Management			0	50	必	◎課程開放上修	N	1126	蘇友珊	一 5-6 和平 研討四	
+114	1	10	0	新產品企劃與分析	8		13	13		IEC8011		半	3.0	工教系（碩）	HM70		New Product Planning and Analysis			0	50	選	◎課程開放上修	N	1128	周明	五 A-C 和平 研討八	
 114	1	10	0	人工智慧在技職教育的應用研究	8		7	7		IEC8012		半	2.0	工教系（碩）	HM70		A Research on Applying Artificial Intelligence on Technological and Vocational Education			0	50	選	◎課程開放上修	N	1129	周明	一 A-B 和平 研討八	
 114	1	10	0	技職教育數位化學習專題研究	8		6	6		IEC8013		半	3.0	工教系（碩）	HM70		Special Topics in Digitalized Learning of Technical-Vocational Education			0	50	選	◎課程開放上修	N	1130	周明	四 A-C 和平 研討八	
 114	1	5	0	人力績效科技研究			28	28		ITM0062		半	3.0	科技系（碩）	HM71		Study in Human Performance Technology			3	30	選	◎課程開放上修	N	1131	嚴萬軒	三 2-4 和平 科技系TB211教室	
@@ -176,7 +176,7 @@
 114	1	10	0	薄膜技術（一） </br>[ 學分學程：台積電半導體學程 ]	8		18	18		OEC8101		半	3.0	光電所（碩）	HM77		Thin-film Technologies (I) </br>[ Program: NTNU and TSMC Semiconductor Program ]			0	50	選	◎課程開放上修	N	1178	張菁文	三 2-4 公館 Ｓ307	
 114	1	10	0	奈米磁性物理及其應用（一）	8	上課地點:AP402、AP410	0	0		OEC8116		半	3.0	光電所（碩）	HM77		Physics and Applications of Nano-Magnetism (I)			0	50	選	◎必須先修過【OEC8114  核磁造影原理與應用】 ◎課程開放上修	N	1179	謝振傑 廖書賢	二 10-B 公館 教室自排	
 114	1	3	0	虛擬儀控程式設計與應用	8		7	7		OEC8135		半	3.0	光電所（碩）	HM77		Design and Applications of Virtual Instruments			0	37	選	◎課程開放上修	N	1180	廖書賢	四 2-4 公館 理圖802	
-114	1	10	0	書報討論	8		22	22		OEC8159		半	2.0	光電所（碩）	HM77		Seminar	是		0	50	必	允許重複修 ◎課程開放上修	N	1181	未定	四 7-8 公館 綜合館B1小型演講廳	
+114	1	10	0	書報討論	8		22	22		OEC8159		半	2.0	光電所（碩）	HM77		Seminar	是		0	50	必	允許重複修 ◎課程開放上修	N	1181	邱南福 謝振傑 廖書賢 駱安亞 楊承山 呂杰翰 梁伯維 張菁文 柯伯尼	四 7-8 公館 綜合館B1小型演講廳	
 114	1	10	0	冷凍空調原理			33	33		IEU0021		半	3.0	工教系（學）	HU70		Refrigeration and Air Conditioning Principle			0	50	選		N	1182	莫懷恩	二 A-C 和平 工401	
 114	1	10	0	車輛技術與能源科技專題研究（一）			25	25		IEU0081		半	2.0	工教系（學）	HU70		Special Topics on Automotive Technology and Energy Technology (I)			0	50	必		N	1183	鄧敦平 洪翊軒 陳韋任 白凱仁 張俊興 劉華棟	六 4-5 和平 汽車場一樓	
 114	1	10	0	服務廠經營管理			40	40		IEU0123		半	3.0	工教系（學）	HU70		Service Shop Operation and Management			0	50	必		N	1184	張俊興	二 A-C 和平 工教系會議室	
@@ -363,8 +363,8 @@
 114	1	10	0	電磁學（一）			26	26		OEU0005		半	3.0	光電學位學程（學）	HU77		Electromagnetism (I)		2	5	50	必		N	1369	呂杰翰	四 2-4 公館 Ｓ301	
 114	1	10	0	電子學（一）			10	10		OEU0022		半	3.0	光電學位學程（學）	HU77		Electronics (I)		2	0	50	必		N	1370	梁伯維	五 7-9 公館 Ｓ304	
 114	1	10	0	光電實驗（二）			21	21		OEU0009		半	1.0	光電學位學程（學）	HU77		Optoelectronics Experiments (II)	是	3	0	50	必		N	1371	楊承山	一 3-4 公館 AP415光電實驗室	
-114	1	10	0	專題與實習（二）			22	22		OEU0014		半	2.0	光電學位學程（學）	HU77		Independent Study and Practice (II)	是	3	0	50	必		N	1372	未定	二 5 公館 教室自排, 三 5 公館 教室自排, 四 5 公館 教室自排	
-114	1	10	0	專題與實習（三）			7	7		OEU0020		半	1.0	光電學位學程（學）	HU77		Independent Study and Practice (III)	是	4	0	50	選		N	1373	未定	五 5 公館 應科大樓B1多功能教室	
+114	1	10	0	專題與實習（二）			22	22		OEU0014		半	2.0	光電學位學程（學）	HU77		Independent Study and Practice (II)	是	3	0	50	必		N	1372	邱南福 謝振傑 廖書賢 駱安亞 楊承山 呂杰翰 梁伯維 張菁文 柯伯尼	二 5 公館 教室自排, 三 5 公館 教室自排, 四 5 公館 教室自排	
+114	1	10	0	專題與實習（三）			7	7		OEU0020		半	1.0	光電學位學程（學）	HU77		Independent Study and Practice (III)	是	4	0	50	選		N	1373	邱南福 謝振傑 廖書賢 駱安亞 楊承山 呂杰翰 梁伯維 張菁文 柯伯尼	五 5 公館 應科大樓B1多功能教室	
 114	1	10	0	俄羅斯語（一）			10	10		I0U0001		半	3.0	國社學院	I		Elementary Russian (I)			5	50	選		N	1374	王開顏	四 7-9 和平 美術館602	
 114	1	10	0	國際經濟理論與政策 </br>[ 學分學程：經濟學程 財金學程 ]			23	23		I0U0005		半	3.0	國社學院	I		International Economics: Theory and Policy </br>[ Program: The Program of Economics The Program of Finance ]			7	100	選		N	1375	周有熙	五 8-10 和平 誠205	
 114	1	10	0	東亞區域專題研究		上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）  The classroom is located on the 9th floor of Cheng building. Please refer to the latest course schedule announced on our departmental website.	5	5		EAD0003		半	3.0	東亞系（博）	ID83		Special Topics on East Asian Area Studies	是		0	50	必	◎課程不開放上修	N	1376	關弘昌 田正利 黃約伯	三 2-4 和平 教室自排	
@@ -394,7 +394,7 @@
 114	1	5	0	美國外交政策專題研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）    The classroom is located on the 9th floor of Cheng building. Please refer to the latest course schedule announced on our departmental website.	7	7		EAC8044		半	3.0	東亞系（碩）	IM83		Special Topics on American Foreign Policy	是		0	50	選	◎課程不開放上修	N	1400	徐筱琦	二 2-4 和平 教室自排	
 114	1	10	0	韓國文化政策與流行專題研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	15	15		EAC8054		半	3.0	東亞系（碩）	IM83		Special Topics on Korean Cultural Policy and Trends			3	50	選	◎課程不開放上修	N	1401	金恩美 洪攸善	一 6-8 和平 東亞系第一教室	
 114	1	10	0	東亞人類學專題研究	8		8	8		EAC8055		半	3.0	東亞系（碩）	IM83		Special Topics on Anthropology of East Asia	是		3	50	選	◎課程不開放上修	N	1402	黃約伯	三 6-8 和平 教室自排	
-114	1	2	0	漢語語法學			51	51		CLM0019		半	3.0	華語系（碩）	IM84		Syntactic Structures of Chinese			1	50	選	◎課程不開放上修	N	1403	陳俊光	五 2-4 和平 綜901	
+114	1	5	0	漢語語法學			51	51		CLM0019		半	3.0	華語系（碩）	IM84		Syntactic Structures of Chinese			1	50	選	◎課程不開放上修	N	1403	陳俊光	五 2-4 和平 綜901	
 114	1	3	0	語言學專題研究 </br>[ 學分學程：國際教師學程-華語文 ]			30	30		CLM0042		半	3.0	華語系（碩）	IM84		Special Topics on Linguistics </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education ]			3	30	選	◎課程不開放上修	N	1404	洪嘉馡	二 2-4 和平 誠105	
 114	1	2	0	移民研究			40	40		CLM0054		半	3.0	華語系（碩）	IM84		Studies in Migration			0	40	選	◎課程不開放上修	N	1405	楊秉煌	一 2-4 和平 博1002	
 114	1	2	0	中外文化交流專題研究			39	39		CLM0065		半	3.0	華語系（碩）	IM84		Seminar on Research of Chinese and the World Cultural Exchange			0	50	選	◎課程不開放上修	N	1406	李育娟	三 6-8 和平 綜903	
@@ -667,7 +667,7 @@
 114	1	5	0	氣候變遷影響評估	8		14	14		GEC8010		半	3.0	地理系（碩）	LM23		Climate Change Impact Assessment			3	30	選	◎課程開放上修	N	1673	翁叔平	一 2-4 和平 地理系研討室五	
 114	1	10	0	族群地理研討	8		4	4		GEC8036		半	2.0	地理系（碩）	LM23		Studies in Ethnogeography			0	50	選	◎課程開放上修	N	1674	汪明輝	二 3-4 和平 地理系會議室	
 114	1	5	0	地理學專題演講	8		4	4		GEC8079	A	半	2.0	地理系（碩）	LM23		Seminar on Geographical Studies	是		0	30	必	允許重複修 ◎課程開放上修	N	1675	沈淑敏	三 7-8 和平 地理系研討室五	
-114	1	5	0	地理學專題演講	8	博士班不可選中文班	21	21		GEC8079	B	半	2.0	地理系（碩）	LM23		Seminar on Geographical Studies			0	50	必	允許重複修 ◎課程不開放上修	N	1676	王文誠	三 7-8 和平 地理系會議室	
+114	1	5	0	地理學專題演講	8	博士班不可選中文班	21	21		GEC8079	B	半	2.0	地理系（碩）	LM23		Seminar on Geographical Studies			0	50	必	◎限碩一碩二碩三以上修習    允許重複修 ◎課程不開放上修	N	1676	王文誠	三 7-8 和平 地理系會議室	
 114	1	10	0	翻譯產業研究	8		10	10		TIC0029		半	3.0	翻譯所（碩）	LM25		Studies of Translation & Interpretation Industries			3	30	選	◎課程開放上修	N	1677	陳子瑋	二 2-4 和平 譯506	
 114	1	3	0	翻譯與性別	8		11	11		TIC0041		半	3.0	翻譯所（碩）	LM25		Translation and Gender			1	19	選	◎課程開放上修	N	1678	李根芳	三 6-8 和平 美術館602	
 114	1	10	0	質性研究方法	8		7	7		TIC0046		半	3.0	翻譯所（碩）	LM25		Qualitative Research Methods			1	30	選	◎課程開放上修	N	1679	廖柏森	三 6-8 和平 譯506	
