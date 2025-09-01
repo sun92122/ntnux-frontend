@@ -6,7 +6,7 @@
 114	1	6		生成式AI實務應用 </br>[ 學分學程：元宇宙學程 ]						05UG038		半	2.0	通識	GU		Practical Applications of Generative AI </br>[ Program: The Program of Metaverse Narrative ]			3	90	通		N	1004	尹相志	三 3-4 和平 誠201	A4UG
 114	1	0		人工智慧與日常生活						05UG039		半	2.0	通識	GU		AI and Everyday Life	是		0	102	通		N	1005	陳立新	三 6-7 和平 誠102	A2UG
 114	1	40		星星月亮太陽－天文漫談 </br>[ 學分學程：天文重力學程 ]						06UG004		半	2.0	通識	GU		Introduction to Astronomy </br>[ Program: The Program of  Astronomy and Gravitation ]	是		25	97	通	◎地科系（學）不得選修	N	1006	橋本康弘	三 3-4 公館 Ｅ202	A3UG
-114	1	10		奈米科技						06UG005	A	半	2.0	通識	GU		Nano Technology			0	50	通		N	1007	鄭淳護	一 3-4 和平 誠102	A3UG/B2UG
+114	1	11		奈米科技						06UG005	A	半	2.0	通識	GU		Nano Technology			0	50	通		N	1007	鄭淳護	一 3-4 和平 誠102	A3UG/B2UG
 114	1	10		奈米科技						06UG005	B	半	2.0	通識	GU		Nano Technology			0	150	通		N	1008	郭金國	五 3-4 和平 教201演講廳	A3UG/B2UG
 114	1	10		環境倫理與永續發展 </br>[ 學分學程：理工實作學程 ]						06UG006		半	2.0	通識	GU		Environmental Ethics and Sustainable Development </br>[ Program: The Program of STEM Innovation and Practices ]			0	90	通		N	1009	李清安	三 8-9 和平 誠102	A3UG
 114	1	5		生活中的化學 </br>[ 學分學程：科技化教學產業學程 ]		主要以客語授課				06UG007		半	2.0	通識	GU		Life with Chemistry </br>[ Program: The Program of Technology-assisted Teaching Industry ]			0	50	通		N	1010	宋蕙伶	二 6-7 和平 誠204	A3UG
@@ -745,7 +745,7 @@
 114	1	3		報導文學 </br>[ 學分學程：元宇宙學程 文學創作學程 ]						CHU0134		半	3.0	國文系（學）	LU20		Reportage </br>[ Program: The Program of Metaverse Narrative The Program of Literature Creation ]		2	5	47	選		N	1751	范宜如	四 6-8 和平 誠104	
 114	1	10		語言學概論 </br>[ 學分學程：客語學程 科技化教學產業學程 ]						CHU0139		半	2.0	國文系（學）	LU20		Introduction to Linguistics </br>[ Program: The Program of Hakka Language and Culture The Program of Technology-assisted Teaching Industry ]		2	5	50	必		N	1752	王錦慧	二 8-9 和平 樸302	
 114	1	10		極短篇小說 </br>[ 學分學程：元宇宙學程 文學創作學程 ]						CHU0179		半	2.0	國文系（學）	LU20		Chinese Short Short Stories </br>[ Program: The Program of Metaverse Narrative The Program of Literature Creation ]		2	5	50	選	◎初選 文學創作學程 研究生得下修	N	1753	鄭瑜雯	四 6-7 和平 樸303	
-114	1	10		詩選及習作（一）						CHU0213	A	半	2.0	國文系（學）	LU20		Selection of Poems & Writing Practice (I)		2	5	30	必		N	1754	林佳蓉	一 6-7 和平 樸302	
+114	1	20		詩選及習作（一）						CHU0213	A	半	2.0	國文系（學）	LU20		Selection of Poems & Writing Practice (I)		2	5	30	必		N	1754	林佳蓉	一 6-7 和平 樸302	
 114	1	10		詩選及習作（一）						CHU0213	B	半	2.0	國文系（學）	LU20		Selection of Poems & Writing Practice (I)		2	5	30	必		N	1755	黃敬家	五 1-2 和平 樸304	
 114	1	10		詩選及習作（一）						CHU0213	C	半	2.0	國文系（學）	LU20		Selection of Poems & Writing Practice (I)		2	5	30	必		N	1756	何維剛	五 1-2 和平 樸302	
 114	1	10		書法研究（一）						CHU0251		半	2.0	國文系（學）	LU20		Study of Chinese Calligraphy (I)		2	5	45	選		N	1757	黃明理	二 8-9 和平 樸307	
@@ -951,7 +951,7 @@
 114	1	3		地理資訊系統 </br>[ 學分學程：環境監測學程 空間學程 ]		第一階段限地理系二年級選課				GEU0166	D	半	3.0	地理系（學）	LU23		Geographic Information System </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Geospatial Information Science ]		2	0	25	必		N	1962	詹竣翔	五 7-9 和平 地理系電腦教室	
 114	1	5		測量學 </br>[ 學分學程：環境監測學程 區域學程 空間學程 ]						GEU0184		半	3.0	地理系（學）	LU23		Surveying </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation The Program of Region and Tourism Planning The Program of Geospatial Information Science ]		2	3	50	選		N	1963	王聖鐸	一 6-8 和平 正106	
 114	1	5		經濟地理 </br>[ 學分學程：國關與外交學程 ]	1	本課程為「地理思想」的先修課程。				GEU0006		半	3.0	地理系（學）	LU23		Economic Geography </br>[ Program: The Program of International Relations and Diplomacy ]		2	3	50	必		N	1964	許嘉麟	二 2-4 和平 正106	
-114	1	5		地圖學 </br>[ 學分學程：空間學程 ]	1	授權碼優先發放給大四以上同學。				GEU0017		半	3.0	地理系（學）	LU23		Cartography </br>[ Program: The Program of Geospatial Information Science ]		2	3	50	必		N	1965	王聖鐸	一 2-4 和平 誠207	
+114	1	10		地圖學 </br>[ 學分學程：空間學程 ]	1	授權碼優先發放給大四以上同學。				GEU0017		半	3.0	地理系（學）	LU23		Cartography </br>[ Program: The Program of Geospatial Information Science ]		2	3	50	必		N	1965	王聖鐸	一 2-4 和平 誠207	
 114	1	5		經濟地理 </br>[ 學分學程：國關與外交學程 ]	2	本課程為「地理思想」的先修課程。				GEU0006		半	3.0	地理系（學）	LU23		Economic Geography </br>[ Program: The Program of International Relations and Diplomacy ]		2	0	50	必		N	1966	王文誠	二 6-8 和平 誠205	
 114	1	5		地圖學 </br>[ 學分學程：空間學程 ]	2	授權碼優先發放給大四以上同學。				GEU0017		半	3.0	地理系（學）	LU23		Cartography </br>[ Program: The Program of Geospatial Information Science ]		2	3	50	必		N	1967	王聖鐸	二 2-4 和平 誠208	
 114	1	2		氣候變遷 </br>[ 學分學程：環境監測學程 ]						GEU0039		半	3.0	地理系（學）	LU23		Climate Change </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]		3	3	50	選		N	1968	翁叔平	五 7-9 和平 正206	
