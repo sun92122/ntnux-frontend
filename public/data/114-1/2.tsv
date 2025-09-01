@@ -455,14 +455,14 @@
 114	1	5		體育（體適能）						00UP018	B	半	1.0	普通體育	PE		Physical Education (Conditioning)			0	40	必	允許重複修	N	2464	林淑惠	二 8-9 和平 重量訓練室一	
 114	1	5		體育（體適能）						00UP018	C	半	1.0	普通體育	PE		Physical Education (Conditioning)			0	40	必	允許重複修	N	2465	林雯雯	四 6-7 公館 重量訓練室二	
 114	1	5		體育（體適能）						00UP018	D	半	1.0	普通體育	PE		Physical Education (Conditioning)			0	40	必	允許重複修	N	2466	林淑惠	四 8-9 和平 重量訓練室一	
-114	1	5		體育（體適能）						00UP018	E	半	1.0	普通體育	PE		Physical Education (Conditioning)			0	40	必	允許重複修	N	2467	王建睎	五 3-4 和平 重量訓練室一	
+114	1	14		體育（體適能）						00UP018	E	半	1.0	普通體育	PE		Physical Education (Conditioning)			0	40	必	允許重複修	N	2467	王建睎	五 3-4 和平 重量訓練室一	
 114	1	3		體育（現代舞）						00UP020	A	半	1.0	普通體育	PE		Physical Education (Modern Dance)			0	30	必	允許重複修	N	2468	洪銀玲	一 6-7 和平 小韻律教室	
 114	1	5		體育（現代舞）						00UP020	B	半	1.0	普通體育	PE		Physical Education (Modern Dance)			0	50	必	允許重複修	N	2469	林維芬	二 1-2 和平 大韻律教室	
 114	1	5		體育（有氧舞蹈）						00UP024	A	半	1.0	普通體育	PE		Physical Education (Aerobic Dance)			0	50	必	允許重複修	N	2470	王重引	一 6-7 和平 大韻律教室	
 114	1	5		體育（有氧舞蹈）						00UP024	B	半	1.0	普通體育	PE		Physical Education (Aerobic Dance)			0	50	必	允許重複修	N	2471	王重引	一 8-9 和平 大韻律教室	
 114	1	5		體育（有氧舞蹈）						00UP024	C	半	1.0	普通體育	PE		Physical Education (Aerobic Dance)	是		0	50	必	允許重複修	N	2472	陳冠妤	二 6-7 和平 大韻律教室	
 114	1	5		體育（有氧舞蹈）						00UP024	D	半	1.0	普通體育	PE		Physical Education (Aerobic Dance)			0	50	必	允許重複修	N	2473	沈淑貞	四 6-7 和平 大韻律教室	
-114	1	5		體育（有氧舞蹈）						00UP024	E	半	1.0	普通體育	PE		Physical Education (Aerobic Dance)			0	50	必	允許重複修	N	2474	王建睎	五 6-7 和平 大韻律教室	
+114	1	10		體育（有氧舞蹈）						00UP024	E	半	1.0	普通體育	PE		Physical Education (Aerobic Dance)			0	50	必	允許重複修	N	2474	王建睎	五 6-7 和平 大韻律教室	
 114	1	3		體育（爵士舞）						00UP025	A	半	1.0	普通體育	PE		Physical Education (Jazz Dance)			0	30	必	允許重複修	N	2475	林維芬	二 3-4 和平 小韻律教室	
 114	1	5		體育（爵士舞）						00UP025	B	半	1.0	普通體育	PE		Physical Education (Jazz Dance)			0	50	必	允許重複修	N	2476	陳冠妤	二 8-9 和平 大韻律教室	
 114	1	5		體育（高爾夫球）						00UP026	A	半	1.0	普通體育	PE		Physical Education (Golf)			0	50	必	允許重複修	N	2477	鍾寶弘	一 3-4 和平 金牌講堂	
@@ -731,7 +731,7 @@
 114	1	10		微分方程導論	1					MAU0100		半	3.0	數學系（學）	SU40		Introduction to Differential  Equations		2	5	50	必		N	2743	陳賢修	三 6-8 公館 Ｓ201	
 114	1	10		代數學（一） </br>[ 學分學程：科技化教學產業學程 ]	1					MAU0166		半	3.0	數學系（學）	SU40		Algebra(I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]		2	5	50	必		N	2744	許志農	一 3-4 公館 Ｅ301, 四 3 公館 Ｅ301	
 114	1	10		代數學探索（一）	1					MAU0176		半	1.0	數學系（學）	SU40		Exploration of Algebra (I)		2	5	50	選	◎必須先修過(也可以同時修)【MAU0166  代數學（一）】	N	2745	許志農	四 4 公館 Ｅ301	
-114	1	10		微分方程導論	2					MAU0100		半	3.0	數學系（學）	SU40		Introduction to Differential  Equations		2	5	50	必		N	2746	陳建隆	四 6-8 公館 Ｂ103	
+114	1	15		微分方程導論	2					MAU0100		半	3.0	數學系（學）	SU40		Introduction to Differential  Equations		2	5	50	必		N	2746	陳建隆	四 6-8 公館 Ｂ103	
 114	1	10		代數學（一） </br>[ 學分學程：科技化教學產業學程 ]	2					MAU0166		半	3.0	數學系（學）	SU40		Algebra(I) </br>[ Program: The Program of Technology-assisted Teaching Industry ]		2	5	50	必		N	2747	劉容真	一 3-4 公館 Ｂ103, 三 7 公館 Ｂ103	
 114	1	10		代數學探索（一）	2					MAU0176		半	1.0	數學系（學）	SU40		Exploration of Algebra (I)		2	5	50	選	◎必須先修過(也可以同時修)【MAU0166  代數學（一）】	N	2748	劉容真	三 8 公館 Ｂ103	
 114	1	10		微分方程導論	3					MAU0100		半	3.0	數學系（學）	SU40		Introduction to Differential  Equations		2	5	50	必		N	2749	林惠娥	三 6-8 公館 Ｓ501	
