@@ -664,7 +664,7 @@
 114	1	10		高等作業系統	8					CSC0016		半	3.0	資工系（碩）	SM47		Advanced Operating Systems			3	50	選	◎課程開放上修	N	2676	林均翰	一 2-4 公館 理圖002	
 114	1	0		高等演算法	8					CSC0017		半	3.0	資工系（碩）	SM47		Advanced Algorithms			0	50	選	◎課程開放上修	N	2677	王弘倫	二 2-4 公館 理圖001	
 114	1	10		嵌入式系統設計	8					CSC0027		半	3.0	資工系（碩）	SM47		Embedded System Design			3	50	選	◎課程開放上修	N	2678	林均翰	五 2-4 公館 Ｓ204	
-114	1	10		機器學習 </br>[ 學分學程：人工智慧學程 ]	8					CSC0039		半	3.0	資工系（碩）	SM47		Machine Learning </br>[ Program: The Program of Technology and Application of Artificial Intelligence ]			0	50	選	◎課程開放上修	N	2679	吳志強	三 2-4 公館 理圖001	
+114	1	25		機器學習 </br>[ 學分學程：人工智慧學程 ]	8					CSC0039		半	3.0	資工系（碩）	SM47		Machine Learning </br>[ Program: The Program of Technology and Application of Artificial Intelligence ]			0	50	選	◎課程開放上修	N	2679	吳志強	三 2-4 公館 理圖001	
 114	1	10		高等計算機圖學	8					CSC0049		半	3.0	資工系（碩）	SM47		Advanced Computer Graphics			0	50	選	◎課程開放上修	N	2680	張鈞法	三 2-4 公館 Ｓ204	
 114	1	10		專題討論：通訊網路（一）	8					CSC0057		半	1.0	資工系（碩）	SM47		Seminar on Communication Networks (I)			0	50	選	允許重複修 ◎課程開放上修	N	2681	黃冠寰	三 5-6 公館 綜合館3F國際會議廳	
 114	1	10		專題討論：資訊系統（一）	8					CSC0059		半	1.0	資工系（碩）	SM47		Seminar on Information Systems (I)			0	50	選	允許重複修 ◎課程開放上修	N	2682	蔡榮宗	三 7-8 公館 綜合館3F國際會議廳	
@@ -927,7 +927,7 @@
 114	1	10		類比數位運算元件						CSU0049		半	3.0	資工系（學）	SU47		Analog and Digital Computing Elements	是		3	85	選		N	2942	王超	二 2 公館 Ｅ301, 五 8-9 公館 Ｅ301	
 114	1	10		資訊科技教材教法（教）						CSUE301		半	2.0	資工系（學）	SU47		Teaching Materials and Methods: Computer Science and Information Technology			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	2943	李忠謀 柯佳伶	四 3-4 公館 Ｓ204	
 114	1	10		資料探勘	9					CSC0001		半	3.0	資工系（學）	SU47		Data Mining			3	50	選		N	2944	柯佳伶	五 2-4 公館 Ｂ101	
-114	1	10		網路計算與XML	9					CSC0006		半	3.0	資工系（學）	SU47		Web Computing and XML			0	50	選		N	2945	葉耀明	二 7-9 公館 Ｂ102	
+114	1	20		網路計算與XML	9					CSC0006		半	3.0	資工系（學）	SU47		Web Computing and XML			0	50	選		N	2945	葉耀明	二 7-9 公館 Ｂ102	
 114	1	30		語音處理 </br>[ 學分學程：音樂科技學程 人工智慧學程 ]	9					CSC0012		半	3.0	資工系（學）	SU47		Speech Processing </br>[ Program: The Program of Computer Music and Audio Technology The Program of Technology and Application of Artificial Intelligence ]			3	50	選		N	2946	陳柏琳	二 2-4 公館 Ｂ102	
 114	1	10		資料通訊	9					CSC0056		半	3.0	資工系（學）	SU47		Data Communication	是		3	60	選		N	2947	王超	四 2-4 公館 Ｂ102	
 114	1	20		資訊安全	9					CSC0072		半	3.0	資工系（學）	SU47		Information Security			0	50	選		N	2948	紀博文	一 2-4 公館 Ｂ102	
