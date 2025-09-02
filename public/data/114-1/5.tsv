@@ -1,13 +1,13 @@
 ﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
-114	1	0		聲韻學甲上		文學院 ; 中國文學系 ;   限修學制：大三以上、碩、博				AAU1835	A	半	2.0	校際臺大（學）	9UAA		Chinese Phonology (a)(1)				0	選	◎加退選全授權碼選課		5000	李存智	一 3-4 普201	
-114	1	0		圖書館學導論		文學院 ; 圖書資訊學系 ;   限修學制：大、碩、博				AAU0532	A	半	2.0	校際臺大（學）	9UAA		Introduction to Library Science				0	選	◎加退選全授權碼選課		5001	羅思嘉	一 6-7 圖資視聽室	
-114	1	0		環境影響評估	7	生物資源暨農學院 ; 生物環境系統工程學研究所 ;   限修學制：大、碩、博				AAC7I00	A	半	3.0	校際臺大（學）	9UAA		Practical Work on Environmental Impact Assessment				0	選	◎加退選全授權碼選課		5002	黃宏斌	五 2-4 生工202	
-114	1	0		研究指導		文學院 ; 哲學研究所 ;   限修學制：大、碩、博				AAM1189	A	半	2.0	校際臺大（碩）	9MAA		Guide to Writing Philosophical Essays				0	選	◎課程開放上修		5003	林明照	四 3-4 人文345	
-114	1	0		基本邏輯		文學院 ; 哲學系 ;   限修學制：大、碩、博				AAU1073	A	半	3.0	校際臺大（學）	9UAA		Elementary Logic				0	選	◎加退選全授權碼選課		5004	鄧敦民	二 7-10 普102	
-114	1	0		社會工作概論上		社會科學院 ; 社會工作學系 ; 社工概下先修課；討論課每週四5-6節。    社科院院學士「社會工作組」課程。 ; 限修學制：大、碩、博				AAU0041	A	半	3.0	校際臺大（學）	9UAA		Introduction to Social Work (1)				0	選	◎加退選全授權碼選課		5005	林敬軒	二 2-4 社101, 四 5-6	
-114	1	0		參考資源		文學院 ; 圖書資訊學系 ;   限修學制：大、碩、博				AAU1840	A	半	3.0	校際臺大（學）	9UAA		Reference Resources				0	選	◎加退選全授權碼選課		5006	張郁蔚	一 2-4 圖資視聽室	
-114	1	0		本地樹木		生物資源暨農學院 ; 森林學研究所 ; 初選不開放，修習本課程需授課教師同意。 ; 限修學制：碩				AAM2050	A	半	3.0	校際臺大（碩）	9MAA		Local Trees				0	選	◎課程不開放上修 ◎加退選全授權碼選課 ◎初選不開放		5007	林政道	五 6-8 木性	
-114	1	0		華人宗教史西文名著選讀		文學院 ; 歷史學研究所 ;   限修學制：博				AAD0099	A	半	3.0	校際臺大（博）	9DAA		Western Readings in the History of Chinese Religions				0	選	◎課程不開放上修 ◎加退選全授權碼選課		5008	康  豹	二 7-9 博雅306	
-114	1	0		地方的現代史：方法與史學		文學院 ; 歷史學研究所 ;   限修學制：碩				AAM0640	A	半	3.0	校際臺大（碩）	9MAA		Research Seminar on Modern Chinese Local history				0	選	◎課程不開放上修 ◎加退選全授權碼選課		5009	羅士傑	四 3-5 博雅309	
-114	1	0		轉譯發炎	7	生命科學院 ; 生化科學研究所 ;   限修學制：大、碩、博				AAC7O00	A	半	1.0	校際臺大（學）	9UAA		Translational Inflammation				0	選			5010	翁瑞霞	一 7 生化N101	
-114	1	0		教育統計學（一）						E0U0001	F	半	2.0	教育學院	E		Educational Statistics (I)	是		5	50	選		N	5011	余穎麒	二 3-4 和平 正404	
+114	1	0	2	聲韻學甲上		文學院 ; 中國文學系 ;   限修學制：大三以上、碩、博	2	0		AAU1835	A	半	2.0	校際臺大（學）	9UAA		Chinese Phonology (a)(1)				0	選	◎加退選全授權碼選課		5000	李存智	一 3-4 普201	
+114	1	0	2	圖書館學導論		文學院 ; 圖書資訊學系 ;   限修學制：大、碩、博	2	0		AAU0532	A	半	2.0	校際臺大（學）	9UAA		Introduction to Library Science				0	選	◎加退選全授權碼選課		5001	羅思嘉	一 6-7 圖資視聽室	
+114	1	0	1	環境影響評估	7	生物資源暨農學院 ; 生物環境系統工程學研究所 ;   限修學制：大、碩、博	1	0		AAC7I00	A	半	3.0	校際臺大（學）	9UAA		Practical Work on Environmental Impact Assessment				0	選	◎加退選全授權碼選課		5002	黃宏斌	五 2-4 生工202	
+114	1	0	1	研究指導		文學院 ; 哲學研究所 ;   限修學制：大、碩、博	1	0		AAM1189	A	半	2.0	校際臺大（碩）	9MAA		Guide to Writing Philosophical Essays				0	選	◎課程開放上修		5003	林明照	四 3-4 人文345	
+114	1	0	2	基本邏輯		文學院 ; 哲學系 ;   限修學制：大、碩、博	2	0		AAU1073	A	半	3.0	校際臺大（學）	9UAA		Elementary Logic				0	選	◎加退選全授權碼選課		5004	鄧敦民	二 7-10 普102	
+114	1	0	2	社會工作概論上		社會科學院 ; 社會工作學系 ; 社工概下先修課；討論課每週四5-6節。    社科院院學士「社會工作組」課程。 ; 限修學制：大、碩、博	2	0		AAU0041	A	半	3.0	校際臺大（學）	9UAA		Introduction to Social Work (1)				0	選	◎加退選全授權碼選課		5005	林敬軒	二 2-4 社101, 四 5-6	
+114	1	0	2	參考資源		文學院 ; 圖書資訊學系 ;   限修學制：大、碩、博	2	0		AAU1840	A	半	3.0	校際臺大（學）	9UAA		Reference Resources				0	選	◎加退選全授權碼選課		5006	張郁蔚	一 2-4 圖資視聽室	
+114	1	0	1	本地樹木		生物資源暨農學院 ; 森林學研究所 ; 初選不開放，修習本課程需授課教師同意。 ; 限修學制：碩	1	0		AAM2050	A	半	3.0	校際臺大（碩）	9MAA		Local Trees				0	選	◎課程不開放上修 ◎加退選全授權碼選課 ◎初選不開放		5007	林政道	五 6-8 木性	
+114	1	0	1	華人宗教史西文名著選讀		文學院 ; 歷史學研究所 ;   限修學制：博	1	0		AAD0099	A	半	3.0	校際臺大（博）	9DAA		Western Readings in the History of Chinese Religions				0	選	◎課程不開放上修 ◎加退選全授權碼選課		5008	康  豹	二 7-9 博雅306	
+114	1	0	0	地方的現代史：方法與史學		文學院 ; 歷史學研究所 ;   限修學制：碩	0	0		AAM0640	A	半	3.0	校際臺大（碩）	9MAA		Research Seminar on Modern Chinese Local history				0	選	◎課程不開放上修 ◎加退選全授權碼選課		5009	羅士傑	四 3-5 博雅309	
+114	1	0	1	轉譯發炎	7	生命科學院 ; 生化科學研究所 ;   限修學制：大、碩、博	1	0		AAC7O00	A	半	1.0	校際臺大（學）	9UAA		Translational Inflammation				0	選			5010	翁瑞霞	一 7 生化N101	
+114	1	0	0	教育統計學（一）			1	1		E0U0001	F	半	2.0	教育學院	E		Educational Statistics (I)	是		5	50	選		N	5011	余穎麒	二 3-4 和平 正404	
