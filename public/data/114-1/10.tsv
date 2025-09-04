@@ -1,1 +1,3 @@
-﻿serial_no	course_code	course_group
+﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
+114	1	0		特殊教育行政實務（甲）						SPD0085	C	半	1.0	特教系（博）	ED09		Practicum in Special Education Administration(I)			0	30	選	◎課程開放上修	N		于曉平	二 8 和平 特230	
+114	1	3		特殊教育導論 </br>[ 學分學程：音樂輔教學程 PASSION偏鄉教育學程 ]						SPU5007	A	半	3.0	特教系（學）	EU09		Introduction to Special Education </br>[ Program: The Program of Music-assisted Guidance and Special Education The Program of PASSION Quality Education in Rural Schools ]			0	2	必		N		林淑莉	二 6-8 和平 特103	
