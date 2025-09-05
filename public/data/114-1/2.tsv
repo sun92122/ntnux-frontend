@@ -416,7 +416,7 @@
 114	1	20		金融科技與應用 </br>[ 學分學程：商業分析學程 ]	9					MBC9004		半	3.0	管理所（學）	OU55		FinTech and Its Applications </br>[ Program: The Program of Business Data Analysis ]	是		0	50	選		N	2424	鍾建屏	四 2-4 和平 教202會議廳	
 114	1	10		文字探勘 </br>[ 學分學程：商業分析學程 ]	9					IAC9001		半	3.0	全營所（學）	OU56		Text Mining </br>[ Program: The Program of Business Data Analysis ]			0	50	選		N	2425	何宗武	四 6-8 和平 雲508	
 114	1	10		行銷研究						BAU0005		半	3.0	企管系（學）	OU57		Marketing Research			2	50	選	◎必須先修過【BAU0021  行銷管理】	N	2426	林郁翔	一 6-8 和平 誠208	
-114	1	8		消費者行為						BAU0013		半	3.0	企管系（學）	OU57		Consumer Behavior	是		1	50	選	◎必須先修過【BAU0021  行銷管理】	N	2427	蕭中強	五 2-4 和平 誠109	
+114	1	10		消費者行為						BAU0013		半	3.0	企管系（學）	OU57		Consumer Behavior	是		1	50	選	◎必須先修過【BAU0021  行銷管理】	N	2427	蕭中強	五 2-4 和平 誠109	
 114	1	10		企業實習		需在暑期完成系上規定240小時實習後才得選修此門課程。上課地點：另於MOODLE教學平台公告				BAU0025	A	半	3.0	企管系（學）	OU57		Internship			0	50	必	◎必須先修過【BAU0021  行銷管理】、【BAU0007  財務管理】、【BAU0048  企業管理概論】	N	2428	邱皓政 黃浩霆	六 A-C 和平 教室自排	
 114	1	10		企業實習		需在暑期完成系上規定240小時實習後才得選修此門課程。上課地點：另於MOODLE教學平台公告				BAU0025	B	半	3.0	企管系（學）	OU57		Internship			0	50	必	◎必須先修過【BAU0021  行銷管理】、【BAU0007  財務管理】、【BAU0048  企業管理概論】	N	2429	徐美 賴慧文 洪秀瑜	六 A-C 和平 教室自排	
 114	1	10		投資組合與個人財務分析						BAU0033		半	3.0	企管系（學）	OU57		Portfolio Analysis and Personal Financial Planning			2	50	選	◎必須先修過【BAU0007  財務管理】	N	2430	賴慧文	四 7-9 和平 正203	
@@ -472,8 +472,8 @@
 114	1	5		體育（保健氣功）						00UP037		半	1.0	普通體育	PE		Physical Education (Qigong)			3	50	必	允許重複修	N	2481	黃欽永	二 6-7 和平 武術房一	
 114	1	5		體育（肌力與體能訓練初級）						00UP040	A	半	1.0	普通體育	PE		Physical Education (Beginning Strength and Conditioning)	是		0	40	必	允許重複修	N	2482	陳著	三 3-4 和平 重量訓練室一	
 114	1	5		體育（肌力與體能訓練初級）						00UP040	B	半	1.0	普通體育	PE		Physical Education (Beginning Strength and Conditioning)			0	40	必	允許重複修	N	2483	陳著	四 3-4 和平 重量訓練室一	
-114	1	5		體育（肌力與體能訓練初級）						00UP040	C	半	1.0	普通體育	PE		Physical Education (Beginning Strength and Conditioning)			3	40	必	允許重複修	N	2484	楊云瑢	五 6-7 和平 重量訓練室一	
-114	1	5		體育（肌力與體能訓練初級）						00UP040	D	半	1.0	普通體育	PE		Physical Education (Beginning Strength and Conditioning)			3	40	必	允許重複修	N	2485	楊云瑢	五 8-9 和平 重量訓練室一	
+114	1	8		體育（肌力與體能訓練初級）						00UP040	C	半	1.0	普通體育	PE		Physical Education (Beginning Strength and Conditioning)			3	40	必	允許重複修	N	2484	楊云瑢	五 6-7 和平 重量訓練室一	
+114	1	8		體育（肌力與體能訓練初級）						00UP040	D	半	1.0	普通體育	PE		Physical Education (Beginning Strength and Conditioning)			3	40	必	允許重複修	N	2485	楊云瑢	五 8-9 和平 重量訓練室一	
 114	1	4		體育（抱石運動）						00UP042		半	1.0	普通體育	PE		Physical Education (Bouldering)	是		2	20	必	允許重複修	N	2486	Philip X. Fuchs	一 6-7 和平 體001	
 114	1	5		體育（健康體適能）						00UP052	A	半	1.0	普通體育	PE		Physical Education (Health-related Physical Fitness )			0	40	必	允許重複修	N	2487	詹俊成	一 8-9 和平 重量訓練室一	
 114	1	5		體育（健康體適能）						00UP052	B	半	1.0	普通體育	PE		Physical Education (Health-related Physical Fitness )			0	40	必	允許重複修	N	2488	詹俊成	二 3-4 和平 重量訓練室一	
@@ -512,7 +512,7 @@
 114	1	5		體育（桌球初級）						00UP111	E	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2523	王傑賢	三 8-9 和平 桌球室	
 114	1	10		體育（桌球初級）						00UP111	F	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2524	洪聰敏	四 3-4 和平 桌球室	
 114	1	0		體育（桌球初級）						00UP111	G	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2525	施亦婕	五 1-2 和平 桌球室	
-114	1	5		體育（桌球初級）						00UP111	H	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2526	蔡虔祿	五 3-4 和平 桌球室	
+114	1	10		體育（桌球初級）						00UP111	H	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2526	蔡虔祿	五 3-4 和平 桌球室	
 114	1	0		體育（桌球初級）						00UP111	I	半	1.0	普通體育	PE		Physical Education (Beginning Table Tennis)			0	48	必	允許重複修	N	2527	施亦婕	五 6-7 和平 桌球室	
 114	1	5		體育（游泳初級）						00UP115	A	半	1.0	普通體育	PE		Physical Education (Beginning Swimming)			0	30	必	允許重複修	N	2529	陳履賢	三 3-4 和平 游泳館1F大泳池	
 114	1	3		體育（游泳初級）						00UP115	B	半	1.0	普通體育	PE		Physical Education (Beginning Swimming)			0	30	必	允許重複修	N	2530	陳履賢	四 3-4 和平 游泳館1F大泳池	
@@ -722,7 +722,7 @@
 114	1	10		微積分探索（一）	3					MAU0170		半	1.0	數學系（學）	SU40		Exploration of Calculus(I)		1	5	50	選	◎必須先修過(也可以同時修)【MAU0178  微積分甲（一）】	N	2736	郭君逸	四 2 公館 Ｓ401	
 114	1	10		線性代數探索（一）	3					MAU0172		半	1.0	數學系（學）	SU40		Exploration of Linear Algebra(I)		1	5	50	選	◎必須先修過(也可以同時修)【MAU0160  線性代數（一）】	N	2737	李華介	二 7 公館 Ｓ202	
 114	1	10		微積分甲（一）	3					MAU0178		半	4.0	數學系（學）	SU40		Calculus A (I)		1	5	50	必		N	2738	郭君逸	二 3-4 公館 Ｓ401, 四 3-4 公館 Ｓ401	
-114	1	20		離散數學						MAU0021		半	3.0	數學系（學）	SU40		Discrete Mathematics		2	5	50	選		N	2739	郭君逸	五 2-4 公館 Ｂ103	
+114	1	30		離散數學						MAU0021		半	3.0	數學系（學）	SU40		Discrete Mathematics		2	5	50	選		N	2739	郭君逸	五 2-4 公館 Ｂ103	
 114	1	11		高等幾何（一）						MAU0128		半	3.0	數學系（學）	SU40		Advanced Geometry (I)		2	5	50	選		N	2740	陳瑞堂	二 6-7 公館 Ｅ101, 二 8 公館 理圖807	
 114	1	20		高等微積分（一）		主科必修課本學期僅開2班，於第一階段限制本系大二生優先選課。				MAU0162		半	4.0	數學系（學）	SU40		Advanced Calculus(I)		2	5	50	必	◎必須先修過【MAU0179  微積分甲（二）】	N	2741	林俊吉	二 3-4 公館 Ｅ102, 五 6-7 公館 Ｅ102	
 114	1	20		高等微積分探索（一）						MAU0174		半	1.0	數學系（學）	SU40		Exploration of Advanced Calculus (I)		2	5	50	選	◎必須先修過(也可以同時修)【MAU0162  高等微積分（一）】	N	2742	林俊吉	五 8 公館 Ｅ102	

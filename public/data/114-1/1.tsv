@@ -50,7 +50,7 @@
 114	1	0		馬來語 （一）		馬來西亞籍及印尼籍同學不得修習與旁聽。旁聽者需提前知會講師。				0HUG655	B	半	2.0	通識	GU		Malay Language (I)			0	50	通		N	1048	陳際宇	一 A-B 和平 誠204	A1UG
 114	1	5		人類與自然資源 </br>[ 學分學程：環境人文學程 ]		學生自備電腦，三3-4與日本關西大學合開之國際線上課程，需配合日本課程時間，於10:10分開始。				0NUG245		半	2.0	通識	GU		Human and Natural Sciences </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		2	40	通		N	1049	葉孟宛	三 3-4 公館 Ｓ201	A3UG
 114	1	55		生理心理學 </br>[ 學分學程：音樂輔教學程 ]						0NUG246	A	半	2.0	通識	GU		Physiological Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]			0	100	通		N	1050	呂國棟	三 3-4 公館 Ｅ102	A3UG
-114	1	20		生理心理學 </br>[ 學分學程：音樂輔教學程 ]						0NUG246	B	半	2.0	通識	GU		Physiological Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1051	呂國棟	五 3-4 公館 Ｂ102	A3UG
+114	1	30		生理心理學 </br>[ 學分學程：音樂輔教學程 ]						0NUG246	B	半	2.0	通識	GU		Physiological Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]			0	50	通		N	1051	呂國棟	五 3-4 公館 Ｂ102	A3UG
 114	1	22		３Ｄ列印與創新應用						0NUG253		半	2.0	通識	GU		3 D Printing and Innovative Applications			0	80	通		N	1052	沈林琥	三 3-4 和平 誠102	A3UG
 114	1	0		國際關係導論						0SUG238		半	2.0	通識	GU		Introduction to International Relations			0	50	通	◎東亞系（學）不得選修	N	1053	徐筱琦	三 3-4 和平 誠206	A2UG
 114	1	10		博物館探索						0SUG514		半	2.0	通識	GU		Exploration of Museum			5	60	通		N	1054	黃玫瑄	三 6-7 和平 誠301	A2UG
@@ -303,7 +303,7 @@
 114	1	20		數位系統						AEU0003		半	3.0	電機系（學）	HU75		Digital Systems		1	0	120	必		N	1309	林政宏	一 7-9 和平 綜202演講廳	
 114	1	5		計算機概論						AEU0005	A	半	3.0	電機系（學）	HU75		Introduction to Computer Science	是	1	0	35	必		N	1310	呂成凱	四 2-4 和平 多媒體與通訊實驗室	
 114	1	5		計算機概論						AEU0005	B	半	3.0	電機系（學）	HU75		Introduction to Computer Science	是	1	0	35	必		N	1311	呂成凱	四 7-9 和平 多媒體與通訊實驗室	
-114	1	10		程式設計 </br>[ 學分學程：台積電半導體學程 空間學程 ]						AEU0013	A	半	3.0	電機系（學）	HU75		Computer Programming </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Geospatial Information Science ]	是	1	2	50	必		N	1312	許閔傑	五 2-4 和平 教401	
+114	1	15		程式設計 </br>[ 學分學程：台積電半導體學程 空間學程 ]						AEU0013	A	半	3.0	電機系（學）	HU75		Computer Programming </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Geospatial Information Science ]	是	1	2	50	必		N	1312	許閔傑	五 2-4 和平 教401	
 114	1	6		程式設計 </br>[ 學分學程：台積電半導體學程 空間學程 ]						AEU0013	B	半	3.0	電機系（學）	HU75		Computer Programming </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Geospatial Information Science ]	是	1	2	50	必		N	1313	許閔傑	二 7-9 和平 教402	
 114	1	15		電子學（一） </br>[ 學分學程：台積電半導體學程 太陽能源與工程學程 ]						AEU0006	A	半	3.0	電機系（學）	HU75		Electronics (I) </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Solar Energy Engineering ]		2	0	60	必	◎必須先修過【AEU0014  電路學（一）】	N	1314	蘇崇彥	四 7-9 和平 教103	
 114	1	20		電子學（一） </br>[ 學分學程：台積電半導體學程 太陽能源與工程學程 ]						AEU0006	B	半	3.0	電機系（學）	HU75		Electronics (I) </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Solar Energy Engineering ]		2	0	50	必	◎必須先修過【AEU0014  電路學（一）】	N	1315	蘇崇彥	五 2-4 和平 美術館601	
@@ -395,7 +395,7 @@
 114	1	10		東亞人類學專題研究	8					EAC8055		半	3.0	東亞系（碩）	IM83		Special Topics on Anthropology of East Asia	是		3	50	選	◎課程不開放上修	N	1402	黃約伯	三 6-8 和平 東亞系第一教室	
 114	1	5		漢語語法學						CLM0019		半	3.0	華語系（碩）	IM84		Syntactic Structures of Chinese			1	50	選	◎課程不開放上修	N	1403	陳俊光	五 2-4 和平 綜901	
 114	1	3		語言學專題研究 </br>[ 學分學程：國際教師學程-華語文 ]						CLM0042		半	3.0	華語系（碩）	IM84		Special Topics on Linguistics </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education ]			3	30	選	◎課程不開放上修	N	1404	洪嘉馡	二 2-4 和平 誠105	
-114	1	2		移民研究						CLM0054		半	3.0	華語系（碩）	IM84		Studies in Migration			0	40	選	◎課程不開放上修	N	1405	楊秉煌	一 2-4 和平 正106	
+114	1	14		移民研究						CLM0054		半	3.0	華語系（碩）	IM84		Studies in Migration			0	40	選	◎課程不開放上修	N	1405	楊秉煌	一 2-4 和平 正106	
 114	1	2		中外文化交流專題研究						CLM0065		半	3.0	華語系（碩）	IM84		Seminar on Research of Chinese and the World Cultural Exchange			0	50	選	◎課程不開放上修	N	1406	李育娟	三 6-8 和平 綜903	
 114	1	1		人類學習與發展 </br>[ 學分學程：國際教師學程-華語文 ]						CLM0074		半	3.0	華語系（碩）	IM84		Human/Adolescent Learning and Development </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education ]	是		0	30	選	◎課程不開放上修	N	1407	張瓅勻	三 2-4 和平 綜901	
 114	1	2		漢語語言學研究						CLM0099		半	3.0	華語系（碩）	IM84		Studies in Chinese Linguistics			2	50	選	◎課程不開放上修	N	1408	謝佳玲	五 2-4 和平 博1002	
@@ -561,15 +561,15 @@
 114	1	10		從電影認識臺灣						GBU0010		半	3.0	全球研究學位學程（學）	IUH0		Understanding Taiwan from the Lens of Movies	是	1	0	50	選		N	1568	徐明瀚	四 6-8 和平 綜509國際會議廳	
 114	1	10		政治學						GBU0008		半	3.0	全球研究學位學程（學）	IUH0		Political Science	是	2	3	50	必		N	1569	巫俊穎	三 6-8 和平 正204	
 114	1	3		媒體與社會						GBU0011		半	3.0	全球研究學位學程（學）	IUH0		Media and Society	是	2	1	43	選		N	1570	邱愷欣	二 2-4 和平 正101	
-114	1	10		初級日文（一） </br>[ 學分學程：國關與外交學程 日語學程 ]						L0U1001	A	半	2.0	文學院	L		Japanese for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy The Program in Japanese as a Foreign Language ]			5	70	必	◎初選 日語學程 研究生得下修	N	1571	張文朝	一 A-B 和平 誠102	
+114	1	15		初級日文（一） </br>[ 學分學程：國關與外交學程 日語學程 ]						L0U1001	A	半	2.0	文學院	L		Japanese for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy The Program in Japanese as a Foreign Language ]			5	70	必	◎初選 日語學程 研究生得下修	N	1571	張文朝	一 A-B 和平 誠102	
 114	1	10		初級日文（一） </br>[ 學分學程：國關與外交學程 日語學程 ]						L0U1001	B	半	2.0	文學院	L		Japanese for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy The Program in Japanese as a Foreign Language ]			5	70	必	◎初選 日語學程 研究生得下修	N	1572	張文朝	二 A-B 和平 誠203	
 114	1	10		初級日文（一） </br>[ 學分學程：國關與外交學程 日語學程 ]						L0U1001	C	半	2.0	文學院	L		Japanese for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修	N	1573	許育惠	五 8-9 和平 誠108	
 114	1	10		初級日文（一） </br>[ 學分學程：國關與外交學程 日語學程 ]						L0U1001	D	半	2.0	文學院	L		Japanese for Beginners (I) </br>[ Program: The Program of International Relations and Diplomacy The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修	N	1574	邱麗娟	四 1-2 和平 誠107	
-114	1	10		中級日文（一） </br>[ 學分學程：日語學程 ]						L0U1003	A	半	2.0	文學院	L		Intermediate Japanese (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【PGUT012  初級日文（一）】其中一門	N	1575	張文朝	三 A-B 和平 誠207	
+114	1	13		中級日文（一） </br>[ 學分學程：日語學程 ]						L0U1003	A	半	2.0	文學院	L		Intermediate Japanese (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【PGUT012  初級日文（一）】其中一門	N	1575	張文朝	三 A-B 和平 誠207	
 114	1	10		中級日文（一） </br>[ 學分學程：日語學程 ]						L0U1003	B	半	2.0	文學院	L		Intermediate Japanese (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【PGUT012  初級日文（一）】其中一門	N	1576	洪韶翎	四 3-4 和平 樸201	
 114	1	10		日語會話與聽講（一） </br>[ 學分學程：日語學程 ]						L0U1005	A	半	2.0	文學院	L		Japanese Conversation and Listening Comprehension (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】、【L0U1003  中級日文（一）】、【L0U1004  中級日文（二）】其中一門	N	1577	池田晶子	二 A-B 和平 誠201	
-114	1	10		日語會話與聽講（一） </br>[ 學分學程：日語學程 ]						L0U1005	B	半	2.0	文學院	L		Japanese Conversation and Listening Comprehension (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】、【L0U1003  中級日文（一）】、【L0U1004  中級日文（二）】其中一門 ◎加退選全授權碼選課	N	1578	賴建樺	一 6-7 和平 正401	
-114	1	10		進階日文（一） </br>[ 學分學程：日語學程 ]						L0U1009		半	2.0	文學院	L		Advanced Japanese (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修◎必須先修過【L0U1004  中級日文（二）】 ◎加退選全授權碼選課	N	1579	賴建樺	一 8-9 和平 正401	
+114	1	22		日語會話與聽講（一） </br>[ 學分學程：日語學程 ]						L0U1005	B	半	2.0	文學院	L		Japanese Conversation and Listening Comprehension (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修 ◎必須先修過【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】、【L0U1002  初級日文（二）】、【L0U1003  中級日文（一）】、【L0U1004  中級日文（二）】其中一門 ◎加退選全授權碼選課	N	1578	賴建樺	一 6-7 和平 正401	
+114	1	23		進階日文（一） </br>[ 學分學程：日語學程 ]						L0U1009		半	2.0	文學院	L		Advanced Japanese (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	必	◎初選 日語學程 研究生得下修◎必須先修過【L0U1004  中級日文（二）】 ◎加退選全授權碼選課	N	1579	賴建樺	一 8-9 和平 正401	
 114	1	10		進階日語會話與聽講（一） </br>[ 學分學程：日語學程 ]						L0U1011		半	2.0	文學院	L		Advanced Japanese Conversation and Listening Comprehension (I) </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	選	◎初選 日語學程 研究生得下修	N	1580	邱麗娟	四 3-4 和平 誠107	
 114	1	10		日本歷史 </br>[ 學分學程：日語學程 ]						L0U1014		半	2.0	文學院	L		History of Japan </br>[ Program: The Program in Japanese as a Foreign Language ]			5	65	選	◎初選 日語學程 研究生得下修	N	1581	富田哲	四 A-B 和平 誠206	
 114	1	10		日本文學史 </br>[ 學分學程：日語學程 ]						L0U1015		半	2.0	文學院	L		History of Japanese Literature </br>[ Program: The Program in Japanese as a Foreign Language ]			5	50	選	◎初選 日語學程 研究生得下修 ◎必須先修過【L0U1002  初級日文（二）】、【PGUT012  初級日文（一）】、【PGUT013  初級日文（二）】、【L0U1001  初級日文（一）】其中一門	N	1582	洪韶翎	四 5-6 和平 樸201	
@@ -862,7 +862,7 @@
 114	1	10		高級英語聽講（一）						ENU0285	B	半	2.0	英語系（學）	LU21		Advanced Aural-Oral Training in English (I)	是	3	0	25	必	◎必須先修過【ENU0283  中級英語聽講（一）】、【ENU0284  中級英語聽講（二）】	N	1871	孔繁偉	四 1-2 和平 誠701A	
 114	1	2		高級寫作（一）						ENU0289	A	半	2.0	英語系（學）	LU21		Advanced Writing (I)	是	3	0	20	必	◎必須先修過【ENU0287  中級寫作（一）】、【ENU0288  中級寫作（二）】	N	1872	甯俐馨	五 3-4 和平 勤302	
 114	1	2		高級寫作（一）						ENU0289	B	半	2.0	英語系（學）	LU21		Advanced Writing (I)	是	3	0	20	必	◎必須先修過【ENU0287  中級寫作（一）】、【ENU0288  中級寫作（二）】	N	1873	陳乃嫻	五 3-4 和平 正306	
-114	1	2		高級寫作（一）						ENU0289	C	半	2.0	英語系（學）	LU21		Advanced Writing (I)	是	3	0	20	必	◎必須先修過【ENU0287  中級寫作（一）】、【ENU0288  中級寫作（二）】	N	1874	楊志偉	五 3-4 和平 誠202	
+114	1	4		高級寫作（一）						ENU0289	C	半	2.0	英語系（學）	LU21		Advanced Writing (I)	是	3	0	20	必	◎必須先修過【ENU0287  中級寫作（一）】、【ENU0288  中級寫作（二）】	N	1874	楊志偉	五 3-4 和平 誠202	
 114	1	2		高級寫作（一）						ENU0289	D	半	2.0	英語系（學）	LU21		Advanced Writing (I)	是	3	0	20	必	◎必須先修過【ENU0287  中級寫作（一）】、【ENU0288  中級寫作（二）】	N	1875	高瑪麗	五 3-4 和平 正303	
 114	1	10		研究方法：語言相關研究						ENU0337		半	3.0	英語系（學）	LU21		Research Methods: Language-Related Studies	是	3	0	50	選		N	1876	蘇席瑤	二 6-8 和平 誠305	
 114	1	10		日常醫學英文						ENU0347		半	3.0	英語系（學）	LU21		English for Health and Medicine	是	3	1	50	選		N	1877	陳乃嫻	五 6-8 和平 正302	
@@ -915,7 +915,7 @@
 114	1	10		臺灣戰後檔案解讀與歷史田野研討	9					HIC9047		半	3.0	歷史系（學）	LU22		Seminar on Postwar Taiwan Archival Interpretation and Historical Field Research			2	50	選		N	1925	林欣宜 許佩賢	一 6-8 和平 誠306	
 114	1	12		史學導論		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0062	A	半	2.0	歷史系（學）	LU22		Introduction to Historiography		1	0	30	必		N	1928	楊彥彬	二 8-9 和平 正406	
 114	1	15		史學導論		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0062	B	半	2.0	歷史系（學）	LU22		Introduction to Historiography		1	0	30	必		N	1929	林欣宜	二 8-9 和平 誠307	
-114	1	10		世界通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0344	A	半	2.0	歷史系（學）	LU22		General History of the World (Ancient History)		1	0	30	必		N	1930	陳秀鳳	五 3-4 和平 誠307	
+114	1	11		世界通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0344	A	半	2.0	歷史系（學）	LU22		General History of the World (Ancient History)		1	0	30	必		N	1930	陳秀鳳	五 3-4 和平 誠307	
 114	1	10		世界通史（上古）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0344	B	半	2.0	歷史系（學）	LU22		General History of the World (Ancient History)		1	0	30	必		N	1931	楊彥彬	五 3-4 和平 誠306	
 114	1	15		臺灣通史（1895年前）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0348	A	半	2.0	歷史系（學）	LU22		General History of Taiwan (Before 1895)		1	0	30	必		N	1932	林欣宜	二 6-7 和平 正406	
 114	1	10		臺灣通史（1895年前）		已於上學期選定上課班別(A班或B班)者，下學期嚴禁換班上課。				HIU0348	B	半	2.0	歷史系（學）	LU22		General History of Taiwan (Before 1895)		1	0	30	必		N	1933	王麒銘	二 6-7 和平 誠307	
