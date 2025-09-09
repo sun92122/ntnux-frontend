@@ -215,7 +215,7 @@
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	B	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0218	林津羽	五 1-2 和平 誠204	
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	C	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0219	徐敏媛	五 1-2 和平 樸205	
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	D	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0220	陳惠鈴	五 1-2 和平 樸203	
-114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	E	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0221	陳筱筠	五 1-2 和平 樸206	
+114	1	2		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	E	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0221	陳筱筠	五 1-2 和平 樸206	
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	F	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0222	謝秀卉	五 1-2 和平 樸306	
 114	1	3		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	G	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0223	謝嘉文	五 1-2 和平 正406	
 114	1	0		中文閱讀與思辨		原則上不發放授權碼。				00UA7A3	H	半	2.0	共同科	CU		Chinese Reading and Thinking			0	37	必		N	0224	魏伯全	五 1-2 和平 正102	
@@ -936,12 +936,12 @@
 114	1	5		２０世紀動盪時局下的知識份子						04UG023		半	2.0	通識	GU		Intellectuals during Turbulent Times in the 20th Century			0	50	通	◎東亞系（學）不得選修	N	0954	胡元玲	二 9-10 和平 正301	A1UG
 114	1	0		臺灣文史與城市發展						04UG024	A	半	2.0	通識	GU		Culture, History and Urban Development of Taiwan			0	65	通		N	0955	黃玫瑄	二 3-4 和平 誠301	A1UG
 114	1	0		臺灣文史與城市發展						04UG024	B	半	2.0	通識	GU		Culture, History and Urban Development of Taiwan			0	65	通		N	0956	黃玫瑄	二 6-7 和平 誠301	A1UG
-114	1	0		客家社會探究						04UG030		半	2.0	通識	GU		Social Inquiry of Hakka Community			0	65	通		N	0957	黃玫瑄	三 3-4 和平 誠302	A2UG
+114	1	7		客家社會探究						04UG030		半	2.0	通識	GU		Social Inquiry of Hakka Community			0	65	通		N	0957	黃玫瑄	三 3-4 和平 誠302	A2UG
 114	1	6		東南亞文化與歷史概略		修課學生需具備流利英語能力。				04UG033		半	2.0	通識	GU		An Overview of Southeast Asian Culture and History	是		2	50	通		N	0958	廖弘民	五 6-7 和平 誠104	A1UG
 114	1	20		臺灣原住民族文化展演 </br>[ 學分學程：原民教育學程 ]						04UG036		半	2.0	通識	GU		Taiwan Indigenous Cultural Performance </br>[ Program: The Program of Indigenous Education and Culture ]			0	50	通		N	0959	王宏豪	二 6-7 和平 誠201	A1UG
 114	1	0		探索臺灣飲食文化		本課程授課為全台語文進行為主				04UG037		半	2.0	通識	GU		Exploring Taiwan Food Culture			0	50	通		N	0960	魏俊陽	三 9-10 和平 誠203	A1UG
 114	1	20		邏輯思考與應用		全國最有個性的通識課，但保證教到會(免費個別教導)。				05UG001	A	半	2.0	通識	GU		Logical Thinking and Application			15	155	通		N	0961	王銀國	二 3-4 和平 誠101	A3UG/B2UG
-114	1	20		邏輯思考與應用		全國最有個性的通識課，但保證教到會(免費個別教導)。				05UG001	B	半	2.0	通識	GU		Logical Thinking and Application			15	155	通		N	0962	王銀國	二 8-9 和平 誠101	A3UG/B2UG
+114	1	21		邏輯思考與應用		全國最有個性的通識課，但保證教到會(免費個別教導)。				05UG001	B	半	2.0	通識	GU		Logical Thinking and Application			15	155	通		N	0962	王銀國	二 8-9 和平 誠101	A3UG/B2UG
 114	1	0		邏輯思考與應用						05UG001	C	半	2.0	通識	GU		Logical Thinking and Application			2	55	通		N	0963	蔡承志	二 6-7 和平 誠203	A3UG/B2UG
 114	1	5		邏輯思考與應用						05UG001	D	半	2.0	通識	GU		Logical Thinking and Application			0	60	通		N	0964	王鍾山	五 3-4 和平 誠401	A3UG/B2UG
 114	1	0		科學思維 </br>[ 學分學程：科技化教學產業學程 理工實作學程 ]		不開放授權碼。				05UG002	A	半	2.0	通識	GU		Introduction to Scientific Thinking </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of STEM Innovation and Practices ]			0	75	通		N	0965	鍾兆晉	一 10-A 和平 誠203	A3UG
