@@ -689,10 +689,10 @@
 114	1	10		數學教學解題（一）（IB） </br>[ 學分學程：國際教師學程-數學 ]	9					MAC9027		半	3.0	數學系（學）	SU40		Problem-Solving in Mathematical Teaching (I) (IB) </br>[ Program: The Program of International Baccalaureate Educator Certificate-International  Mathematics Education ]	是		0	50	選		N	2703	游森棚	一 2-4 公館 數學館M310	
 114	1	10		數學史（IB） </br>[ 學分學程：國際教師學程-數學 ]	9					MAC9028		半	3.0	數學系（學）	SU40		History of Mathematics (IB) </br>[ Program: The Program of International Baccalaureate Educator Certificate-International  Mathematics Education ]	是		0	50	選		N	2704	張秉瑩	五 6-8 公館 數學館M211	
 114	1	3		科學計算導論 </br>[ 學分學程：理工實作學程 科學計算學程 ]	9					MAC9029	A	半	3.0	數學系（學）	SU40		Introduction to Scientific Computation </br>[ Program: The Program of STEM Innovation and Practices The Program of Scientific Computation ]			0	37	必		N	2705	黃聰明	一 6 公館 理圖802, 五 3-4 公館 Ｓ404	
-114	1	22		科學計算導論 </br>[ 學分學程：理工實作學程 科學計算學程 ]	9					MAC9029	B	半	3.0	數學系（學）	SU40		Introduction to Scientific Computation </br>[ Program: The Program of STEM Innovation and Practices The Program of Scientific Computation ]			5	50	必		N	2706	謝世峰	一 6 公館 理圖807, 二 6-7 公館 Ｅ301	
+114	1	23		科學計算導論 </br>[ 學分學程：理工實作學程 科學計算學程 ]	9					MAC9029	B	半	3.0	數學系（學）	SU40		Introduction to Scientific Computation </br>[ Program: The Program of STEM Innovation and Practices The Program of Scientific Computation ]			5	50	必		N	2706	謝世峰	一 6 公館 理圖807, 二 6-7 公館 Ｅ301	
 114	1	10		數理統計（一）	9					MAC9032		半	3.0	數學系（學）	SU40		Mathematical Statistics (I)			5	50	選		N	2707	張少同	五 2-4 公館 數學館M310	
 114	1	3		科學計算導論探索	9					MAC9038	A	半	1.0	數學系（學）	SU40		Exploration of Introduction to Scientific Computation			0	37	選	◎必須先修過(也可以同時修)【MAC9029  科學計算導論】	N	2708	黃聰明	一 7 公館 理圖802	
-114	1	20		科學計算導論探索	9					MAC9038	B	半	1.0	數學系（學）	SU40		Exploration of Introduction to Scientific Computation			5	50	選	◎必須先修過(也可以同時修)【MAC9029  科學計算導論】	N	2709	謝世峰	一 7 公館 理圖807	
+114	1	23		科學計算導論探索	9					MAC9038	B	半	1.0	數學系（學）	SU40		Exploration of Introduction to Scientific Computation			5	50	選	◎必須先修過(也可以同時修)【MAC9029  科學計算導論】	N	2709	謝世峰	一 7 公館 理圖807	
 114	1	10		實驗設計與分析	9					MAC9050		半	3.0	數學系（學）	SU40		Experiment Design and Analysis			5	50	選		N	2710	蔡碧紋	二 2-4 公館 數學館M210	
 114	1	10		電子計算機概論						MAU0065		半	3.0	數學系（學）	SU40		Instruction to Computer		1	5	50	選		N	2711	楊青育	一 6-8 公館 Ｓ601	
 114	1	20		微積分乙（一）		物一甲				MAU0180	A	半	3.0	數學系（學）	SU40		Calculus B (I)		1	5	50	必	◎限外系修習	N	2712	范洪源	一 6-8 公館 Ｂ103	
@@ -922,7 +922,7 @@
 114	1	20		程式設計（一） </br>[ 學分學程：音樂科技學程 資訊科技應用學程 人工智慧學程 空間學程 ]						CSU0001	A	半	3.0	資工系（學）	SU47		Computer Programming (I) </br>[ Program: The Program of Computer Music and Audio Technology The Program of Application of Information Technology The Program of Technology and Application of Artificial Intelligence The Program of Geospatial Information Science ]			0	60	必		N	2939	張鈞法	一 2-4 公館 理圖807	
 114	1	20		資料結構						CSU0013	A	半	3.0	資工系（學）	SU47		Data Structures			0	50	必	◎必須先修過【CSU0001  程式設計（一）】	N	2940	王鈞右	五 7-9 公館 Ｂ102	
 114	1	15		線性代數						CSU0016	A	半	3.0	資工系（學）	SU47		Linear Algebra			3	60	選		N	2941	官振傑	二 2-4 公館 Ｂ101	
-114	1	10		類比數位運算元件						CSU0049		半	3.0	資工系（學）	SU47		Analog and Digital Computing Elements	是		3	85	選		N	2942	王超	二 2 公館 Ｅ301, 五 8-9 公館 Ｅ301	
+114	1	11		類比數位運算元件						CSU0049		半	3.0	資工系（學）	SU47		Analog and Digital Computing Elements	是		3	85	選		N	2942	王超	二 2 公館 Ｅ301, 五 8-9 公館 Ｅ301	
 114	1	10		資訊科技教材教法（教）						CSUE301		半	2.0	資工系（學）	SU47		Teaching Materials and Methods: Computer Science and Information Technology			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	2943	李忠謀 柯佳伶	四 3-4 公館 Ｓ204	
 114	1	29		資料探勘	9					CSC0001		半	3.0	資工系（學）	SU47		Data Mining			3	50	選		N	2944	柯佳伶	五 2-4 公館 Ｂ101	
 114	1	20		網路計算與XML	9					CSC0006		半	3.0	資工系（學）	SU47		Web Computing and XML			0	50	選		N	2945	葉耀明	二 7-9 公館 Ｂ102	
