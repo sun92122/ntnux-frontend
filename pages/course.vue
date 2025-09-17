@@ -163,25 +163,25 @@
                     :style="{
                       display: 'flex',
                       flexDirection: 'row',
-                      // gap: 'clamp(0.5rem, 3vw - 0.5rem, 2rem)',
-                      gap: 'clamp(0.5rem, 3vw - 0.5rem, 1rem)',
+                      gap: 'clamp(0.5rem, 3vw - 0.5rem, 2rem)',
+                      // gap: 'clamp(0.5rem, 3vw - 0.5rem, 1rem)',
                     }"
                   >
                     <div
                       v-for="[label, current, max] in [
                         [
                           '選課總人數',
-                          // course.counter_exceptAuth,
-                          null,
+                          course.counter_exceptAuth,
+                          // null,
                           course.limit_count_h,
                         ],
                         [
                           '已使用授權碼',
-                          // Math.max(
-                          //   0,
-                          //   course.counter - course.counter_exceptAuth
-                          // ),
-                          null,
+                          Math.max(
+                            0,
+                            course.counter - course.counter_exceptAuth
+                          ),
+                          // null,
                           course.authorize_p,
                         ],
                         ['系統各校開放名額', null, course.limit],

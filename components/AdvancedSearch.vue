@@ -146,29 +146,29 @@ const advancedSearchFilters = useState("advancedSearchFilters", () => ({
       },
     },
   ],
-  // 選課資訊: [
-  //   {
-  //     value: { 未額滿課程: false },
-  //     onChange: (value) => {
-  //       updateFilters({
-  //         notFull: value.未額滿課程
-  //           ? {
-  //               operator: FilterOperator.OR,
-  //               constraints: [
-  //                 {
-  //                   value: true,
-  //                   matchMode: FilterMatchMode.EQUALS,
-  //                 },
-  //               ],
-  //             }
-  //           : {
-  //               operator: FilterOperator.OR,
-  //               constraints: [],
-  //             },
-  //       });
-  //     },
-  //   },
-  // ],
+  選課資訊: [
+    {
+      value: { 未額滿課程: false },
+      onChange: (value) => {
+        updateFilters({
+          notFull: value.未額滿課程
+            ? {
+                operator: FilterOperator.OR,
+                constraints: [
+                  {
+                    value: true,
+                    matchMode: FilterMatchMode.EQUALS,
+                  },
+                ],
+              }
+            : {
+                operator: FilterOperator.OR,
+                constraints: [],
+              },
+        });
+      },
+    },
+  ],
   學分數: [
     {
       value: { 1: false, 2: false, 3: false, 4: false, ">= 5": false },
