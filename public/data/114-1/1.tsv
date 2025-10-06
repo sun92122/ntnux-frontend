@@ -241,7 +241,7 @@
 114	1	10	0	油墨學			30	30		GCU0047		半	2.0	圖傳系（學）	HU72		Printing Ink		3	0	30	選		N	1248	陳仙舟	四 3-4 和平 製作教室B	
 114	1	10	0	印刷出版工程企劃			10	10		GCU0055		半	3.0	圖傳系（學）	HU72		Printing & Publishing Technology Process		3	0	50	選		N	1249	葉振璧	三 8-10 和平 視聽教室	
 114	1	10	0	傳播科技技術（一）			15	15		GCU0075		半	3.0	圖傳系（學）	HU72		Communication Technology (I)		3	0	50	選		N	1250	邱卉榛	一 9-A 和平 誠208	
-114	1	10	0	專業技術訓練		限本系學生且暑假7-8月已參加校外職場實習者選課	46	46		GCU0121		半	3.0	圖傳系（學）	HU72		Training for Professional Techniques		3	0	50	必		N	1251	張晏榕 陳明秀 陳仙舟	四 5-7 和平 視聽教室, 四 D 和平 視聽教室	
+114	1	10	0	專業技術訓練		限本系學生且暑假7-8月已參加校外職場實習者選課	46	46		GCU0121		半	3.0	圖傳系（學）	HU72		Training for Professional Techniques		3	0	50	必		N	1251	陳仙舟 張晏榕 陳明秀	四 5-7 和平 視聽教室, 四 D 和平 視聽教室	
 114	1	10	0	印刷設計			19	19		GCU0128		半	2.0	圖傳系（學）	HU72		Printing Layout & Design		3	0	50	選		N	1252	陳皇利	四 A-B 和平 教402	
 114	1	10	0	印刷適性研究			20	20		GCU0134		半	2.0	圖傳系（學）	HU72		Printing Ability Research		3	0	50	選		N	1253	陳仙舟	一 1-2 和平 製作教室B	
 114	1	10	0	數位版型原理與實務			33	33		GCU0185		半	2.0	圖傳系（學）	HU72		The Principles and Practices of Digital Template with Contents		3	0	50	選		N	1255	陳仙舟	四 1-2 和平 製作教室B	
@@ -386,7 +386,7 @@
 114	1	10	0	現當代思潮批判	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	8	8		EAC8038		半	3.0	東亞系（碩）	IM83		Critique of Modern and Contemporary Thought			3	50	選	◎課程不開放上修	N	1398	胡元玲	四 6-8 和平 東亞系第二教室	
 114	1	10	0	東亞政經專題研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	6	6		EAC8043		半	3.0	東亞系（碩）	IM83		Special Topics on Political Economy in East Asia			3	50	選	◎課程不開放上修	N	1399	林賢參	三 6-8 和平 東亞系第二教室	
 114	1	5	0	美國外交政策專題研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）    The classroom is located on the 9th floor of Cheng building. Please refer to the latest course schedule announced on our departmental website.	8	8		EAC8044		半	3.0	東亞系（碩）	IM83		Special Topics on American Foreign Policy	是		0	50	選	◎課程不開放上修	N	1400	徐筱琦	二 2-4 和平 東亞系第一教室	
-114	1	10	0	韓國文化政策與流行專題研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	11	11		EAC8054		半	3.0	東亞系（碩）	IM83		Special Topics on Korean Cultural Policy and Trends			3	50	選	◎課程不開放上修	N	1401	金恩美 洪攸善	一 6-8 和平 東亞系第一教室	
+114	1	10	0	韓國文化政策與流行專題研究	8	上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	11	11		EAC8054		半	3.0	東亞系（碩）	IM83		Special Topics on Korean Cultural Policy and Trends			3	50	選	◎課程不開放上修	N	1401	洪攸善 金恩美	一 6-8 和平 東亞系第一教室	
 114	1	10	1	東亞人類學專題研究	8		7	6		EAC8055		半	3.0	東亞系（碩）	IM83		Special Topics on Anthropology of East Asia	是		3	50	選	◎課程不開放上修	N	1402	黃約伯	三 6-8 和平 東亞系第一教室	
 114	1	5	5	漢語語法學			55	50		CLM0019		半	3.0	華語系（碩）	IM84		Syntactic Structures of Chinese			1	50	選	◎課程不開放上修	N	1403	陳俊光	五 2-4 和平 正402A	
 114	1	3	3	語言學專題研究 </br>[ 學分學程：國際教師學程-華語文 ]			21	18		CLM0042		半	3.0	華語系（碩）	IM84		Special Topics on Linguistics </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education ]			3	30	選	◎課程不開放上修	N	1404	洪嘉馡	二 2-4 和平 誠105	
@@ -803,7 +803,7 @@
 114	1	10	0	英語會話（一）		建議修習輔系第一年時選修	23	23		ENU0269	B	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1821	常紹如	四 6-7 和平 正305	
 114	1	10	0	英語會話（一）		建議修習輔系第一年時選修	26	26		ENU0269	C	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1822	柯衣凡	四 8-9 和平 正302	
 114	1	10	0	英語會話（一）		建議修習輔系第一年時選修	24	24		ENU0269	D	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1823	多德	四 8-9 和平 誠304	
-114	1	10	0	英語會話（一）		建議修習輔系第一年時選修	22	22		ENU0269	E	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1824	多德	五 1-2 和平 誠304	
+114	1	10	0	英語會話（一）		建議修習輔系第一年時選修	24	24		ENU0269	E	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1824	多德	五 1-2 和平 誠304	
 114	1	10	0	英語會話（一）		建議修習輔系第一年時選修	25	25		ENU0269	F	半	2.0	英語系（學）	LU21		English Conversation (I)	是	1	0	25	必		N	1825	多德	五 3-4 和平 誠304	
 114	1	10	0	英語發音（一）			20	20		ENU0281	A	半	2.0	英語系（學）	LU21		English Pronunciation (I)	是	1	0	20	選		N	1826	羅美蘭	二 6-7 和平 誠304	
 114	1	10	0	英語發音（一）			20	20		ENU0281	B	半	2.0	英語系（學）	LU21		English Pronunciation (I)	是	1	0	20	選		N	1827	陳正賢	四 3-4 和平 誠305	
