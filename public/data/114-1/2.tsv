@@ -406,7 +406,7 @@
 114	1	20	12	金融科技與應用 </br>[ 學分學程：商業分析學程 ]	9		57	45		MBC9004		半	3.0	管理所（學）	OU55		FinTech and Its Applications </br>[ Program: The Program of Business Data Analysis ]	是		0	50	選		N	2424	鍾建屏	四 2-4 和平 教202會議廳	
 114	1	10	0	文字探勘 </br>[ 學分學程：商業分析學程 ]	9		8	8		IAC9001		半	3.0	全營所（學）	OU56		Text Mining </br>[ Program: The Program of Business Data Analysis ]			0	50	選		N	2425	何宗武	四 6-8 和平 雲508	
 114	1	10	1	行銷研究			27	26		BAU0005		半	3.0	企管系（學）	OU57		Marketing Research			2	50	選	◎必須先修過【BAU0021  行銷管理】	N	2426	林郁翔	一 6-8 和平 誠208	
-114	1	10	4	消費者行為			24	20		BAU0013		半	3.0	企管系（學）	OU57		Consumer Behavior	是		1	50	選	◎必須先修過【BAU0021  行銷管理】	N	2427	蕭中強	五 2-4 和平 誠109	
+114	1	10	5	消費者行為			25	20		BAU0013		半	3.0	企管系（學）	OU57		Consumer Behavior	是		1	50	選	◎必須先修過【BAU0021  行銷管理】	N	2427	蕭中強	五 2-4 和平 誠109	
 114	1	10	3	企業實習		需在暑期完成系上規定240小時實習後才得選修此門課程。上課地點：另於MOODLE教學平台公告	30	27		BAU0025	A	半	3.0	企管系（學）	OU57		Internship			0	50	必	◎必須先修過【BAU0021  行銷管理】、【BAU0007  財務管理】、【BAU0048  企業管理概論】	N	2428	邱皓政 黃浩霆	六 A-C 和平 教室自排	
 114	1	10	1	企業實習		需在暑期完成系上規定240小時實習後才得選修此門課程。上課地點：另於MOODLE教學平台公告	23	22		BAU0025	B	半	3.0	企管系（學）	OU57		Internship			0	50	必	◎必須先修過【BAU0021  行銷管理】、【BAU0007  財務管理】、【BAU0048  企業管理概論】	N	2429	徐美 賴慧文	六 A-C 和平 教室自排	
 114	1	10	2	投資組合與個人財務分析			53	51		BAU0033		半	3.0	企管系（學）	OU57		Portfolio Analysis and Personal Financial Planning			2	50	選	◎必須先修過【BAU0007  財務管理】	N	2430	賴慧文	四 7-9 和平 正203	
@@ -750,7 +750,7 @@
 114	1	10	1	普通物理乙（一） </br>[ 學分學程：半導體技術學程 ]		預先帶入地科系一年級學生	50	49		PHU0251	E	半	3.0	物理系（學）	SU41		General Physics B (I) </br>[ Program: The Program of Semiconductor Technology ]		1	0	50	必		N	2776	張嘉泓	一 6-8 公館 Ｅ201	
 114	1	10	0	普通物理乙（一） </br>[ 學分學程：半導體技術學程 ]		預先帶入電機系一年級學生	56	56		PHU0251	F	半	3.0	物理系（學）	SU41		General Physics B (I) </br>[ Program: The Program of Semiconductor Technology ]		1	0	50	必		N	2777	卜宏毅	二 2-4 和平 正203	
 114	1	10	0	普通物理乙（一） </br>[ 學分學程：半導體技術學程 ]		預先帶入光電學士學位學程一年級學生	40	40		PHU0251	G	半	3.0	物理系（學）	SU41		General Physics B (I) </br>[ Program: The Program of Semiconductor Technology ]		1	0	50	必		N	2778	古煥宇	一 6-8 公館 Ｅ202	
-114	1	10	0	普通物理乙（一） </br>[ 學分學程：半導體技術學程 ]			4	4		PHU0251	H	半	3.0	物理系（學）	SU41		General Physics B (I) </br>[ Program: The Program of Semiconductor Technology ]	是	1	0	50	必		N	2779	David Michael Hernan	二 6-8 公館 Ｓ504	
+114	1	10	0	普通物理乙（一） </br>[ 學分學程：半導體技術學程 ]			4	4		PHU0251	H	半	3.0	物理系（學）	SU41		General Physics B (I) </br>[ Program: The Program of Semiconductor Technology ]	是	1	0	50	必		N	2779	何大衛	二 6-8 公館 Ｓ504	
 114	1	20	0	基礎物理		預先帶入數學系一年級甲班學生	42	42		PHU0253	A	半	3.0	物理系（學）	SU41		Fundamental Physics		1	0	50	必		N	2780	吳亞霖	四 6-8 公館 理圖001	
 114	1	10	0	基礎物理		預先帶入數學系一年級乙班學生	47	47		PHU0253	B	半	3.0	物理系（學）	SU41		Fundamental Physics		1	0	50	必		N	2781	邱顯智	四 6-8 公館 Ｓ202	
 114	1	10	2	基礎物理實驗		預先帶入數學系一年級甲班學生	36	34		PHU0254	A	半	1.0	物理系（學）	SU41		Fundamental Physics Laboratory		1	0	35	必		N	2782	張嘉泓	五 6-8 公館 Ｄ119	
