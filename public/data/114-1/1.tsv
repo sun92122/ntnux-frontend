@@ -214,7 +214,7 @@
 114	1	9	9	程式語言 </br>[ 學分學程：元宇宙學程 ]	1		44	35		ITU0127		半	3.0	科技系（學）	HU71		Programming Language </br>[ Program: The Program of Metaverse Narrative ]		2	3	35	必		N	1220	蔡芸琤	四 2-4 和平 科技系TB311教室	
 114	1	10	0	展示設計		設科組優先選課	16	16		ITU0051		半	3.0	科技系（學）	HU71		Design for Displays and Exhibitions		3	0	35	選		N	1221	耿剛	二 10-B 和平 科技系TB213教室	
 114	1	10	0	多媒體教材設計與製作 </br>[ 學分學程：高齡學程 ]		學科組優先選課	29	29		ITU2053		半	3.0	科技系（學）	HU71		Design & Production for Multimedia Instructional Materials </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		3	0	30	必		N	1222	丁玉良	二 7-9 和平 科技系TC411教室	
-114	1	9	2	資料庫系統		學科組優先選課	29	27		ITU2075		半	3.0	科技系（學）	HU71		Database Systems	是	3	3	35	選	◎必須先修過【ITU0127  程式語言】、【ITU1028  網際網路概論】其中一門	N	1223	蔡芸琤	一 2-4 和平 科技系TB311教室	
+114	1	9	2	資料庫系統 </br>[ 學分學程：教育大數據微學程 ]		學科組優先選課	29	27		ITU2075		半	3.0	科技系（學）	HU71		Database Systems </br>[ Program: The Program of Big Data in Education ]	是	3	3	35	選	◎必須先修過【ITU0127  程式語言】、【ITU1028  網際網路概論】其中一門	N	1223	蔡芸琤	一 2-4 和平 科技系TB311教室	
 114	1	10	0	產品設計 </br>[ 學分學程：理工實作學程 ]		設科組優先選課	18	18		ITU2080		半	3.0	科技系（學）	HU71		Products Design </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	30	必		N	1224	簡佑宏	四 2-4 和平 科技系TB310教室	
 114	1	10	0	生活科技科教學實習（一）（教）		師資生優先選課	20	20		ITUE210		半	2.0	科技系（學）	HU71		Teaching Practicum: Living Technology(I)		3	0	30	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	1225	張玉山 周家卉	一 7-10 和平 科技系TD301教室	
 114	1	10	1	產品分析與企劃		設科組優先選課	16	15		ITU0039		半	3.0	科技系（學）	HU71		Analysis and Planning of Products		4	1	35	選		N	1226	張敬珣	四 2-4 和平 科技系TB213教室	
@@ -427,10 +427,10 @@
 114	1	10	0	質的研究			12	12		MCM0013		半	3.0	大傳所（碩）	IM88		Qualitative Research			2	30	選	◎課程不開放上修	N	1440	蔡如音	五 3-5 和平 綜7樓大傳所大教室	
 114	1	10	0	全球化與媒體研究			20	20		MCM0082		半	3.0	大傳所（碩）	IM88		Studies in Globalization and Media			2	30	選	◎課程不開放上修	N	1441	胡綺珍	三 3-5 和平 綜7樓大傳所大教室	
 114	1	10	1	傳播專題討論（一）			23	22		MCM0112		半	1.0	大傳所（碩）	IM88		Seminar in Communication (I)			0	35	選	◎課程不開放上修	N	1442	胡綺珍	三 7 和平 綜7樓大傳所大教室	
-114	1	10	0	傳播社會文化基礎			27	27		MCM0123		半	3.0	大傳所（碩）	IM88		The Social and Cultural Foundation of Communication			0	30	選	◎課程不開放上修	N	1443	胡綺珍 王維菁	二 3-5 和平 美術館601	
+114	1	10	0	傳播社會文化基礎 </br>[ 學分學程：科傳學程 ]			27	27		MCM0123		半	3.0	大傳所（碩）	IM88		The Social and Cultural Foundation of Communication </br>[ Program: The Program of Science Communication ]			0	30	選	◎課程不開放上修	N	1443	胡綺珍 王維菁	二 3-5 和平 美術館601	
 114	1	10	0	傳播專業實習		限大傳所暑期實習學生修習	8	8		MCM0124		半	3.0	大傳所（碩）	IM88		Practicum in Communication			0	30	選	◎課程不開放上修	N	1444	王維菁	五 6-A 和平 綜7樓大傳所大教室	
-114	1	10	0	AI科技的社會治理			11	11		MCM0126		半	3.0	大傳所（碩）	IM88		AI-The Social Governance of Technology			5	30	選	◎課程不開放上修	N	1445	王維菁	一 3-5 和平 綜7樓大傳所大教室	
-114	1	10	0	科技與人本設計			7	7		MCM0127		半	3.0	大傳所（碩）	IM88		Human-Centered Design in Tech			2	30	選	◎課程不開放上修	N	1446	蕭維傑	二 7-9 和平 綜7樓大傳所大教室	
+114	1	10	0	AI科技的社會治理 </br>[ 學分學程：科傳學程 ]			11	11		MCM0126		半	3.0	大傳所（碩）	IM88		AI-The Social Governance of Technology </br>[ Program: The Program of Science Communication ]			5	30	選	◎課程不開放上修	N	1445	王維菁	一 3-5 和平 綜7樓大傳所大教室	
+114	1	10	0	科技與人本設計 </br>[ 學分學程：科傳學程 ]			7	7		MCM0127		半	3.0	大傳所（碩）	IM88		Human-Centered Design in Tech </br>[ Program: The Program of Science Communication ]			2	30	選	◎課程不開放上修	N	1446	蕭維傑	二 7-9 和平 綜7樓大傳所大教室	
 114	1	10	0	社會工作理論專題			29	29		SWM0002		半	3.0	社工所（碩）	IM89		Seminar in Social Work Theory			0	50	必	◎課程開放上修	N	1447	張文	一 8-10 和平 樸SW504	
 114	1	3	0	進階社會統計			13	13		SWM0003		半	3.0	社工所（碩）	IM89		Advanced Social Statistics			0	37	選	◎課程開放上修	N	1448	沈慶盈	三 6-8 和平 綜1001	
 114	1	10	0	家庭與經濟安全專題			9	9		SWM0020		半	3.0	社工所（碩）	IM89		Seminar in Family and Economic Security			0	50	選	◎課程開放上修	N	1449	王永慈	二 7-9 和平 樸SW504	
@@ -547,8 +547,8 @@
 114	1	5	0	兩岸僑務			18	18		CLU1073		半	3.0	華語系（學）	IU84	應用華語文學組	Comparison of Overseas Chinese Affairs		4	1	50	選		N	1561	陳嘉凌	二 2-4 和平 樸206	
 114	1	10	0	漢英翻譯		學生修課前至少須具備以下語言能力：English: IELT score of 6.5 or CEFR B2 or TOEFL iBT 92-93 or TOEFL ITP 527 or above Chinese: CEFR B2 or TOCFL B2 or ACTFL advanced high or HSK level 6 *教室容納：20人	10	10		CLU1078		半	3.0	華語系（學）	IU84	應用華語文學組	Chinese-English Translation		4	0	50	選		N	1562	王瓊淑	四 6-8 和平 綜903	
 114	1	5	0	華人藝術欣賞			20	20		CLU1089		半	3.0	華語系（學）	IU84	應用華語文學組	Introduction to Contemporary Chinese Arts		4	0	50	選		N	1563	洪逸柔	一 6-8 和平 樸402	
-114	1	3	1	大數據與資訊視覺化	9		25	24		MCC9002		半	3.0	大傳所（學）	IU88		Big Data and Information Visualization			3	31	選		N	1564	蔣旭政	一 7-9 和平 教403	
-114	1	6	6	數位公關廣告策略與規劃	9		25	19		MCC9005		半	3.0	大傳所（學）	IU88		Digital Advertising/Public Relations Strategy and Planning			2	18	選		N	1565	林慧斐	二 3-5 和平 綜7樓大傳所大教室	
+114	1	3	1	大數據與資訊視覺化 </br>[ 學分學程：科傳學程 ]	9		25	24		MCC9002		半	3.0	大傳所（學）	IU88		Big Data and Information Visualization </br>[ Program: The Program of Science Communication ]			3	31	選		N	1564	蔣旭政	一 7-9 和平 教403	
+114	1	6	6	數位公關廣告策略與規劃 </br>[ 學分學程：科傳學程 ]	9		25	19		MCC9005		半	3.0	大傳所（學）	IU88		Digital Advertising/Public Relations Strategy and Planning </br>[ Program: The Program of Science Communication ]			2	18	選		N	1565	林慧斐	二 3-5 和平 綜7樓大傳所大教室	
 114	1	10	1	全球研究導論（一）			61	60		GBU0001		半	3.0	全球研究學位學程（學）	IUH0		Introduction to Global Studies (I)	是	1	3	70	必		N	1566	邱愷欣	三 6-8 和平 綜202演講廳	
 114	1	10	0	國際關係入門			22	22		GBU0003		半	3.0	全球研究學位學程（學）	IUH0		Introduction to International Relations	是	1	3	50	必		N	1567	孫國祥 關弘昌	四 9-A 和平 誠306	
 114	1	10	0	從電影認識臺灣			20	20		GBU0010		半	3.0	全球研究學位學程（學）	IUH0		Understanding Taiwan from the Lens of Movies	是	1	0	50	選		N	1568	徐明瀚	四 6-8 和平 綜509國際會議廳	
@@ -746,7 +746,7 @@
 114	1	10	0	魏晉玄學概論			27	27		CHU0333		半	2.0	國文系（學）	LU20		Introduction to Metaphysics in the Wei-Chin Dynasties		2	5	50	選		N	1763	鄭燦山	三 6-7 和平 樸205	
 114	1	10	3	紅樓夢與戲曲			51	48		CHU0346		半	2.0	國文系（學）	LU20		A Dream of Red Mansions and Chinese Opera		2	5	50	選		N	1764	蔡孟珍	三 8-9 和平 樸302	
 114	1	10	0	楚辭			35	35		CHU0383		半	2.0	國文系（學）	LU20		Chu-Tzu		2	5	50	選		N	1765	郭乃禎	三 6-7 和平 樸303	
-114	1	10	0	英語世界中的中國哲學			24	24		CHU0388		半	2.0	國文系（學）	LU20		Chinese Philosophy in the English-Speaking World		2	5	50	選		N	1766	郭芳如	四 8-9 和平 樸203	
+114	1	10	0	英語世界中的中國哲學 </br>[ 學分學程：哲學學程 ]			24	24		CHU0388		半	2.0	國文系（學）	LU20		Chinese Philosophy in the English-Speaking World </br>[ Program: The Program in Philosophy ]		2	5	50	選		N	1766	郭芳如	四 8-9 和平 樸203	
 114	1	10	0	文字學（一）	1		32	32		CHU0211		半	2.0	國文系（學）	LU20		Chinese Etymology (I)		2	0	50	必		N	1767	羅凡晸	三 6-7 和平 樸307	
 114	1	10	3	中國文學史（一）	1		53	50		CHU0291		半	3.0	國文系（學）	LU20		History of Chinese Literature (I)		2	5	50	必		N	1768	陳亭佑	二 2-4 和平 樸203	
 114	1	10	1	文字學（一）	2		50	49		CHU0211		半	2.0	國文系（學）	LU20		Chinese Etymology (I)		2	5	50	必		N	1769	黃麗娟	四 3-4 和平 樸206	
