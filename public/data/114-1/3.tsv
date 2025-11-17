@@ -12,8 +12,8 @@
 114	1	10	0	當代藝術專題研究	8		6	6		ATC0310		半	3.0	美術系（碩）	TM60		Special Topics on Contemporary Arts	是		1	30	選	◎課程不開放上修	N	3010	魏竹君	四 2-4 和平 美301	
 114	1	10	0	當代繪畫研究與創作（一）	8		21	21		ATC0334		半	3.0	美術系（碩）	TM60		Study and Creation of Contemporary Painting (I)			0	30	選	◎課程不開放上修	N	3011	朱友意	四 2-4 和平 美504	
 114	1	10	0	媒體藝術研討	8		4	4		ATC0341		半	3.0	美術系（碩）	TM60		Seminar in Media Art			0	30	選	◎課程不開放上修	N	3012	邱誌勇	五 8-10 和平 美406	
-114	1	10	0	視覺效果與影像處理	8	授課教師:陳永賢	3	3		ATC0347		半	3.0	美術系（碩）	TM60		Visual Effects and Image Manipulation			0	30	選	◎課程不開放上修	N	3013	陳永賢	四 6-8 和平 美406	
-114	1	10	0	新媒體互動藝術專題研究	8	授課教師:李炳曄	4	4		ATC0349		半	3.0	美術系（碩）	TM60		Research of New Media Interactive Art			0	30	選	◎課程不開放上修	N	3014	李炳曄	二 2-4 和平 美203	
+114	1	10	0	視覺效果與影像處理 </br>[ 學分學程：科技藝術學程 ]	8	授課教師:陳永賢	3	3		ATC0347		半	3.0	美術系（碩）	TM60		Visual Effects and Image Manipulation </br>[ Program: The Program of Digital Art and Technology ]			0	30	選	◎課程不開放上修	N	3013	陳永賢	四 6-8 和平 美406	
+114	1	10	0	新媒體互動藝術專題研究 </br>[ 學分學程：科技藝術學程 ]	8	授課教師:李炳曄	4	4		ATC0349		半	3.0	美術系（碩）	TM60		Research of New Media Interactive Art </br>[ Program: The Program of Digital Art and Technology ]			0	30	選	◎課程不開放上修	N	3014	李炳曄	二 2-4 和平 美203	
 114	1	10	0	美術館教育專題研究	8	授課教師:吳岱融	13	13		ATC0359		半	3.0	美術系（碩）	TM60		Selected Topics in Museum Education			0	30	選	◎課程不開放上修	N	3015	吳岱融	三 7-9 和平 美406	
 114	1	10	0	現代美學新論	8	授課教師:高榮禧	19	19		ATC3022		半	3.0	美術系（碩）	TM60		New Introduction to Modern Aesthetics			0	30	選	◎課程不開放上修	N	3016	高榮禧	五 8-10 和平 美203	
 114	1	10	0	視覺文化與繪畫創作研究	8		18	18		ATC8013		半	3.0	美術系（碩）	TM60		Visual Culture and Painting			0	30	選	◎課程不開放上修	N	3017	蔡芷芬	三 2-4 和平 美405	
@@ -21,7 +21,7 @@
 114	1	10	0	視覺隱喻與應用	8		8	8		ATC8044		半	3.0	美術系（碩）	TM60		Visual Metaphors and Applications			0	30	選	◎課程不開放上修	N	3019	陳淑華	三 7-9 和平 美502	
 114	1	10	0	書寫藝術研究	8	授課教師:程代勒	24	24		ATC8045		半	3.0	美術系（碩）	TM60		Studies in Calligraphy Art			0	30	選	◎課程不開放上修	N	3020	程代勒	四 6-8 和平 美501	
 114	1	10	0	修復科技專題研究（三）	8		9	9		ATC8048		半	3.0	美術系（碩）	TM60		Conservation Special Project (III)			0	30	選	◎課程不開放上修	N	3021	吳盈君	二 6-8 和平 美506	
-114	1	10	0	媒介、觀眾與體驗	8		7	7		ATC8068		半	3.0	美術系（碩）	TM60		Studies of Mediated Audience and Experience for the Arts			0	30	選	◎課程不開放上修	N	3022	蘇瑤華	四 2-4 和平 美405	
+114	1	10	0	媒介、觀眾與體驗 </br>[ 學分學程：科技藝術學程 ]	8		7	7		ATC8068		半	3.0	美術系（碩）	TM60		Studies of Mediated Audience and Experience for the Arts </br>[ Program: The Program of Digital Art and Technology ]			0	30	選	◎課程不開放上修	N	3022	蘇瑤華	四 2-4 和平 美405	
 114	1	10	0	中國繪畫史研究導論			7	7		AHM0002		半	3.0	藝史所（碩）	TM67		Introduction to the History of Chinese Painting			1	30	選	◎課程開放上修	N	3024	蔡家丘	四 2-4 和平 青田406室	
 114	1	10	0	圖像學			17	17		AHM0020		半	3.0	藝史所（碩）	TM67		Iconography	是		1	30	選	◎課程開放上修	N	3025	Candida Syndikus	二 7-9 和平 青田405室	
 114	1	10	0	中國藝術史傳統文獻研究導論			3	3		AHM0081		半	3.0	藝史所（碩）	TM67		Introduction to Traditional Documentary Sources in Chinese Art			1	30	選	◎課程開放上修	N	3026	林麗江	四 2-4 和平 青田405室	
@@ -50,24 +50,24 @@
 114	1	10	1	中國美術史			51	50		ATU0026		半	2.0	美術系（學）	TU60		History of Chinese Art		2	3	50	必		N	3049	白適銘	二 8-9 和平 美101	
 114	1	10	9	繪畫發展與心智成長 </br>[ 學分學程：藝教學程 ]			55	46		ATU0232		半	2.0	美術系（學）	TU60		Drawing Development and Mental Growth </br>[ Program: The Program of Art Education Therapy ]		2	2	50	選		N	3050	江學瀅	一 1-2 和平 美301	
 114	1	11	9	美學（一） </br>[ 學分學程：社團領導學程 ]			62	53		ATU0237		半	2.0	美術系（學）	TU60		Aesthetics (I) </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]		2	3	50	必		N	3051	魏竹君	五 6-7 和平 美101	
-114	1	10	5	版畫（一）		授課教師:楊紋瑜	30	25		ATU0307		半	2.0	美術系（學）	TU60		Printmaking (I)		2	2	30	選		N	3052	楊紋瑜	五 3-4 和平 美201	
+114	1	10	5	版畫（一） </br>[ 學分學程：藝教學程 ]		授課教師:楊紋瑜	30	25		ATU0307		半	2.0	美術系（學）	TU60		Printmaking (I) </br>[ Program: The Program of Art Education Therapy ]		2	2	30	選		N	3052	楊紋瑜	五 3-4 和平 美201	
 114	1	10	10	攝影		授課教師:張國治	38	28		ATU6013		半	2.0	美術系（學）	TU60		Photography		2	3	30	選		N	3053	張國治	一 9-10 和平 美301	
 114	1	10	2	基礎雕塑		授課教師:林正仁	24	22		ATU0023		半	3.0	美術系（學）	TU60		Sculpture - University Foundation Level		3	1	30	選		N	3054	林正仁	五 2-4 和平 美101	
-114	1	10	3	陶藝（一）		授課教師:唐瑄	32	29		ATU0231		半	3.0	美術系（學）	TU60		Ceramics (I)		3	0	30	選		N	3055	唐瑄	三 8-10 和平 美B002陶藝	
+114	1	10	3	陶藝（一） </br>[ 學分學程：藝教學程 ]		授課教師:唐瑄	32	29		ATU0231		半	3.0	美術系（學）	TU60		Ceramics (I) </br>[ Program: The Program of Art Education Therapy ]		3	0	30	選		N	3055	唐瑄	三 8-10 和平 美B002陶藝	
 114	1	10	4	藝術批評			33	29		ATU0340		半	2.0	美術系（學）	TU60		Art Criticism		3	2	50	選		N	3056	魏竹君	五 3-4 和平 美301	
-114	1	10	9	藝術治療與繪本應用 </br>[ 學分學程：高齡學程 ]			45	36		ATU0346		半	2.0	美術系（學）	TU60		Art Therapy and the Application of Picture Books </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		3	2	30	選		N	3057	江學瀅	一 3-4 和平 美301	
+114	1	10	9	藝術治療與繪本應用 </br>[ 學分學程：藝教學程 高齡學程 ]			45	36		ATU0346		半	2.0	美術系（學）	TU60		Art Therapy and the Application of Picture Books </br>[ Program: The Program of Art Education Therapy The program of Cultivating Seniors Service Talent in Community ]		3	2	30	選		N	3057	江學瀅	一 3-4 和平 美301	
 114	1	10	6	行為與觀念藝術		授課教師:姚瑞中	37	31		ATU0196		半	2.0	美術系（學）	TU60		Performance and Conceptual Art		4	2	30	選		N	3058	姚瑞中	五 9-10 和平 美405	
 114	1	10	0	現代版畫（一）		授課教師:楊紋瑜	18	18		ATU0245		半	2.0	美術系（學）	TU60		Modern Printmaking (I)		4	2	30	選		N	3059	楊紋瑜	五 6-7 和平 美201	
 114	1	10	5	文物保存修復倫理原則與檢視登錄 </br>[ 學分學程：文物保存修復學程 ]		授課教師:潘怡伶	34	29		ATU0350		半	2.0	美術系（學）	TU60		Conservation Ethics and Documentation of Culture Relics </br>[ Program: The Program of Conservation of Cultural Relics ]		4	2	30	選	◎初選 文物保存修復學程 研究生得下修	N	3060	潘怡伶	四 6-7 和平 美506	
-114	1	10	2	西方繪畫材料技法與臨摹（一） </br>[ 學分學程：文物保存修復學程 ]			36	34		ATU0353		半	3.0	美術系（學）	TU60		Techniques and Materials-Painting Conservation Basic (I) </br>[ Program: The Program of Conservation of Cultural Relics ]		4	2	30	選	◎初選 文物保存修復學程 研究生得下修	N	3061	鈴鴨富士子	一 7-9 和平 美506	
+114	1	10	2	西方繪畫材料技法與臨摹（一） </br>[ 學分學程：文物保存修復學程 ]			37	35		ATU0353		半	3.0	美術系（學）	TU60		Techniques and Materials-Painting Conservation Basic (I) </br>[ Program: The Program of Conservation of Cultural Relics ]		4	2	30	選	◎初選 文物保存修復學程 研究生得下修	N	3061	鈴鴨富士子	一 7-9 和平 美506	
 114	1	10	9	東方繪畫材料技法與臨摹（一） </br>[ 學分學程：文物保存修復學程 ]		授課教師:潘怡伶	32	23		ATU0355		半	3.0	美術系（學）	TU60		Techniques and Materials-Asian Painting Conservation Basic (I) </br>[ Program: The Program of Conservation of Cultural Relics ]		4	2	30	選	◎初選 文物保存修復學程 研究生得下修 ◎必須先修過(也可以同時修)【ATU0350  文物保存修復倫理原則與檢視登錄】	N	3062	潘怡伶	四 2-4 和平 美506	
 114	1	10	0	臺灣美術史			43	43		ATU1003		半	2.0	美術系（學）	TU60		History of Taiwan Art		4	2	50	必		N	3063	白適銘	四 8-9 和平 美101	
 114	1	10	2	美術教學實習（教）			29	27		ATUE010		半	2.0	美術系（學）	TU60		Teaching Practicum: Fine Arts		4	0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修 ◎必須先修過(也可以同時修)【ATU0014  美術教育】、【ATU0232  繪畫發展與心智成長】其中一門	N	3064	江學瀅	二 6-9 和平 美301	
-114	1	10	0	基礎油畫（一）		授課教師:侯忠穎	28	28		ATU0233		半	1.0	美術系（學）	TU60	國畫組	Oil Painting - University Foundation Level (I)		1	0	30	必		N	3066	侯忠穎	一 6-7 和平 美402	
-114	1	10	0	書法（楷書）			26	26		ATU0335		半	1.0	美術系（學）	TU60	國畫組	Calligraphy (Regular Script)		1	0	30	必		N	3067	林政榮	三 9-10 和平 美505	
-114	1	10	0	素描（一）			29	29		ATU6061		半	2.0	美術系（學）	TU60	國畫組	Drawing		1	0	30	必		N	3068	吳宥鋅	二 1-4 和平 美505	
-114	1	10	0	水彩（一）			23	23		ATU6064		半	1.0	美術系（學）	TU60	國畫組	Watercolor (I)		1	0	30	必		N	3069	宋曉明	四 3-4 和平 美401	
-114	1	10	0	基礎彩墨（一）			25	25		ATU6066		半	1.0	美術系（學）	TU60	國畫組	Chinese Color Ink- and- Brush Painting- University Foundation Level (I)		1	0	30	必		N	3070	孫翼華	二 8-9 和平 美505	
+114	1	10	0	基礎油畫（一） </br>[ 學分學程：藝教學程 ]		授課教師:侯忠穎	28	28		ATU0233		半	1.0	美術系（學）	TU60	國畫組	Oil Painting - University Foundation Level (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3066	侯忠穎	一 6-7 和平 美402	
+114	1	10	0	書法（楷書） </br>[ 學分學程：藝教學程 ]			26	26		ATU0335		半	1.0	美術系（學）	TU60	國畫組	Calligraphy (Regular Script) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3067	林政榮	三 9-10 和平 美505	
+114	1	10	0	素描（一） </br>[ 學分學程：藝教學程 ]			29	29		ATU6061		半	2.0	美術系（學）	TU60	國畫組	Drawing </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3068	吳宥鋅	二 1-4 和平 美505	
+114	1	10	0	水彩（一） </br>[ 學分學程：藝教學程 ]			23	23		ATU6064		半	1.0	美術系（學）	TU60	國畫組	Watercolor (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3069	宋曉明	四 3-4 和平 美401	
+114	1	10	0	基礎彩墨（一） </br>[ 學分學程：藝教學程 ]			25	25		ATU6066		半	1.0	美術系（學）	TU60	國畫組	Chinese Color Ink- and- Brush Painting- University Foundation Level (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3070	孫翼華	二 8-9 和平 美505	
 114	1	10	0	水墨花鳥創作		授課教師:胡以誠	10	10		ATU0215		半	3.0	美術系（學）	TU60	國畫組	Studio Chinese Painting: Birds and Flowers		2	1	30	選		N	3071	胡以誠	一 6-8 和平 美305	
 114	1	10	1	膠彩畫材料運用		授課教師:高永隆	31	30		ATU0267		半	3.0	美術系（學）	TU60	國畫組	Exploration of Materials in		2	0	30	選		N	3072	高永隆	三 6-8 和平 美305	
 114	1	10	1	書法（篆書）			25	24		ATU0287		半	2.0	美術系（學）	TU60	國畫組	Calligraphy (Seal Script)		2	1	30	選		N	3073	林政榮	二 6-7 和平 美305	
@@ -83,11 +83,11 @@
 114	1	10	0	現代美術史		授課教師:趙可卿	15	15		ATU0369		半	2.0	美術系（學）	TU60	西畫組	History of Modern Art	是		2	50	選		N	3083	趙可卿	二 8-9 和平 美405	
 114	1	10	0	藝術大師小故事	9		8	8		ATC9018		半	3.0	美術系（學）	TU60	西畫組	behind the Artists	是		1	50	選		N	3084	陳淑華	三 10-B 和平 美502	
 114	1	10	9	藝術、文化、生活	9		30	21		ATC9020		半	3.0	美術系（學）	TU60	西畫組	Art, Culture, Life	是		1	50	選		N	3085	陳淑華	二 10-B 和平 美502	
-114	1	10	0	基礎油畫（一）			27	27		ATU0233		半	1.0	美術系（學）	TU60	西畫組	Oil Painting - University Foundation Level (I)		1	0	30	必		N	3086	朱友意	一 6-7 和平 美602	
-114	1	10	0	書法（楷書）		授課教師:曾霆羽	30	30		ATU0335		半	1.0	美術系（學）	TU60	西畫組	Calligraphy (Regular Script)		1	0	30	必		N	3087	曾霆羽	三 9-10 和平 美302	
-114	1	10	2	素描（一）			28	26		ATU6061		半	2.0	美術系（學）	TU60	西畫組	Drawing		1	0	30	必		N	3088	蔡芷芬	二 1-4 和平 美401	
-114	1	10	1	水彩（一）		授課教師:侯忠穎	32	31		ATU6064		半	1.0	美術系（學）	TU60	西畫組	Watercolor (I)		1	0	30	必		N	3089	侯忠穎	四 3-4 和平 美602	
-114	1	10	0	基礎彩墨（一）			25	25		ATU6066		半	1.0	美術系（學）	TU60	西畫組	Chinese Color Ink- and- Brush Painting- University Foundation Level (I)		1	0	30	必		N	3090	管偉邦	二 8-9 和平 美305	
+114	1	10	0	基礎油畫（一） </br>[ 學分學程：藝教學程 ]			27	27		ATU0233		半	1.0	美術系（學）	TU60	西畫組	Oil Painting - University Foundation Level (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3086	朱友意	一 6-7 和平 美602	
+114	1	10	0	書法（楷書） </br>[ 學分學程：藝教學程 ]		授課教師:曾霆羽	30	30		ATU0335		半	1.0	美術系（學）	TU60	西畫組	Calligraphy (Regular Script) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3087	曾霆羽	三 9-10 和平 美302	
+114	1	10	2	素描（一） </br>[ 學分學程：藝教學程 ]			28	26		ATU6061		半	2.0	美術系（學）	TU60	西畫組	Drawing </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3088	蔡芷芬	二 1-4 和平 美401	
+114	1	10	1	水彩（一） </br>[ 學分學程：藝教學程 ]		授課教師:侯忠穎	32	31		ATU6064		半	1.0	美術系（學）	TU60	西畫組	Watercolor (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3089	侯忠穎	四 3-4 和平 美602	
+114	1	10	0	基礎彩墨（一） </br>[ 學分學程：藝教學程 ]			25	25		ATU6066		半	1.0	美術系（學）	TU60	西畫組	Chinese Color Ink- and- Brush Painting- University Foundation Level (I) </br>[ Program: The Program of Art Education Therapy ]		1	0	30	必		N	3090	管偉邦	二 8-9 和平 美305	
 114	1	10	2	素描媒材與形式探索（一）			26	24		ATU0254		半	3.0	美術系（學）	TU60	西畫組	Media and Style Exploration in Drawing (I)		2	1	30	選		N	3091	宋曉明	一 6-8 和平 美401	
 114	1	10	0	進階油畫（一）			22	22		ATU6057		半	2.0	美術系（學）	TU60	西畫組	Oil Painting (I)		2	0	30	必		N	3092	朱友意	四 8-A 和平 美602	
 114	1	10	3	人體素描（一）		授課教師:馬曉瑛	29	26		ATU0243		半	3.0	美術系（學）	TU60	西畫組	Figure Drawing (I)		3	2	30	選		N	3093	馬曉瑛	二 2-4 和平 美403	
@@ -104,8 +104,8 @@
 114	1	2	0	插畫設計表現研究	9		19	19		VDC9010		半	3.0	設計系（學）	TU68		Studies in Illustration			0	50	選		N	3104	伊彬	一 8-10 和平 綜914	
 114	1	14	13	設計概論		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	63	50		VDU0004		半	2.0	設計系（學）	TU68		Introduction to Design	是	1	0	50	必		N	3105	長友大輔	一 3-4 和平 美101	
 114	1	10	1	色彩學		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	43	42		VDU0006		半	2.0	設計系（學）	TU68		Color Theory		1	0	50	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】	N	3106	施令紅	四 3-4 和平 綜914	
-114	1	5	3	電腦繪圖 </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	31	28		VDU0019	A	半	3.0	設計系（學）	TU68		Computer Graphics </br>[ Program: The Program of Digital Art and Technology ]		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】	N	3107	廖偉民	二 3-5 和平 綜914	
-114	1	5	1	電腦繪圖 </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    曾乙文老師	15	14		VDU0019	B	半	3.0	設計系（學）	TU68		Computer Graphics </br>[ Program: The Program of Digital Art and Technology ]		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】	N	3108	曾乙文	二 6-8 和平 綜1001	
+114	1	5	3	電腦繪圖		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	31	28		VDU0019	A	半	3.0	設計系（學）	TU68		Computer Graphics		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】	N	3107	廖偉民	二 3-5 和平 綜914	
+114	1	5	1	電腦繪圖		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    曾乙文老師	15	14		VDU0019	B	半	3.0	設計系（學）	TU68		Computer Graphics		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】、【VDU0070  基礎設計（一）】	N	3108	曾乙文	二 6-8 和平 綜1001	
 114	1	10	6	基礎設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	32	26		VDU0070	A	半	3.0	設計系（學）	TU68		Basic Design (I)		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】	N	3109	廖偉民	四 6-8 和平 設計系2A教室	
 114	1	5	3	基礎設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	19	16		VDU0070	B	半	3.0	設計系（學）	TU68		Basic Design (I)		1	0	35	必	◎必須先修過(也可以同時修)【VDU0108  設計素描（一）】	N	3110	蘇瀚	四 6-8 和平 設計系2B教室	
 114	1	5	2	設計素描（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	27	25		VDU0108	A	半	3.0	設計系（學）	TU68		Sketching (I)		1	0	35	必	◎必須先修過(也可以同時修)【VDU0004  設計概論】	N	3111	伊彬	二 7-9 和平 綜914	
@@ -117,11 +117,11 @@
 114	1	5	0	產品設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	22	22		VDU0192		半	3.0	設計系（學）	TU68		Product Design (I)		2	0	35	必	◎必須先修過(也可以同時修)【VDU0070  基礎設計（一）】	N	3117	鄧建國	二 6-8 和平 設計系2B教室	
 114	1	5	4	室內設計（一） </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	16	12		VDU0196		半	2.0	設計系（學）	TU68		Interior Design (I) </br>[ Program: Interdisciplinary Program For Interior Design Profession ]	是	2	0	35	選	◎必須先修過(也可以同時修)【VDU0070  基礎設計（一）】	N	3118	長友大輔	二 3-4 和平 設計系2B教室	
 114	1	6	5	視覺傳達設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	30	25		VDU0200		半	3.0	設計系（學）	TU68		Visual Communication Design (I)		2	0	35	必	◎必須先修過【VDU0019  電腦繪圖】	N	3119	施令紅	四 6-8 和平 科技系TC411教室	
-114	1	5	0	媒體設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:李文閣老師	27	27		VDU0206		半	2.0	設計系（學）	TU68		Media Design (I)		2	0	35	必		N	3120	李文閣	二 3-4 和平 綜913	
+114	1	5	0	媒體設計（一） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:李文閣老師	27	27		VDU0206		半	2.0	設計系（學）	TU68		Media Design (I) </br>[ Program: The Program of Digital Art and Technology ]		2	0	35	必		N	3120	李文閣	二 3-4 和平 綜913	
 114	1	10	2	室內設計圖學 </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:劉大章老師	28	26		VDU0211		半	2.0	設計系（學）	TU68		Interior Design Drawing </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		2	0	35	選		N	3121	劉大章	二 1-2 和平 設計系2A教室	
-114	1	5	0	數位建模 </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:黃浩瑜老師	31	31		VDU0218		半	2.0	設計系（學）	TU68		Digital Modeling </br>[ Program: The Program of Digital Art and Technology ]		2	0	35	選		N	3122	黃浩瑜	三 6-7 和平 綜913	
+114	1	5	0	數位建模		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:黃浩瑜老師	31	31		VDU0218		半	2.0	設計系（學）	TU68		Digital Modeling		2	0	35	選		N	3122	黃浩瑜	三 6-7 和平 綜913	
 114	1	5	0	版畫設計		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:李延祥老師	17	17		VDU0224		半	2.0	設計系（學）	TU68		Printmaking and Design		2	0	35	選		N	3123	李延祥	五 3-4 和平 綜913	
-114	1	5	0	表現技法（一） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:林玠里老師	17	17		VDU0246		半	2.0	設計系（學）	TU68		Sketching and Drawing Method (I) </br>[ Program: The Program of Digital Art and Technology ]		2	0	35	選	◎必須先修過(也可以同時修)【VDU0019  電腦繪圖】	N	3124	林玠里	三 8-9 和平 設計系2B教室	
+114	1	5	0	表現技法（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:林玠里老師	17	17		VDU0246		半	2.0	設計系（學）	TU68		Sketching and Drawing Method (I)		2	0	35	選	◎必須先修過(也可以同時修)【VDU0019  電腦繪圖】	N	3124	林玠里	三 8-9 和平 設計系2B教室	
 114	1	5	0	產品表現技法（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:曾乙文老師	24	24		VDU0248		半	3.0	設計系（學）	TU68		Product Design Presentation Techniques (I)		2	0	35	必		N	3125	曾乙文	五 2-4 和平 設計系2B教室	
 114	1	5	0	創新設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:曾乙文老師	23	23		VDU0253		半	3.0	設計系（學）	TU68		Innovation Design (I)		2	0	35	必		N	3126	曾乙文	四 2-4 和平 設計系2B教室	
 114	1	5	5	介面設計與使用者體驗（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:黃莉庭老師	34	29		VDU0269		半	3.0	設計系（學）	TU68		UI/UX Design (I)		2	0	35	選	◎必須先修過【VDU0019  電腦繪圖】	N	3127	黃莉庭	四 2-4 和平 綜913	
@@ -132,7 +132,7 @@
 114	1	5	0	產品分析		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:周育潤老師	13	13		VDU0152		半	3.0	設計系（學）	TU68		Product Analysis		3	0	35	選		N	3132	周育潤	五 6-8 和平 設計系3B教室	
 114	1	10	0	施工圖 </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:劉大章老師	8	8		VDU0157		半	2.0	設計系（學）	TU68		Construction Drawing </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		3	0	35	選		N	3133	劉大章	二 3-4 和平 設計系2A教室	
 114	1	5	5	３Ｄ動畫創作（一） </br>[ 學分學程：元宇宙學程 科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:呂奇駿老師	39	34		VDU0181		半	2.0	設計系（學）	TU68		3d Animation (I) </br>[ Program: The Program of Metaverse Narrative The Program of Digital Art and Technology ]		3	0	35	選		N	3134	呂奇駿	一 3-4 和平 設計系3B教室	
-114	1	5	1	動態平面設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:李文閣老師	26	25		VDU0187		半	3.0	設計系（學）	TU68		Motion Graphic Design (I)		3	0	35	選		N	3135	李文閣	二 6-8 和平 綜913	
+114	1	5	1	動態平面設計（一） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:李文閣老師	26	25		VDU0187		半	3.0	設計系（學）	TU68		Motion Graphic Design (I) </br>[ Program: The Program of Digital Art and Technology ]		3	0	35	選		N	3135	李文閣	二 6-8 和平 綜913	
 114	1	5	0	動畫劇本創作		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:呂奇駿老師	26	26		VDU0228		半	2.0	設計系（學）	TU68		Animation Script Writing		3	0	35	選		N	3136	呂奇駿	一 5-6 和平 設計系3B教室	
 114	1	5	0	進階產品設計（一）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	15	15		VDU0232		半	6.0	設計系（學）	TU68		Advanced Product Design (I)		3	0	35	必	◎必須先修過【VDU0192  產品設計（一）】	N	3137	梁桂嘉 王千睿	二 6-8 和平 設計系3B教室, 五 2-4 和平 綜914	
 114	1	5	4	資訊圖表設計		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	23	19		VDU0271		半	2.0	設計系（學）	TU68		Infographics and Interface Design		3	0	35	選	◎必須先修過【VDU0200  視覺傳達設計（一）】	N	3138	廖偉民	三 8-9 和平 設計系6A教室	
@@ -159,14 +159,14 @@
 114	1	10	0	社會團體工作 </br>[ 學分學程：人社學程 社會與傳播學程 ]			21	21		PGU1023		半	3.0	社會與傳播學程	ZU9E		Social Group Work </br>[ Program: Human Services and Social Work Credit Program Application Program in Society and Communication ]			0	50	選		N	3162	陳杏容	四 A-C 和平 樸SW504	
 114	1	0	0	社團行銷實務 </br>[ 學分學程：社團領導學程 ]			17	17		PGU8001		半	3.0	社團領導學程	ZU9Q		Marketing Practice of Student Club </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]			0	50	選	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	3163	林昌平	六 A-C 和平 綜301	
 114	1	0	0	社團經營實習（一） </br>[ 學分學程：社團領導學程 ]			39	39		PGU8003		半	2.0	社團領導學程	ZU9Q		Practicum in Student Club Management (I) </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]			0	100	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	3164	林昌平	五 10-C 和平 綜301	
-114	1	10	1	大師創業管理入門 </br>[ 學分學程：運動科技學程 科技化教學產業學程 肌力與體能學程 大師創業學程 ]			36	35		PGU9001		半	2.0	大師創業學程	ZU9V		General Management Principles of Entrepreneurship </br>[ Program: The Program of Sports Technology The Program of Technology-assisted Teaching Industry The Program of Strength and Conditioning Program of Entrepreneurship ]			5	50	必		N	3165	韓宗憲	一 A-B 和平 誠201	
-114	1	10	0	誰是下個賈伯斯─大師創業發想與實踐（一） </br>[ 學分學程：運動科技學程 科技化教學產業學程 大師創業學程 ]			28	28		PGU9002		半	2.0	大師創業學程	ZU9V		Who's the Next Steve Jobs? Planning and Practice of the Entrepreneurship (I) </br>[ Program: The Program of Sports Technology The Program of Technology-assisted Teaching Industry Program of Entrepreneurship ]			5	50	必		N	3166	呂緗柔	三 A-B 和平 誠305	
+114	1	10	1	大師創業管理入門 </br>[ 學分學程：運動管理學程 運動科技學程 科技化教學產業學程 肌力與體能學程 大師創業學程 ]			36	35		PGU9001		半	2.0	大師創業學程	ZU9V		General Management Principles of Entrepreneurship </br>[ Program: The Program of Sports Industry Management The Program of Sports Technology The Program of Technology-assisted Teaching Industry The Program of Strength and Conditioning Program of Entrepreneurship ]			5	50	必		N	3165	韓宗憲	一 A-B 和平 誠201	
+114	1	10	0	誰是下個賈伯斯─大師創業發想與實踐（一） </br>[ 學分學程：運動管理學程 運動科技學程 科技化教學產業學程 大師創業學程 ]			28	28		PGU9002		半	2.0	大師創業學程	ZU9V		Who's the Next Steve Jobs? Planning and Practice of the Entrepreneurship (I) </br>[ Program: The Program of Sports Industry Management The Program of Sports Technology The Program of Technology-assisted Teaching Industry Program of Entrepreneurship ]			5	50	必		N	3166	呂緗柔	三 A-B 和平 誠305	
 114	1	20	5	大師創業論壇－打造你的創業夢 </br>[ 學分學程：科技化教學產業學程 肌力與體能學程 大師創業學程 ]			56	51		PGU9003		半	2.0	大師創業學程	ZU9V		Master Entrepreneur Forum: Building Your Own Enterprise </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of Strength and Conditioning Program of Entrepreneurship ]			5	50	必		N	3167	林政宏	二 A-B 和平 誠102	
 114	1	10	0	正義與人權			34	34		GBU0012		半	3.0	全球研究學位學程（學）	IUH0		Justice and Human Rights	是	2	3	50	選		N	3168	黃獻寬	一 6-8 和平 綜210展覽廳	
 114	1	10	0	臺灣當代文化歷史 </br>[ 學分學程：環境人文學程 ]	8		15	15		TCC1029		半	3.0	臺文系（碩）	LM26		Contemporary Cultural Histories of Taiwan </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		0	50	選	◎課程開放上修	N	3169	天江喜久	三 2-4 和平 正102	
 114	1	10	4	邊界，權力與臺灣文化 </br>[ 學分學程：環境人文學程 ]			26	22		TCU1017		半	3.0	臺文系（學）	LU26		Borders, Power, and Culture in Taiwan </br>[ Program: The EMI Certificate Program in Environmental Humanities at NTNU ]	是		0	50	選		N	3170	天江喜久	一 8 和平 正206, 一 9-10 和平 誠105	
 114	1	0	0	專題製作（二） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	10	10		ITU0156	E	半	1.0	科技系（學）	HU71		Capstone Projects (II) </br>[ Program: The Program of STEM Innovation and Practices ]		4	0	50	必		N	3171	張敬珣	五 C-D 和平 科技系TB210教室	
-114	1	50	18	漢字教學			18	0		CLU1058		半	2.0	華語系（學）	IU84	應用華語文學組	Teaching of Chinese Characters			0	0	必		N	3172	林振興	五 3-4 和平 樸105	
+114	1	50	18	漢字教學 </br>[ 學分學程：華語文教學學程 ]			18	0		CLU1058		半	2.0	華語系（學）	IU84	應用華語文學組	Teaching of Chinese Characters </br>[ Program: (待補) ]			0	0	必		N	3172	林振興	五 3-4 和平 樸105	
 114	1	10	0	運動管理學專題研究		和平校區I體育館3樓運動管理學研究室	5	5		PED0065		半	3.0	體育系（博）	AD30		Special Topics in Sport Management			0	50	選	◎課程開放上修	N	3173	鄭志富	四 2-4 和平 教室自排	
 114	1	10	0	當代化學文獻導讀（一）	9		20	20		CMC9016	A	半	2.0	化學系（學）	SU42		Source Readings in Contemporary Chemistry Literature (I)	是		0	40	選	允許重複修	N	3174	黎重義	三 3-4 公館 Ｓ303	
 114	1	10	0	當代化學文獻導讀（一）	9		20	20		CMC9016	B	半	2.0	化學系（學）	SU42		Source Readings in Contemporary Chemistry Literature (I)	是		0	40	選	允許重複修	N	3175	王彥士	三 3-4 公館 Ｓ304	
@@ -538,7 +538,7 @@
 114	1	0	0	生理心理學專題研究七	7	理學院 ; 心理學研究所 ;   限修學制：大、碩、博	0	0		AAC7353	A	半	3.0	校際臺大（學）	9UAA		Supervised Research in Physiological Psychology (VII)				2	選	◎加退選全授權碼選課		3545	賴文崧	二 A-C 南館S217	
 114	1	0	0	生理時鐘與感光細胞專題討論		生命科學院 ; 生命科學研究所 ; 時地另訂，請於開學前向授課教師查詢。 ; 限修學制：大、碩、博	0	0		AAM1278	A	半	2.0	校際臺大（碩）	9MAA		Circadian rhythm and photo reception cells				1	選	◎課程開放上修		3546	陳示國		
 114	1	0	0	生態愛：環境倫理與多物種規劃設計		工學院 ; 建築與城鄉研究所 ; 鼓勵與中文文獻與翻譯書籍相互對照。 ; 限修學制：碩、博	0	0		AAM2308	A	半	3.0	校際臺大（碩）	9MAA		Ecophilia: Environmental Ethics, Multispecies Planning and Design	是			1	選	◎課程不開放上修		3547	郭怡君	一 6-8 公館101	
-114	1	0	1	生態檢核	7	生物資源暨農學院 ; 森林環境暨資源學研究所 ;   限修學制：大、碩、博	1	0		AAC7F74	A	半	3.0	校際臺大（學）	9UAA		Ecological Considerations for Engineering Projects				3	選	◎加退選全授權碼選課		3548	劉奇璋	五 2-4 新404	
+114	1	0	1	生態檢核 </br>[ 學分學程：生態產業學程 ]	7	生物資源暨農學院 ; 森林環境暨資源學研究所 ;   限修學制：大、碩、博	1	0		AAC7F74	A	半	3.0	校際臺大（學）	9UAA		Ecological Considerations for Engineering Projects </br>[ Program: The Program of the Eco-sustainable Industry (Eco-sustainable industry Program) ]				3	選	◎加退選全授權碼選課		3548	劉奇璋	五 2-4 新404	
 114	1	0	0	生機特論		生物資源暨農學院 ; 生物機電工程學研究所 ; 博 碩一必修  上課地點:生機新館(鄭江樓南棟)101 ; 限修學制：大、碩、博	0	0		AAM1103	A	半	1.0	校際臺大（碩）	9MAA		Special Topics on Biomechatronics				3	選	◎課程開放上修		3549	陳倩瑜	四 1-2 生機101	
 114	1	0	0	生醫產業科技管理		進修推廣學院 ; 生物科技管理碩士在職學位學程 ; 本課程採實體與線上同步授課，實際上課時間為19:00~21:45，上課地點請洽進修推廣學院。 ; 限修學制：大四以上、碩、博	0	0		AAM1922	A	半	3.0	校際臺大（碩）	9MAA		Management of Technologies in Bio-medical Industry				5	選	◎課程開放上修		3550	胡凱焜	二 A-C 請洽系所辦	
 114	1	0	0	生藥學 (含中藥)		醫學院 ; 藥學系 ;   限修學制：大、碩、博	0	0		AAU1729	A	半	3.0	校際臺大（學）	9UAA		Pharmacognosy (Including Traditional Chinese Medicine)				2	選			3551	張嘉銓	四 2 基醫304, 五 3-4 基醫303	
