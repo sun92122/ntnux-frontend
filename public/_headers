@@ -4,13 +4,17 @@
   Expires: 0
 
 /_nuxt/*
-  ! Cache-Control: public, max-age=31536000, immutable
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
 
 /favicon.ico
-  ! Cache-Control: public, max-age=604800
+  ! Cache-Control
+  Cache-Control: public, max-age=604800
 
 /sitemap*.xml
-  ! Cache-Control: public, max-age=300
+  ! Cache-Control
+  Cache-Control: public, max-age=300
 
-/data/
-  ! Cache-Control: public, max-age=64800
+/data/*
+  ! Cache-Control
+  Cache-Control: public, max-age=64800
