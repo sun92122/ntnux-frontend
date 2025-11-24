@@ -795,7 +795,7 @@
 114	1	10	3	普通化學實驗（一）		預先帶入地科系二年級生	42	39		CMU0131	D	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)			0	40	必	◎限外系修習	N	2821	陳頌方	四 2-4 公館 Ｄ407	
 114	1	10	1	有機化學（一） </br>[ 學分學程：台積電半導體學程 ]			101	100		CMU0137		半	3.0	化學系（學）	SU42		Organic Chemistry(I) </br>[ Program: NTNU and TSMC Semiconductor Program ]			0	100	必		N	2822	簡敦誠	一 3-4 公館 Ｅ302, 三 6 公館 Ｅ302	
 114	1	10	0	儀器分析實驗（一）			9	9		CMU0161		半	2.0	化學系（學）	SU42		Instrumental Analysis Laboratory (I)			0	40	選		N	2823	李君婷	四 6-9 公館 Ｄ401	
-114	1	10	2	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 能源材料學程 ]		預先帶入地科系二年級生	68	66		CMU0176	B	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program (待補) ]			0	70	必	◎限外系修習	N	2824	王彥士	二 7-9 公館 Ｂ103	
+114	1	10	2	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 能源材料學程 ]		預先帶入地科系二年級生	68	66		CMU0176	B	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Energy Materials Chemistry ]			0	70	必	◎限外系修習	N	2824	王彥士	二 7-9 公館 Ｂ103	
 114	1	10	0	有機化學實驗技術（一）			85	85		CMU0179		半	1.0	化學系（學）	SU42		Organic Chemistry Laboratory Techniques (I)			0	90	選		N	2825	簡敦誠 吳學亮 杜玲嫻	一 2 公館 Ｅ302	
 114	1	10	0	科學文獻探討（一）			35	35		CMU0190	B	半	2.0	化學系（學）	SU42		Scientific Literature Study (I)			0	50	選		N	2827	劉沂欣	四 3-4 公館 Ｃ102	
 114	1	10	0	科學實例操作（一）			11	11		CMU0192		半	2.0	化學系（學）	SU42		Operation of Scientific Cases (I)			0	50	選		N	2828	陳焜銘	三 9-10 公館 Ｃ107	
@@ -815,8 +815,8 @@
 114	1	10	0	普通化學實驗（一）		預先帶入生科系一甲新生	33	33		CMU0131	F	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)		1	0	40	必	◎限外系修習	N	2845	葉怡均	一 6-8 公館 Ｄ407	
 114	1	10	0	普通化學實驗（一）		預先帶入生科系一乙新生	36	36		CMU0131	G	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)		1	0	40	必	◎限外系修習	N	2846	葉怡均	二 2-4 公館 Ｄ407	
 114	1	10	0	普通化學實驗（一）		預先帶入物理系一乙新生	37	37		CMU0131	H	半	1.0	化學系（學）	SU42		General Chemistry Laboratory(I)	是	1	0	40	必		N	2847	黎重義 張一知	四 2-4 公館 Ｄ409	
-114	1	10	2	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 能源材料學程 ]		預先帶入化學系新生	96	94		CMU0176	A	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program (待補) ]		1	0	100	必		N	2848	陳家俊	二 2-4 公館 Ｅ302	
-114	1	10	1	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 能源材料學程 ]		預先帶入物理系一乙新生	55	54		CMU0176	C	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program (待補) ]	是	1	5	70	必		N	2849	黎重義	五 2-4 公館 Ｓ101	
+114	1	10	2	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 能源材料學程 ]		預先帶入化學系新生	96	94		CMU0176	A	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Energy Materials Chemistry ]		1	0	100	必		N	2848	陳家俊	二 2-4 公館 Ｅ302	
+114	1	10	1	普通化學甲（一） </br>[ 學分學程：台積電半導體學程 能源材料學程 ]		預先帶入物理系一乙新生	55	54		CMU0176	C	半	3.0	化學系（學）	SU42		General Chemistry A (I) </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Energy Materials Chemistry ]	是	1	5	70	必		N	2849	黎重義	五 2-4 公館 Ｓ101	
 114	1	10	0	普通化學乙 </br>[ 學分學程：文物保存修復學程 ]		預先帶入生科系及營養科學學士學位學程一年級新生	94	94		CMU0178	A	半	3.0	化學系（學）	SU42		General Chemistry B </br>[ Program: The Program of Conservation of Cultural Relics ]		1	0	100	必	◎限外系修習	N	2850	葉怡均	五 2-4 公館 Ｅ301	
 114	1	30	20	普通化學乙 </br>[ 學分學程：文物保存修復學程 ]		預先帶入物理系一甲及光電工程學士學位學程新生	90	70		CMU0178	B	半	3.0	化學系（學）	SU42		General Chemistry B </br>[ Program: The Program of Conservation of Cultural Relics ]		1	0	70	必	◎限外系修習	N	2851	蔡明剛	四 2-4 公館 Ｅ202	
 114	1	4	0	有機化學實驗（一）			28	28		CMU0139	A	半	1.0	化學系（學）	SU42		Organic Chemistry Laboratory(I)		2	0	28	必	◎必須先修過(也可以同時修)【CMU0179  有機化學實驗技術（一）】	N	2852	簡敦誠	一 7-9 公館 Ｄ409	
@@ -830,7 +830,7 @@
 114	1	4	0	物理化學實驗（一）			26	26		CMU0147	A	半	1.0	化學系（學）	SU42		Physical Chemistry Laboratory(I)		3	0	26	必		N	2860	李以仁	四 8-10 公館 Ｄ415	
 114	1	4	0	物理化學實驗（一）			23	23		CMU0147	B	半	1.0	化學系（學）	SU42		Physical Chemistry Laboratory(I)		3	0	26	必		N	2861	李以仁	五 2-4 公館 Ｄ415	
 114	1	4	0	物理化學實驗（一）			26	26		CMU0147	C	半	1.0	化學系（學）	SU42		Physical Chemistry Laboratory(I)		3	0	26	必		N	2862	王迪彥	五 6-8 公館 Ｄ415	
-114	1	10	0	物理化學－熱力學 </br>[ 學分學程：台積電半導體學程 能源材料學程 ]			93	93		CMU0184		半	3.0	化學系（學）	SU42		Physical Chemistry- Thermodynamics </br>[ Program: NTNU and TSMC Semiconductor Program (待補) ]		3	0	100	必		N	2863	王迪彥	二 7-9 公館 Ｅ302	
+114	1	10	0	物理化學－熱力學 </br>[ 學分學程：台積電半導體學程 能源材料學程 ]			93	93		CMU0184		半	3.0	化學系（學）	SU42		Physical Chemistry- Thermodynamics </br>[ Program: NTNU and TSMC Semiconductor Program The Program of Energy Materials Chemistry ]		3	0	100	必		N	2863	王迪彥	二 7-9 公館 Ｅ302	
 114	1	10	5	保育生物學導論			64	59		BIU0088		半	3.0	生科系（學）	SU43		Introduction to Conservation Biology			0	60	選		N	2864	林思民	五 6-8 公館 理圖001	
 114	1	10	4	普通生物學乙			42	38		BIU0170		半	3.0	生科系（學）	SU43		General Biology B			0	50	選		N	2865	林炎壽	二 7-9 公館 Ｅ202	
 114	1	10	0	普通生物學實驗甲（一）			23	23		BIU0172		半	1.0	生科系（學）	SU43		General Biology Laboratory A (I)			1	30	必		N	2866	孫智雯 李明忠	一 10-B 公館 Ｄ205	
