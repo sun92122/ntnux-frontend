@@ -93,16 +93,16 @@
 114	2	5	0	畢業專題企劃			0	0		VDU0252		半	2.0	設計系（學）	TU68		Planning of Graduation		3	0	40	選		N	3092	蘇瀚 黃莉庭	三 9-10 和平 設計系3B教室	
 114	2	5	0	設計畢業製作（二）			0	0		VDU0180	A	半	3.0	設計系（學）	TU68		Graduate Work: Design (II)		4	0	35	必	◎必須先修過【VDU0179  設計畢業製作（一）】	N	3093	黃莉庭	四 8-10 和平 設計系3A教室	
 114	2	5	0	設計畢業製作（二）			0	0		VDU0180	B	半	3.0	設計系（學）	TU68		Graduate Work: Design (II)		4	0	35	必	◎必須先修過【VDU0179  設計畢業製作（一）】	N	3094	長友大輔	四 8-10 和平 設計系3C教室	
-114	2	10	0	PASSION國英數教材教法 </br>[ 學分學程：科技化教學產業學程 PASSION偏鄉教育學程 ]			0	0		PGUZ001		半	2.0	PASSION偏鄉學程	ZU79		PASSION Teaching Materials and Methods </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of PASSION Quality Education in Rural Schools ]			3	50	必	◎初選 PASSION偏鄉學程 研究生得下修	N	3095	胡翠君	五 6-7 和平 樸406	
-114	2	1	0	PASSION遠距教學實習 </br>[ 學分學程：PASSION偏鄉教育學程 ]			0	0		PGUZ006		半	2.0	PASSION偏鄉學程	ZU79		PASSION Distance Learning </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]			2	35	必	允許重複修◎初選 PASSION偏鄉學程 研究生得下修◎必須先修過【PGUZ002  PASSION實習課程】	N	3096	胡翠君	一 8-9 和平 教403	
+114	2	4	0	PASSION國英數教材教法 </br>[ 學分學程：科技化教學產業學程 PASSION偏鄉教育學程 ]			0	0		PGUZ001		半	2.0	PASSION偏鄉學程	ZU79		PASSION Teaching Materials and Methods </br>[ Program: The Program of Technology-assisted Teaching Industry The Program of PASSION Quality Education in Rural Schools ]			5	30	必	◎初選 PASSION偏鄉學程 研究生得下修	N	3095	胡翠君	五 6-7 和平 樸406	
+114	2	0	0	PASSION遠距教學實習 </br>[ 學分學程：PASSION偏鄉教育學程 ]			0	0		PGUZ006		半	2.0	PASSION偏鄉學程	ZU79		PASSION Distance Learning </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]			3	34	必	允許重複修◎初選 PASSION偏鄉學程 研究生得下修◎必須先修過【PGUZ002  PASSION實習課程】	N	3096	胡翠君	一 8-9 和平 教403	
 114	2	20	0	會計學 </br>[ 學分學程：基礎管理學程 ]			0	0		PGUA005		半	3.0	基礎管理學程	ZU83		Accounting </br>[ Program: The Program of Fundamental Management ]			3	60	必		N	3097	未定	二 A-C 和平 誠102	
 114	2	10	0	經濟學 </br>[ 學分學程：基礎管理學程 ]			0	0		PGUA006		半	3.0	基礎管理學程	ZU83		Economics </br>[ Program: The Program of Fundamental Management ]			3	50	必		N	3098	徐美	一 7-9 和平 正203	
 114	2	10	0	計量財務分析 </br>[ 學分學程：財金學程 ]			0	0		PGUB015		半	3.0	財金學程	ZU84		Quantitative Analysis </br>[ Program: The Program of Finance ]			1	50	選		N	3099	楊怡雯	四 8-10 和平 誠401	
 114	2	5	0	環境影響評估 </br>[ 學分學程：生態產業學程 環境監測學程 區域學程 ]			0	0		PGUS010		半	3.0	環境監測學程	ZU89		Environment Impact Assessment </br>[ Program: The Program of the Eco-sustainable Industry (Eco-sustainable industry Program) The Program of Environmental Monitoring and Disaster Mitigation The Program of Region and Tourism Planning ]			3	50	必		N	3100	郭乃文	五 2-4 和平 正205	
 114	2	5	0	環境倫理 </br>[ 學分學程：生態產業學程 環境監測學程 ]			0	0		PGUS012		半	2.0	環境監測學程	ZU89		Environmental Ethics </br>[ Program: The Program of the Eco-sustainable Industry (Eco-sustainable industry Program) The Program of Environmental Monitoring and Disaster Mitigation ]			3	50	選		N	3101	林炯明	二 3-4 和平 正206	
 114	2	5	0	環境教育教材教法 </br>[ 學分學程：環境監測學程 ]			0	0		PGUS013		半	2.0	環境監測學程	ZU89		Environmental Educating Materials and Teaching Methods </br>[ Program: The Program of Environmental Monitoring and Disaster Mitigation ]			3	50	選		N	3102	林炯明	二 1-2 和平 正206	
-114	2	10	0	英文專題報導 </br>[ 學分學程：榮譽英語學程 ]			0	0		PGUK008		半	2.0	榮譽英語學程	ZU92		Topical Reporting in English </br>[ Program: The Honors Program in Advanced English ]	是		2	50	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎限榮譽英語班選修	N	3103	吳佳琪	二 3-4 和平 正302	
-114	2	10	0	中外文化議題探討 </br>[ 學分學程：榮譽英語學程 ]			0	0		PGUK009		半	2.0	榮譽英語學程	ZU92		Studies in Cross-cultural Issues </br>[ Program: The Honors Program in Advanced English ]	是		2	50	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎限榮譽英語學程選修	N	3104	宋明達	三 6-7 和平 誠701A	
+114	2	10	0	英文專題報導 </br>[ 學分學程：榮譽英語學程 ]			0	0		PGUK008		半	2.0	榮譽英語學程	ZU92		Topical Reporting in English </br>[ Program: The Honors Program in Advanced English ]	是		2	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎限榮譽英語班選修	N	3103	吳佳琪	二 3-4 和平 正302	
+114	2	10	0	中外文化議題探討 </br>[ 學分學程：榮譽英語學程 ]			0	0		PGUK009		半	2.0	榮譽英語學程	ZU92		Studies in Cross-cultural Issues </br>[ Program: The Honors Program in Advanced English ]	是		2	35	選	◎英語系（學） 不得修習     ◎初選 榮譽英語學程 研究生得下修◎限榮譽英語學程選修	N	3104	宋明達	三 6-7 和平 誠701A	
 114	2	10	0	２０世紀文學、音樂、藝術與電影 </br>[ 學分學程：歐洲文化學程 ]			0	0		PGUL021		半	3.0	歐洲文化學程	ZU93		Literature, Music, Art and Film in the 20th Century </br>[ Program: European Cultures and Languages Program ]			4	60	選	◎初選 歐洲文化學程 研究生得下修	N	3105	許玉燕	二 10-B 和平 博413	
 114	2	10	0	法文（二） </br>[ 學分學程：歐洲文化學程 ]			0	0		PGUL037		半	3.0	歐洲文化學程	ZU93		French (II) </br>[ Program: European Cultures and Languages Program ]			5	40	選	◎初選 歐洲文化學程 研究生得下修	N	3106	黃慧玉	四 10-B 和平 博413	
 114	2	10	0	法文（四） </br>[ 學分學程：歐洲文化學程 ]			0	0		PGUL039		半	3.0	歐洲文化學程	ZU93		French (IV) </br>[ Program: European Cultures and Languages Program ]			5	40	選	◎初選 歐洲文化學程 研究生得下修	N	3107	黃慧玉	五 7-9 和平 教室自排	
@@ -128,7 +128,6 @@
 114	2	3	0	體育（籃球中級）			0	0		00UP204		半	1.0	普通體育	PE		Physical Education (Intermediate Basketball)			0	30	必	允許重複修 ◎必須先修過【00UP104  體育（籃球初級）】、【00UP204  體育（籃球中級）】、【00UP904  體育校隊（籃球）】其中一門	N	3127	張容軒	四 8-9 和平 體育館一4F	
 114	2	5	0	體育（壘球初級）			0	0		00UP108		半	1.0	普通體育	PE		Physical Education (Beginning Softball)			0	50	必	允許重複修	N	3128	潘慈惠	一 1-2 和平 操場一	
 114	2	3	0	海岸環境分析	8		0	0		GEC0072		半	2.0	地理系（碩）	LM23		Global Change and Coastal Environment	是		0	30	選	◎課程開放上修	N	3129	林宗儀	二 3-4 和平 地理系研討室六	
-114	2	0	0	電磁學（二）			0	0		PHU0216		半	3.0	物理系（學）	SU41		Electricity and Magnetism (II)	是		0	50	必	◎限大四修習◎必須先修過【PHU0215  電磁學（一）】	N	3130	陳鴻宜	二 1-2 公館 Ｓ303, 三 5 公館 Ｓ303	
 114	2	10	0	全齡光學	9		0	0		OEC9117		半	3.0	光電學位學程（學）	HU77		Vision and Optics across the Lifespan			0	50	選		N	3131	楊承山	五 2-4 公館 Ｓ307	
 114	2	10	0	文化認同與民族主義	8		0	0		TCC1003		半	3.0	臺文系（碩）	LM26		Cultural Identity and Nationalism	是		3	50	選	◎課程開放上修	N	3132	天江喜久	五 2-4 和平 雲306會議室	
 114	2	10	0	技職教育評鑑研究			0	0		IEM0019		半	2.0	工教系（碩）	HM70		Evaluation in Vocational Technological Education			0	50	選	◎課程開放上修	N	3133	吳明振	一 7-8 和平 研討四	
@@ -149,3 +148,20 @@
 114	2	10	0	親職教育			0	0		HGU0023		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Parent Education		3	0	50	必	◎限本系(含雙主修)、輔系修習◎必須先修過【HGU0004  人類發展】、【HGU0191  家庭發展】	N	3148	吳志文	四 6-8 和平 正301	
 114	2	10	0	天然漆繪	9		0	0		ATC3043		半	3.0	美術系（學）	TU60	西畫組	Lacquer Painting			2	30	選		N	3149	陳淑華	四 10-B 和平 美502	
 114	2	10	0	生技醫藥產業創業風險管理與節稅規劃			0	0		BPM0015		半	2.0	生醫學位學程（碩）	SM52		Management of Entrepreneurial Risk and Tax Planning in Biotechnology Industry			10	50	選	◎課程不開放上修	N	3150	劉福運	一 9-10 公館 Ｓ202	
+114	2	4	0	體育（肌力與體能訓練初級）			0	0		00UP040	C	半	1.0	普通體育	PE		Physical Education (Beginning Strength and Conditioning)	是		0	40	必	允許重複修	N	3151	陳著	五 3-4 和平 重量訓練室一	
+114	2	5	0	空間構成 </br>[ 學分學程：室內設計學程 ]		授課教師：王菱檥講師級專業技術人員	0	0		VDU0250		半	2.0	設計系（學）	TU68		Form of Space </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		2	0	35	選		N	3152	未定	二 9-10 和平 設計系2B教室	
+114	2	10	0	游泳（二）			0	0		FPU0154	F	半	2.0	競技系（學）	AU32		Swimming (II)	是		0	50	選	◎必須先修過【FPU0240  游泳（一）】	N	3153	利安琪	一 3-4 和平 游泳館1F大泳池	
+114	2	10	0	游泳（二）			0	0		FPU0154	M	半	2.0	競技系（學）	AU32		Swimming (II)	是		0	50	選	◎必須先修過【FPU0240  游泳（一）】	N	3154	利安琪	一 1-2 和平 重量訓練室一	
+114	2	10	0	熱力學（一）			0	0		IEU3144		半	3.0	工教系（學）	HU70		Thermo-Dynamics (I)	是	2	0	50	必		N	3155	陳韋任	四 6-8 和平 研討六	
+114	2	10	0	當代華人文學教學設計			0	0		CLM0084		半	3.0	華語系（碩）	IM84		Instruction Design for Teaching Contemporary Chinese Literature			0	50	選	◎課程不開放上修	N	3156	杜昭玫	三 2-4 和平 博1002	
+114	2	10	0	電分析化學（二）	8		0	0		CMC0072		半	3.0	化學系（碩）	SM42		Analytical Electrochemistry (II)			0	40	選	◎課程開放上修	N	3157	李君婷	四 7-9 公館 Ｓ402	
+114	2	10	0	數學產業實習	9	須於1月底參與實習課程線上說明會，並提交履歷，始具選課資格。	0	0		MAC9042		半	2.0	數學系（學）	SU40		Industrial Practice			5	50	選		N	3158	林俊吉	一 0 公館 數學館M210, 一 5 公館 數學館M210, 五 0 公館 數學館M210, 五 5 公館 數學館M210	
+114	2	10	0	小說與電影中的數學思維			0	0		05UG005		半	2.0	通識	GU		Mathematical Thinking in Fiction and Films			0	50	通		N	3159	謝佳叡	三 3-4 公館 Ｂ101	A3UG
+114	2	0	0	電磁學（二）			0	0		PHU0216		半	3.0	物理系（學）	SU41		Electricity and Magnetism (II)		4	0	50	必	◎限大三大四修習◎必須先修過【PHU0215  電磁學（一）】	N	3160	陳鴻宜	二 1-2 公館 Ｓ303, 三 5 公館 Ｓ303	
+114	2	15	0	婦女健康			0	0		HEU0143		半	2.0	衛教系（學）	EU05		Women's Health	是		1	50	選	◎限本系(含雙主修)、輔系修習	N	3161	朱妮明	一 8-9 和平 正103	
+114	2	10	0	精神障礙者復健諮商專題研究			0	0		RCM0057		半	2.0	復諮高齡所（碩）	EM17		Studies in Rehabilitation Counseling for Individuals with Mental Illness			3	50	選	◎課程開放上修	N	3162	吳亭芳	一 7-8 和平 特203	
+114	2	2	0	電腦輔助製造			0	0		MTU0103		半	3.0	機電系（學）	HU73		Computer-Aided Manufacturing		2	0	30	選	◎限本系(含雙主修)修習	N	3163	劉承揚	二 6-8 和平 CAD/CAM	
+114	2	10	0	客家歌謠表演實務與多元詮釋 </br>[ 學分學程：客語學程 ]			0	0		L0U6021		半	2.0	文學院	L		Hakka Folk Songs Performance: Practice and Multiple Interpretations </br>[ Program: The Program of Hakka Language and Culture ]			0	50	選		N	3164	姜雲玉	四 3-4 和平 正406	
+114	2	10	0	競賽實務研究法			0	0		FPM0025		半	3.0	競技系（碩）	AM32		Research Method of Competition Practical			0	50	選	◎課程開放上修	N	3165	蔡於儒	四 5-7 公館 研003	
+114	2	3	0	臺灣地理研討	8		0	0		GEC0009		半	2.0	地理系（碩）	LM23		Studied in Geography of Taiwan			0	30	選	◎課程開放上修	N	3166	林聖欽	四 2-3 和平 地理系研討室六	
+114	2	10	0	資優教育名著選讀	8		0	0		SPC0041		半	2.0	特教系（碩）	EM09		Literature Reviews on Master Pieces of Gifted Education			0	50	選	◎課程開放上修	N	3167	李乙明	一 9-10 和平 特203	
