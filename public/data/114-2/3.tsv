@@ -5,17 +5,17 @@
 114	2	10	0	典藏及展示：博物館和其他藝術空間	9		0	0		ATC0325		半	3.0	美術系（學）	TU60		Collecting and Exhibiting: Museum and Other Art Spaces			2	50	選	◎限本系(含雙主修)修習	N	3003	林志峰	一 10-B 和平 美101	
 114	2	10	0	博物館學	9		0	0		ATC0353		半	3.0	美術系（學）	TU60		Museum Studies			0	50	選	◎限本系(含雙主修)修習	N	3004	蘇瑤華	四 2-4 和平 美101	
 114	2	10	0	保存科學攝影（一） </br>[ 學分學程：文物保存修復學程 ]	9		0	0		ATC9014		半	3.0	美術系（學）	TU60		Photography as a Tool in Conservation Science (I) </br>[ Program: The Program of Conservation of Cultural Relics ]			2	40	選	◎限本系(含雙主修)修習    ◎初選 文物保存修復學程 研究生得下修◎必須先修過【ATU0350  文物保存修復倫理原則與檢視登錄】	N	3005	張維敦	四 7-9 和平 美506	
-114	2	10	0	美術心理學（一） </br>[ 學分學程：藝教學程 ]		為課程連貫性，需同時選修美術心理學(二)	0	0		ATU0235		半	2.0	美術系（學）	TU60		Art Psychology (I) </br>[ Program: The Program of Art Education Therapy ]		1	2	50	必	◎限本系(含雙主修)修習	N	3006	趙惠玲	四 6-7 和平 美101	
-114	2	10	0	美術心理學（二） </br>[ 學分學程：藝教學程 ]		為課程連貫性，需同時選修美術心理學(一)	0	0		ATU0236		半	2.0	美術系（學）	TU60		Art Psychology (II) </br>[ Program: The Program of Art Education Therapy ]		1	2	50	必	◎限本系(含雙主修)修習	N	3007	趙惠玲	四 8-9 和平 美101	
-114	2	10	0	西方美術史（二）			0	0		ATU0306		半	2.0	美術系（學）	TU60		History of Western Art (II)		1	3	50	必	◎限本系(含雙主修)修習	N	3008	趙可卿	二 6-7 和平 美101	
-114	2	10	0	美學（二）			0	0		ATU0238		半	2.0	美術系（學）	TU60		Aesthetics (II)		2	1	50	必	◎限本系(含雙主修)修習	N	3009	魏竹君	五 6-7 和平 美101	
+114	2	10	-48	美術心理學（一） </br>[ 學分學程：藝教學程 ]		為課程連貫性，需同時選修美術心理學(二)	0	48		ATU0235		半	2.0	美術系（學）	TU60		Art Psychology (I) </br>[ Program: The Program of Art Education Therapy ]		1	2	50	必	◎限本系(含雙主修)修習	N	3006	趙惠玲	四 6-7 和平 美101	
+114	2	10	-48	美術心理學（二） </br>[ 學分學程：藝教學程 ]		為課程連貫性，需同時選修美術心理學(一)	0	48		ATU0236		半	2.0	美術系（學）	TU60		Art Psychology (II) </br>[ Program: The Program of Art Education Therapy ]		1	2	50	必	◎限本系(含雙主修)修習	N	3007	趙惠玲	四 8-9 和平 美101	
+114	2	10	-48	西方美術史（二）			0	48		ATU0306		半	2.0	美術系（學）	TU60		History of Western Art (II)		1	3	50	必	◎限本系(含雙主修)修習	N	3008	趙可卿	二 6-7 和平 美101	
+114	2	10	-46	美學（二）			0	46		ATU0238		半	2.0	美術系（學）	TU60		Aesthetics (II)		2	1	50	必	◎限本系(含雙主修)修習	N	3009	魏竹君	五 6-7 和平 美101	
 114	2	10	0	版畫（二）			0	0		ATU0308		半	2.0	美術系（學）	TU60		Printmaking (II)		2	1	30	選	◎限本系(含雙主修)修習	N	3010	楊紋瑜	五 3-4 和平 美201	
 114	2	10	0	公共藝術與環境設計			0	0		ATU0105		半	3.0	美術系（學）	TU60		Public Art and Environment Design		3	2	50	選	◎限本系(含雙主修)修習	N	3011	林正仁	五 2-4 和平 美101	
 114	2	10	0	陶藝（二）			0	0		ATU0253		半	3.0	美術系（學）	TU60		Ceramics (II)		3	0	30	選	◎限本系(含雙主修)修習◎必須先修過【ATU0231  陶藝（一）】	N	3012	唐瑄	三 8-10 和平 美B002陶藝	
 114	2	10	0	視覺藝術研究法與寫作			0	0		ATU0331		半	2.0	美術系（學）	TU60		Research Methods and Essay Writing Skills for Studies in Visual Arts		3	2	50	選	◎限本系(含雙主修)修習	N	3013	趙可卿	二 10-A 和平 美203	
 114	2	10	0	藝術產業倫理			0	0		ATU0342		半	2.0	美術系（學）	TU60		Ethics of Art Industry		3	0	50	選	◎限本系(含雙主修)修習	N	3014	蘇瑤華	三 6-7 和平 美405	
 114	2	0	0	藝術治療與自我探索 </br>[ 學分學程：藝教學程 ]			0	0		ATU0345		半	2.0	美術系（學）	TU60		Art Therapy and Self-Exploration </br>[ Program: The Program of Art Education Therapy ]		3	2	40	選	◎限本系(含雙主修)修習	N	3015	江學瀅	一 A-B 和平 美301	
-114	2	10	0	臺灣美術史			0	0		ATU1003		半	2.0	美術系（學）	TU60		History of Taiwan Art		3	3	50	必	◎限本系(含雙主修)修習	N	3016	白適銘	二 8-9 和平 美101	
+114	2	10	-41	臺灣美術史			0	41		ATU1003		半	2.0	美術系（學）	TU60		History of Taiwan Art		3	3	50	必	◎限本系(含雙主修)修習	N	3016	白適銘	二 8-9 和平 美101	
 114	2	10	0	美術教材教法（教）			0	0		ATUE001		半	2.0	美術系（學）	TU60		Teaching Materials and Methods: Fine Arts		3	0	50	選	◎限本系(含雙主修)修習    ◎限 二階生 教育學程生 不佔名額生 登記修習生 可修 ◎必須先修過(也可以同時修)【ATU0232  繪畫發展與心智成長】、【ATU0014  美術教育】其中一門	N	3017	江學瀅	一 6-7 和平 美301	
 114	2	10	0	現代版畫（二）			0	0		ATU0246		半	2.0	美術系（學）	TU60		Modern Printmaking (II)		4	1	30	選	◎限本系(含雙主修)修習	N	3018	楊紋瑜	五 6-7 和平 美201	
 114	2	10	0	東方繪畫材料技法與臨摹（二） </br>[ 學分學程：文物保存修復學程 ]			0	0		ATU0356		半	3.0	美術系（學）	TU60		Techniques and Materials-Asian Painting Conservation Basic (II) </br>[ Program: The Program of Conservation of Cultural Relics ]		4	2	30	選	◎限本系(含雙主修)修習    ◎初選 文物保存修復學程 研究生得下修	N	3019	潘怡伶	四 2-4 和平 美506	
@@ -54,13 +54,13 @@
 114	2	5	0	家具設計 </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0159		半	3.0	設計系（學）	TU68		Furniture Design </br>[ Program: Interdisciplinary Program For Interior Design Profession ]			1	35	選		N	3053	蘇瀚	五 8-10 和平 設計系2B教室	
 114	2	1	0	數位媒材整合設計（二） </br>[ 學分學程：元宇宙學程 ]			0	0		VDU0261		半	2.0	設計系（學）	TU68		Digital Media Integration Design (II) </br>[ Program: The Program of Metaverse Narrative ]			1	37	選	◎必須先修過【VDU0260  數位媒材整合設計（一）】	N	3054	黃心健	一 6-7 和平 教403	
 114	2	5	0	工場安全與衛生（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0266		半	2.0	設計系（學）	TU68		Workplace Safety and Hygiene (II)			0	35	選	◎必須先修過【VDU0265  工場安全與衛生（一）】	N	3055	蘇瀚	五 6-7 和平 設計系2B教室	
-114	2	5	0	服務設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:范日奎老師	0	0		VDU0268		半	3.0	設計系（學）	TU68		Service Design (II)			0	35	選		N	3056	未定	三 A-C 和平 綜913	
-114	2	5	0	3D數位自造與商品化入門		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:黃浩瑜老師	0	0		VDU0274		半	3.0	設計系（學）	TU68		3D Prototyping and Product Commercialization			0	35	選		N	3057	未定	三 6-8 和平 綜913	
-114	2	10	0	產品設計專案管理研究	9	授課教師:黃明仁副教授級專業技術人員	0	0		VDC9004		半	3.0	設計系（學）	TU68		Studies of Product Design Project Management			0	50	選		N	3058	未定	五 6-8 和平 綜914	
+114	2	5	0	服務設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:范日奎老師	0	0		VDU0268		半	3.0	設計系（學）	TU68		Service Design (II)			0	35	選		N	3056	范日奎	三 A-C 和平 綜913	
+114	2	5	0	3D數位自造與商品化入門		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:黃浩瑜老師	0	0		VDU0274		半	3.0	設計系（學）	TU68		3D Prototyping and Product Commercialization			0	35	選		N	3057	黃浩瑜	三 6-8 和平 綜913	
+114	2	10	0	產品設計專案管理研究	9	授課教師:黃明仁副教授級專業技術人員	0	0		VDC9004		半	3.0	設計系（學）	TU68		Studies of Product Design Project Management			0	50	選		N	3058	黃明仁	五 6-8 和平 綜914	
 114	2	5	0	商業空間設計（二）	9	台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDC9006		半	2.0	設計系（學）	TU68		Commercial Space Design (II)	是		0	35	選	◎必須先修過【VDC9005  商業空間設計（一）】	N	3059	長友大輔	二 9-10 和平 設計系3B教室	
 114	2	5	0	設計心理學	9	台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDC9008		半	2.0	設計系（學）	TU68		Design Psychology			0	35	選		N	3060	伊彬	一 4-5 和平 綜914	
 114	2	5	0	繪本設計創作研究	9		0	0		VDC9009		半	3.0	設計系（學）	TU68		Studies in Creation and Design on Picture Book			0	35	選		N	3061	伊彬	一 6-8 和平 綜914	
-114	2	10	0	設計史		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0008		半	2.0	設計系（學）	TU68		History of Design	是	1	0	50	必	◎必須先修過【VDU0004  設計概論】	N	3062	黃莉庭	一 3-4 和平 設計系2A教室	
+114	2	10	-38	設計史		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	38		VDU0008		半	2.0	設計系（學）	TU68		History of Design	是	1	0	50	必	◎必須先修過【VDU0004  設計概論】	N	3062	黃莉庭	一 3-4 和平 設計系2A教室	
 114	2	5	0	色彩計畫		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0012		半	2.0	設計系（學）	TU68		Color Planning		1	0	35	選	◎必須先修過【VDU0006  色彩學】	N	3063	施令紅	四 3-4 和平 綜914	
 114	2	5	0	基礎設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0071	A	半	3.0	設計系（學）	TU68		Basic Design (II)		1	0	35	必	◎必須先修過【VDU0070  基礎設計（一）】	N	3064	廖偉民	四 6-8 和平 設計系2A教室	
 114	2	5	0	基礎設計（二）			0	0		VDU0071	B	半	3.0	設計系（學）	TU68		Basic Design (II)		1	0	35	必	◎必須先修過【VDU0070  基礎設計（一）】	N	3065	蘇瀚	四 6-8 和平 設計系2B教室	
@@ -68,28 +68,28 @@
 114	2	5	0	設計素描（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0109	B	半	3.0	設計系（學）	TU68		Sketching (II)		1	0	35	必	◎必須先修過【VDU0108  設計素描（一）】	N	3067	許和捷	一 6-8 和平 設計系2A教室	
 114	2	5	0	數位繪畫與影像處理 </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0176		半	3.0	設計系（學）	TU68		Digital Painting and Image </br>[ Program: The Program of Digital Art and Technology ]		1	0	35	選	◎必須先修過【VDU0019  電腦繪圖】	N	3068	廖偉民	二 3-5 和平 綜914	
 114	2	10	0	基礎模型製作（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0264		半	2.0	設計系（學）	TU68		Basic Model Design (II)		1	0	35	選	◎必須先修過【VDU0263  基礎模型製作（一）】	N	3069	蘇瀚	三 6-7 和平 設計系2A教室	
-114	2	5	0	字體設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:林玠里老師	0	0		VDU0081		半	2.0	設計系（學）	TU68		Typography (II)		2	0	35	必	◎必須先修過【VDU0080  字體設計（一）】	N	3070	未定	三 6-7 和平 設計系2B教室	
-114	2	3	0	３Ｄ電腦動畫（二） </br>[ 學分學程：科技藝術學程 ]			0	0		VDU0175		半	3.0	設計系（學）	TU68		3 D Computer Animation Design (II) </br>[ Program: The Program of Digital Art and Technology ]		2	0	27	必	◎必須先修過【VDU0174  ３Ｄ電腦動畫（一）】	N	3071	周賢彬	一 6-8 和平 教404	
-114	2	5	0	商業攝影		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:陳漢元老師	0	0		VDU0178		半	2.0	設計系（學）	TU68		Commercial Photography		2	0	35	選	◎必須先修過【VDU0177  攝影】	N	3072	未定	六 3-4 和平 設計系2A教室	
-114	2	5	0	產品設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0193		半	3.0	設計系（學）	TU68		Product Design (II)		2	0	35	必	◎必須先修過【VDU0192  產品設計（一）】	N	3073	鄧建國	二 6-8 和平 設計系2B教室	
+114	2	5	-20	字體設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:林玠里老師	0	20		VDU0081		半	2.0	設計系（學）	TU68		Typography (II)		2	0	35	必	◎必須先修過【VDU0080  字體設計（一）】	N	3070	林玠里	三 6-7 和平 設計系2B教室	
+114	2	3	-20	３Ｄ電腦動畫（二） </br>[ 學分學程：科技藝術學程 ]			0	20		VDU0175		半	3.0	設計系（學）	TU68		3 D Computer Animation Design (II) </br>[ Program: The Program of Digital Art and Technology ]		2	0	27	必	◎必須先修過【VDU0174  ３Ｄ電腦動畫（一）】	N	3071	周賢彬	一 6-8 和平 教404	
+114	2	5	0	商業攝影		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課    授課教師:陳漢元老師	0	0		VDU0178		半	2.0	設計系（學）	TU68		Commercial Photography		2	0	35	選	◎必須先修過【VDU0177  攝影】	N	3072	陳漢元	六 3-4 和平 設計系2A教室	
+114	2	5	-17	產品設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	17		VDU0193		半	3.0	設計系（學）	TU68		Product Design (II)		2	0	35	必	◎必須先修過【VDU0192  產品設計（一）】	N	3073	鄧建國	二 6-8 和平 設計系2B教室	
 114	2	5	0	室內設計（二） </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0197		半	2.0	設計系（學）	TU68		Interior Design (II) </br>[ Program: Interdisciplinary Program For Interior Design Profession ]	是	2	0	35	選	◎必須先修過【VDU0196  室內設計（一）】	N	3074	長友大輔	二 3-4 和平 設計系2B教室	
-114	2	5	0	視覺傳達設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0201		半	3.0	設計系（學）	TU68		Visual Communication Design (II)		2	0	35	必	◎必須先修過【VDU0200  視覺傳達設計（一）】	N	3075	施令紅	四 6-8 和平 綜914	
-114	2	5	0	媒體設計（二） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:李文閣老師	0	0		VDU0207		半	2.0	設計系（學）	TU68		Media Design (II) </br>[ Program: The Program of Digital Art and Technology ]		2	0	35	必	◎必須先修過【VDU0206  媒體設計（一）】	N	3076	未定	二 3-4 和平 綜913	
-114	2	5	0	印刷設計與實務		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:李延祥老師	0	0		VDU0225		半	2.0	設計系（學）	TU68		Practical Printing Design		2	0	35	選		N	3077	未定	五 3-4 和平 綜913	
-114	2	5	0	表現技法（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:林玠里老師	0	0		VDU0247		半	2.0	設計系（學）	TU68		Sketching and Drawing Method (II)		2	0	35	選	◎必須先修過【VDU0246  表現技法（一）】	N	3078	未定	三 8-9 和平 設計系2B教室	
-114	2	5	0	產品表現技法（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:周育潤老師	0	0		VDU0249		半	3.0	設計系（學）	TU68		Product Design Presentation Techniques (II)		2	0	35	必	◎必須先修過【VDU0248  產品表現技法（一）】	N	3079	未定	五 2-4 和平 設計系2B教室	
-114	2	5	0	創新設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0254		半	3.0	設計系（學）	TU68		Innovation Design (II)		2	0	35	必	◎必須先修過【VDU0253  創新設計（一）】	N	3080	曾乙文	四 2-4 和平 設計系2B教室	
-114	2	5	0	住宅設計 </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:劉大章助理教授級專業技術人員	0	0		VDU0259		半	2.0	設計系（學）	TU68		Residential Design </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		2	0	35	選		N	3081	未定	二 1-2 和平 設計系2A教室	
+114	2	5	-20	視覺傳達設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	20		VDU0201		半	3.0	設計系（學）	TU68		Visual Communication Design (II)		2	0	35	必	◎必須先修過【VDU0200  視覺傳達設計（一）】	N	3075	施令紅	四 6-8 和平 綜914	
+114	2	5	-20	媒體設計（二） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:李文閣老師	0	20		VDU0207		半	2.0	設計系（學）	TU68		Media Design (II) </br>[ Program: The Program of Digital Art and Technology ]		2	0	35	必	◎必須先修過【VDU0206  媒體設計（一）】	N	3076	李文閣	二 3-4 和平 綜913	
+114	2	5	0	印刷設計與實務		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:李延祥老師	0	0		VDU0225		半	2.0	設計系（學）	TU68		Practical Printing Design		2	0	35	選		N	3077	李延祥	五 3-4 和平 綜913	
+114	2	5	0	表現技法（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:林玠里老師	0	0		VDU0247		半	2.0	設計系（學）	TU68		Sketching and Drawing Method (II)		2	0	35	選	◎必須先修過【VDU0246  表現技法（一）】	N	3078	林玠里	三 8-9 和平 設計系2B教室	
+114	2	5	-17	產品表現技法（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:周育潤老師	0	17		VDU0249		半	3.0	設計系（學）	TU68		Product Design Presentation Techniques (II)		2	0	35	必	◎必須先修過【VDU0248  產品表現技法（一）】	N	3079	周育潤	五 2-4 和平 設計系2B教室	
+114	2	5	-17	創新設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	17		VDU0254		半	3.0	設計系（學）	TU68		Innovation Design (II)		2	0	35	必	◎必須先修過【VDU0253  創新設計（一）】	N	3080	曾乙文	四 2-4 和平 設計系2B教室	
+114	2	5	0	住宅設計 </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:劉大章助理教授級專業技術人員	0	0		VDU0259		半	2.0	設計系（學）	TU68		Residential Design </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		2	0	35	選		N	3081	劉大章	二 1-2 和平 設計系2A教室	
 114	2	5	0	介面設計與使用者體驗（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0270		半	3.0	設計系（學）	TU68		UI/UX Design (II)		2	0	35	選	◎必須先修過【VDU0269  介面設計與使用者體驗（一）】	N	3082	黃莉庭	四 2-4 和平 綜913	
-114	2	5	0	包裝設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:陳秀真老師	0	0		VDU0091		半	2.0	設計系（學）	TU68		Package Design (II)		3	0	35	必	◎必須先修過【VDU0090  包裝設計（一）】	N	3083	未定	四 3-4 和平 設計系3B教室	
-114	2	5	0	廣告設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0105		半	2.0	設計系（學）	TU68		Advertising Design (II)	是	3	0	35	必	◎必須先修過【VDU0104  廣告設計（一）】	N	3084	黃莉庭	三 6-7 和平 設計系3B教室	
-114	2	5	0	視覺識別系統（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:陳銘福講師	0	0		VDU0138		半	2.0	設計系（學）	TU68		Visual Identity System (I)		3	0	35	選	◎必須先修過【VDU0137  視覺識別系統（一）】	N	3085	未定	四 6-7 和平 設計系3B教室	
-114	2	5	0	設計實務與估價 </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:劉大章助理教授級專業技術人員	0	0		VDU0171		半	2.0	設計系（學）	TU68		Design Practice and Pricing </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		3	0	35	選		N	3086	未定	二 3-4 和平 設計系2A教室	
-114	2	10	0	３Ｄ動畫創作（二） </br>[ 學分學程：元宇宙學程 科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:呂奇駿講師	0	0		VDU0182		半	2.0	設計系（學）	TU68		3d Animation (II) </br>[ Program: The Program of Metaverse Narrative The Program of Digital Art and Technology ]		3	0	35	選	◎必須先修過【VDU0181  ３Ｄ動畫創作（一）】	N	3087	未定	一 3-4 和平 設計系3B教室	
-114	2	5	0	動態平面設計（二） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:李文閣講師	0	0		VDU0188		半	3.0	設計系（學）	TU68		Motion Graphic Design (II) </br>[ Program: The Program of Digital Art and Technology ]		3	0	35	選	◎必須先修過【VDU0187  動態平面設計（一）】	N	3088	未定	二 6-8 和平 綜913	
-114	2	5	0	動畫角色設計		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:呂奇駿講師	0	0		VDU0229		半	2.0	設計系（學）	TU68		Animated Character Design		3	0	35	選		N	3089	未定	一 5-6 和平 設計系3B教室	
-114	2	5	0	進階產品設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	0		VDU0233		半	6.0	設計系（學）	TU68		Advanced Product Design (II)		3	0	35	必	◎必須先修過【VDU0232  進階產品設計（一）】	N	3090	梁桂嘉 王千睿	二 6-8 和平 設計系3B教室, 五 2-4 和平 綜914	
-114	2	5	0	產品設計實務		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:周育潤老師	0	0		VDU0243		半	3.0	設計系（學）	TU68		Product Design Practice		3	0	35	選		N	3091	未定	五 6-8 和平 設計系3B教室	
+114	2	5	-17	包裝設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:陳秀真老師	0	17		VDU0091		半	2.0	設計系（學）	TU68		Package Design (II)		3	0	35	必	◎必須先修過【VDU0090  包裝設計（一）】	N	3083	陳秀真	一 7-8 和平 設計系3B教室	
+114	2	5	-17	廣告設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	17		VDU0105		半	2.0	設計系（學）	TU68		Advertising Design (II)	是	3	0	35	必	◎必須先修過【VDU0104  廣告設計（一）】	N	3084	黃莉庭	三 6-7 和平 設計系3B教室	
+114	2	5	0	視覺識別系統（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:陳銘福講師	0	0		VDU0138		半	2.0	設計系（學）	TU68		Visual Identity System (I)		3	0	35	選	◎必須先修過【VDU0137  視覺識別系統（一）】	N	3085	陳銘福	四 6-7 和平 設計系3B教室	
+114	2	5	0	設計實務與估價 </br>[ 學分學程：室內設計學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:劉大章助理教授級專業技術人員	0	0		VDU0171		半	2.0	設計系（學）	TU68		Design Practice and Pricing </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		3	0	35	選		N	3086	劉大章	二 3-4 和平 設計系2A教室	
+114	2	10	0	３Ｄ動畫創作（二） </br>[ 學分學程：元宇宙學程 科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:呂奇駿講師	0	0		VDU0182		半	2.0	設計系（學）	TU68		3d Animation (II) </br>[ Program: The Program of Metaverse Narrative The Program of Digital Art and Technology ]		3	0	35	選	◎必須先修過【VDU0181  ３Ｄ動畫創作（一）】	N	3087	呂奇駿	一 3-4 和平 設計系3B教室	
+114	2	5	0	動態平面設計（二） </br>[ 學分學程：科技藝術學程 ]		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:李文閣講師	0	0		VDU0188		半	3.0	設計系（學）	TU68		Motion Graphic Design (II) </br>[ Program: The Program of Digital Art and Technology ]		3	0	35	選	◎必須先修過【VDU0187  動態平面設計（一）】	N	3088	李文閣	二 6-8 和平 綜913	
+114	2	5	0	動畫角色設計		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:呂奇駿講師	0	0		VDU0229		半	2.0	設計系（學）	TU68		Animated Character Design		3	0	35	選		N	3089	呂奇駿	一 5-6 和平 設計系3B教室	
+114	2	5	-14	進階產品設計（二）		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課	0	14		VDU0233		半	6.0	設計系（學）	TU68		Advanced Product Design (II)		3	0	35	必	◎必須先修過【VDU0232  進階產品設計（一）】	N	3090	梁桂嘉 王千睿	二 6-8 和平 設計系3B教室, 五 2-4 和平 綜914	
+114	2	5	0	產品設計實務		台大,台科大學生請於開學後第一次上課時跟老師拿取授權碼選課 授課教師:周育潤老師	0	0		VDU0243		半	3.0	設計系（學）	TU68		Product Design Practice		3	0	35	選		N	3091	周育潤	五 6-8 和平 設計系3B教室	
 114	2	5	0	畢業專題企劃			0	0		VDU0252		半	2.0	設計系（學）	TU68		Planning of Graduation		3	0	40	選		N	3092	蘇瀚 黃莉庭	三 9-10 和平 設計系3B教室	
 114	2	5	0	設計畢業製作（二）			0	0		VDU0180	A	半	3.0	設計系（學）	TU68		Graduate Work: Design (II)		4	0	35	必	◎必須先修過【VDU0179  設計畢業製作（一）】	N	3093	黃莉庭	四 8-10 和平 設計系3A教室	
 114	2	5	0	設計畢業製作（二）			0	0		VDU0180	B	半	3.0	設計系（學）	TU68		Graduate Work: Design (II)		4	0	35	必	◎必須先修過【VDU0179  設計畢業製作（一）】	N	3094	長友大輔	四 8-10 和平 設計系3C教室	
@@ -125,15 +125,15 @@
 114	2	0	0	社團領導培訓方案規劃與實施 </br>[ 學分學程：社團領導學程 ]			0	0		PGU8005		半	3.0	社團領導學程	ZU9Q		Planning and Implementing Leader Cultivation Program of Student Club </br>[ Program: The Program of Club Members Leadership And Empowerment Cultivation ]			0	50	選	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	3124	林昌平	六 7-9 和平 綜301	
 114	2	10	0	創業經營教戰手則 </br>[ 學分學程：科技化教學產業學程 大師創業學程 ]			0	0		PGU9004		半	2.0	大師創業學程	ZU9V		Guideline for Entrepreneurship and Management </br>[ Program: The Program of Technology-assisted Teaching Industry Program of Entrepreneurship ]			5	50	必		N	3125	韓宗憲	一 A-B 和平 誠102	
 114	2	10	0	誰是下個賈伯斯─大師創業發想與實踐（二） </br>[ 學分學程：科技化教學產業學程 大師創業學程 ]			0	0		PGU9005		半	2.0	大師創業學程	ZU9V		Who's the Next Steve Jobs? Planning and Practice of the Entrepreneurship (II) </br>[ Program: The Program of Technology-assisted Teaching Industry Program of Entrepreneurship ]			5	50	必		N	3126	余嘉淵	四 A-B 和平 誠302	
-114	2	3	0	體育（籃球中級）			0	0		00UP204		半	1.0	普通體育	PE		Physical Education (Intermediate Basketball)			0	30	必	允許重複修 ◎必須先修過【00UP104  體育（籃球初級）】、【00UP204  體育（籃球中級）】、【00UP904  體育校隊（籃球）】其中一門	N	3127	張容軒	四 8-9 和平 體育館一4F	
-114	2	5	0	體育（壘球初級）			0	0		00UP108		半	1.0	普通體育	PE		Physical Education (Beginning Softball)			0	50	必	允許重複修	N	3128	潘慈惠	一 1-2 和平 操場一	
+114	2	3	0	體育（籃球中級）			2	2		00UP204		半	1.0	普通體育	PE		Physical Education (Intermediate Basketball)			0	30	必	允許重複修 ◎必須先修過【00UP104  體育（籃球初級）】、【00UP204  體育（籃球中級）】、【00UP904  體育校隊（籃球）】其中一門	N	3127	張容軒	四 8-9 和平 體育館一4F	
+114	2	5	0	體育（壘球初級）			1	1		00UP108		半	1.0	普通體育	PE		Physical Education (Beginning Softball)			0	50	必	允許重複修	N	3128	潘慈惠	一 1-2 和平 操場一	
 114	2	3	0	海岸環境分析	8		0	0		GEC0072		半	2.0	地理系（碩）	LM23		Global Change and Coastal Environment	是		0	30	選	◎課程開放上修	N	3129	林宗儀	二 3-4 和平 地理系研討室六	
 114	2	10	0	全齡光學	9		0	0		OEC9117		半	3.0	光電學位學程（學）	HU77		Vision and Optics across the Lifespan			0	50	選		N	3131	楊承山	五 2-4 公館 Ｓ307	
 114	2	10	0	文化認同與民族主義	8		0	0		TCC1003		半	3.0	臺文系（碩）	LM26		Cultural Identity and Nationalism	是		3	50	選	◎課程開放上修	N	3132	天江喜久	五 2-4 和平 雲306會議室	
 114	2	10	0	技職教育評鑑研究			0	0		IEM0019		半	2.0	工教系（碩）	HM70		Evaluation in Vocational Technological Education			0	50	選	◎課程開放上修	N	3133	吳明振	一 7-8 和平 研討四	
 114	2	10	0	功能性訓練實務 </br>[ 學分學程：肌力與體能學程 ]	9		0	0		FPC9002		半	2.0	競技系（學）	AU32		Practicum of Functional Training </br>[ Program: The Program of Strength and Conditioning ]			0	50	選		N	3134	何仁育	二 3-4 公館 重量訓練室二	
 114	2	5	0	臺灣民俗與文化			0	0		CLU1051		半	3.0	華語系（學）	IU84	應用華語文學組	Taiwanese Folk and Culture		4	0	50	選	◎限本系(含雙主修)修習	N	3135	楊秉煌	二 2-4 和平 正204	
-114	2	10	0	全球產業分析			0	0		IAM0075		半	3.0	全營所（碩）	OM56		Global Industry Analysis			0	50	選	◎課程開放上修	N	3136	林舒柔	三 A-C 和平 誠108	
+114	2	20	0	全球產業分析			0	0		IAM0075		半	3.0	全營所（碩）	OM56		Global Industry Analysis			0	50	選	◎課程開放上修	N	3136	林舒柔	三 A-C 和平 誠301	
 114	2	10	0	倦怠專題研究	8	The classroom is located on the 2nd floor of Yunhe Building (Address: No. 1 Yunhe Street). Students from other departments and universities will need to request building access.	0	0		ENC1131		半	3.0	英語系（碩）	LM21		Special Topics on Exhaustion	是		1	50	選	◎課程不開放上修	N	3137	黃涵榆	二 2-4 和平 雲201	
 114	2	0	0	機率與統計 </br>[ 學分學程：人工探索學程 ]		◎數位課程 TAICA臺灣大學課程；學制：大	0	0		TAU0001		半	3.0	AI聯盟	AIA		Probability and Statistics </br>[ Program: Applied Artificial Intelligence Exploration Program ]			0	100	選		1	3138	葉丙成	◎面授/同步	
 114	2	0	0	人工智慧倫理 </br>[ 學分學程：運動科技學程 AI電腦視覺 AI自然語言 人工工業學程 人工探索學程 ]		◎數位課程 TAICA東海大學課程；學制：大	0	0		TAU0002		半	3.0	AI聯盟	AIA		AI Ethics </br>[ Program: The Program of Sports Technology Artificial Intelligence for Computer Vision and Imaging Technology Program Artificial Intelligence for Natural Language Technology Program Artificial Intelligence in Industrial Applications Program Applied Artificial Intelligence Exploration Program ]			0	50	選		1	3139	甘偵蓉	二 8-10 校外 教室自排	
@@ -145,14 +145,14 @@
 114	2	0	0	機器導航與探索 </br>[ 學分學程：AI電腦視覺 人工工業學程 人工探索學程 ]	9	◎數位課程 TAICA清華大學課程；學制：大碩	0	0		TAC9004		半	3.0	AI聯盟	AIA		Robotic Navigation and Exploration </br>[ Program: Artificial Intelligence for Computer Vision and Imaging Technology Program Artificial Intelligence in Industrial Applications Program Applied Artificial Intelligence Exploration Program ]			0	100	選		1	3145	胡敏君	一 A-C 校外 教室自排	
 114	2	10	0	體育師資培育專題研究			0	0		PED0077		半	3.0	體育系（博）	AD30		Special Topics on Teacher Education- Physical Education			0	50	選	◎課程開放上修	N	3146	施登堯	四 7-9 和平 體育館一2樓會議室	
 114	2	10	0	管理與電影			0	0		03UG029		半	2.0	通識	GU		Management and Movies			5	50	通		N	3147	田正利	四 6-7 和平 綜509國際會議廳	A2UG
-114	2	10	0	親職教育			0	0		HGU0023		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Parent Education		3	0	50	必	◎限本系(含雙主修)、輔系修習◎必須先修過【HGU0004  人類發展】、【HGU0191  家庭發展】	N	3148	吳志文	四 6-8 和平 正301	
+114	2	10	-30	親職教育			0	30		HGU0023		半	3.0	幼家科學系（學）	EU06	家庭生活教育組	Parent Education		3	0	50	必	◎限本系(含雙主修)、輔系修習◎必須先修過【HGU0004  人類發展】、【HGU0191  家庭發展】	N	3148	吳志文	四 6-8 和平 正301	
 114	2	10	0	天然漆繪	9		0	0		ATC3043		半	3.0	美術系（學）	TU60	西畫組	Lacquer Painting			2	30	選		N	3149	陳淑華	四 10-B 和平 美502	
 114	2	10	0	生技醫藥產業創業風險管理與節稅規劃			0	0		BPM0015		半	2.0	生醫學位學程（碩）	SM52		Management of Entrepreneurial Risk and Tax Planning in Biotechnology Industry			10	50	選	◎課程不開放上修	N	3150	劉福運	一 9-10 公館 Ｓ202	
-114	2	4	0	體育（肌力與體能訓練初級）			0	0		00UP040	C	半	1.0	普通體育	PE		Physical Education (Beginning Strength and Conditioning)	是		0	40	必	允許重複修	N	3151	陳著	五 3-4 和平 重量訓練室一	
-114	2	5	0	空間構成 </br>[ 學分學程：室內設計學程 ]		授課教師：王菱檥講師級專業技術人員	0	0		VDU0250		半	2.0	設計系（學）	TU68		Form of Space </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		2	0	35	選		N	3152	未定	二 9-10 和平 設計系2B教室	
+114	2	4	0	體育（肌力與體能訓練初級）			0	0		00UP040	C	半	1.0	普通體育	PE		Physical Education (Beginning Strength and Conditioning)			0	40	必	允許重複修	N	3151	陳著	五 3-4 和平 重量訓練室一	
+114	2	5	0	空間構成 </br>[ 學分學程：室內設計學程 ]		授課教師：王菱檥講師級專業技術人員	0	0		VDU0250		半	2.0	設計系（學）	TU68		Form of Space </br>[ Program: Interdisciplinary Program For Interior Design Profession ]		2	0	35	選		N	3152	王菱檥	二 9-10 和平 設計系2B教室	
 114	2	10	0	游泳（二）			0	0		FPU0154	F	半	2.0	競技系（學）	AU32		Swimming (II)	是		0	50	選	◎必須先修過【FPU0240  游泳（一）】	N	3153	利安琪	一 3-4 和平 游泳館1F大泳池	
-114	2	10	0	游泳（二）			0	0		FPU0154	M	半	2.0	競技系（學）	AU32		Swimming (II)	是		0	50	選	◎必須先修過【FPU0240  游泳（一）】	N	3154	利安琪	一 1-2 和平 重量訓練室一	
-114	2	10	0	熱力學（一）			0	0		IEU3144		半	3.0	工教系（學）	HU70		Thermo-Dynamics (I)	是	2	0	50	必		N	3155	陳韋任	四 6-8 和平 研討六	
+114	2	10	0	游泳（二）			0	0		FPU0154	M	半	2.0	競技系（學）	AU32		Swimming (II)	是		0	50	選	◎必須先修過【FPU0240  游泳（一）】	N	3154	利安琪	一 1-2 和平 游泳館1F大泳池	
+114	2	10	-30	熱力學（一）			0	30		IEU3144		半	3.0	工教系（學）	HU70		Thermo-Dynamics (I)	是	2	0	50	必		N	3155	陳韋任	四 6-8 和平 研討六	
 114	2	10	0	當代華人文學教學設計			0	0		CLM0084		半	3.0	華語系（碩）	IM84		Instruction Design for Teaching Contemporary Chinese Literature			0	50	選	◎課程不開放上修	N	3156	杜昭玫	三 2-4 和平 博1002	
 114	2	10	0	電分析化學（二）	8		0	0		CMC0072		半	3.0	化學系（碩）	SM42		Analytical Electrochemistry (II)			0	40	選	◎課程開放上修	N	3157	李君婷	四 7-9 公館 Ｓ402	
 114	2	10	0	數學產業實習	9	須於1月底參與實習課程線上說明會，並提交履歷，始具選課資格。	0	0		MAC9042		半	2.0	數學系（學）	SU40		Industrial Practice			5	50	選		N	3158	林俊吉	一 0 公館 數學館M210, 一 5 公館 數學館M210, 五 0 公館 數學館M210, 五 5 公館 數學館M210	
@@ -165,3 +165,93 @@
 114	2	10	0	競賽實務研究法			0	0		FPM0025		半	3.0	競技系（碩）	AM32		Research Method of Competition Practical			0	50	選	◎課程開放上修	N	3165	蔡於儒	四 5-7 公館 研003	
 114	2	3	0	臺灣地理研討	8		0	0		GEC0009		半	2.0	地理系（碩）	LM23		Studied in Geography of Taiwan			0	30	選	◎課程開放上修	N	3166	林聖欽	四 2-3 和平 地理系研討室六	
 114	2	10	0	資優教育名著選讀	8		0	0		SPC0041		半	2.0	特教系（碩）	EM09		Literature Reviews on Master Pieces of Gifted Education			0	50	選	◎課程開放上修	N	3167	李乙明	一 9-10 和平 特203	
+114	2	0	0	小故事，大世界		寫作教學中心 ; 大學以上可選修，教室博雅301，78節統一上課、第6節實作。第一週請務必出席。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG029	A	半	3	校際臺大（學）	9UAA		Storytelling and Communication for Social Change and Leadership				3	通			3168	李維晏、張晨、胡至柔	三 6 博雅教學館301, 三 7-8	A1UG
+114	2	0	0	小故事，大世界		寫作教學中心 ; 大學以上可選修，教室博雅301，78節統一上課、第9節實作。第一週請務必出席。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG029	B	半	3	校際臺大（學）	9UAA		Storytelling and Communication for Social Change and Leadership				3	通			3169	李維晏、張晨、胡至柔	三 7 博雅教學館301, 三 8-9	A1UG
+114	2	0	0	中國傳統法律、文化與社會		歷史學系 ; 初選已選上者，前二週務必出席，否則逕予退選。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG024	A	半	3	校際臺大（學）	9UAA		Law,culture,society in Traditional China				4	通			3170	陳俊強	四 7 博雅教學館102, 四 8-9	A1UG
+114	2	0	0	全球通識講座-決策者的危機處理機制		共同教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG050	A	半	2	校際臺大（學）	9UAA		Decision-Making for Crisis Management				40	通			3171	徐斯勤	四 3 博雅教學館103, 四 4	A2UG
+114	2	0	0	自我行銷有一套：實用中文寫作		寫作教學中心 ; 大學部以上可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG055	A	半	3	校際臺大（學）	9UAA		Self-Promotion Art: Practical Chinese Writing				3	通			3172	蘇虹菱	三 7 共同教學館402, 三 8-9	A1UG
+114	2	0	0	南亞社會與樂舞表演		共同教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG061	A	半	3	校際臺大（學）	9UAA		South Asian Musical Performance and Society	是			2	通			3173	黃佩玲	一 7 綜合教學館402, 一 8-9	A1UG
+114	2	0	0	科技英文寫作與表達		寫作教學中心 ; 大學部以上可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG056	A	半	3	校際臺大（學）	9UAA		English Technical Writing and Communication				3	通			3174	陳翊齊	二 6 共同教學館406, 二 7-8	A1UG
+114	2	0	0	科學的歷史進展對宗教信仰與形上學的影響		寫作教學中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG111	A	半	3	校際臺大（學）	9UAA		The Impact of Historical Development of Sciences on Religions and Metaphysics				5	通			3175	梁明義	四 8 博雅教學館202, 四 9-10	A2UG
+114	2	0	0	科學說人話：科普寫作		寫作教學中心 ; 大學部以上可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG035	A	半	3	校際臺大（學）	9UAA		Popular Science Writing				3	通			3176	蘇虹菱	二 3 共同教學館401, 二 4-5	A1UG
+114	2	0	0	英文即席演講溝通術		寫作教學中心 ; 大學部以上皆可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG057	A	半	2	校際臺大（學）	9UAA		Mastering Impromptu Speeches	是			3	通			3177	胡至柔	一 3 新生教學館401, 一 4	A1UG
+114	2	0	0	英文段落寫作		寫作教學中心 ; 大學部以上可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG051	A	半	2	校際臺大（學）	9UAA		Writing for Academic Success (2)				3	通			3178	陳翊齊	四 6 普通教學館401, 四 7	A1UG
+114	2	0	0	英文專題寫作		寫作教學中心 ; 大學部以上皆可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG052	A	半	3	校際臺大（學）	9UAA		Writing for Academic Success (3)	是			3	通			3179	葉芳萍	四 6 普通教學館505, 四 7-8	A1UG
+114	2	0	0	英文專題寫作		寫作教學中心 ; 大學部以上可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG052	B	半	3	校際臺大（學）	9UAA		Writing for Academic Success (3)				3	通			3180	熊宜君	三 2 共同教學館401, 三 3-4	A1UG
+114	2	0	0	英語演說與溝通技巧		寫作教學中心 ; 大學以上可選修，教室博雅302，34節統一上課、第2節實作。第一週請務必出席。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG030	A	半	3	校際臺大（學）	9UAA		Introduction to English Presentations	是			3	通			3181	柯凱?	一 2 博雅教學館302, 一 3-4	A1UG
+114	2	0	0	英語演說與溝通技巧		寫作教學中心 ; 大學以上可選修，教室博雅302，34節統一上課、第2節實作。第一週請務必出席。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG030	B	半	3	校際臺大（學）	9UAA		Introduction to English Presentations	是			3	通			3182	柯凱?	一 3 博雅教學館302, 一 4-5	A1UG
+114	2	0	0	框架外的思考:五分鐘英文講台		森林環境暨資源學系 ; 大學以上可選修，教室博雅301，34節統一上課、第2節實作。第一週請務必出席。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG025	A	半	3	校際臺大（學）	9UAA		Exploratory Writers on a 5-Minute Stage				3	通			3183	李維晏、胡至柔	三 2 博雅教學館301, 三 3-4	A1UG
+114	2	0	0	框架外的思考:五分鐘英文講台		森林環境暨資源學系 ; 大學以上可選修，教室博雅301，34節統一上課、第5節實作。第一週請務必出席。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG025	B	半	3	校際臺大（學）	9UAA		Exploratory Writers on a 5-Minute Stage				3	通			3184	李維晏、胡至柔	三 3 博雅教學館301, 三 4-5	A1UG
+114	2	0	0	海峽兩岸關係史二		森林環境暨資源學系 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG037	A	半	2	校際臺大（學）	9UAA		History of Cross-strait Relations (II)				5	通			3185	李君山	二 6 博雅教學館202, 二 7	A1UG
+114	2	0	0	海峽兩岸關係史二		森林環境暨資源學系 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG037	B	半	2	校際臺大（學）	9UAA		History of Cross-strait Relations (II)				5	通			3186	李君山	五 3 博雅教學館202, 五 4	A1UG
+114	2	0	0	探索臺灣：女性與臺灣社會		國發所 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG039	A	半	2	校際臺大（學）	9UAA		Exploring Taiwan: Women and Taiwanese Society	是			3	通			3187	郭任?	一 3 博雅教學館202, 一 4	A2UG
+114	2	0	0	探索臺灣：自然資源保育與經營管理		共同教育中心 ;   ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	0	0		86UG040	A	半	2	校際臺大（學）	9UAA		Exploring Taiwan：Natural Resources Conservation and Management	是			10	通			3188	劉奇璋	四 6 博雅教學館202, 四 7	A3UG
+114	2	0	0	探索臺灣：自然環境與資源		共同教育中心 ;   ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	0	0		86UG055	A	半	2	校際臺大（學）	9UAA		Exploring TaiwanG natural environment and resources	是			3	通			3189	袁孝維	三 8 新生教學館203, 三 9	A3UG
+114	2	0	0	探索臺灣：聆聽臺灣的樂動		共同教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG093	A	半	3	校際臺大（學）	9UAA		Exploring Taiwan: Musicking and Listening in Taiwan	是			2	通			3190	黃佩玲	三 7 綜合教學館503, 三 8-9	A2UG
+114	2	0	0	探索臺灣：臺灣電影與臺灣社會		共同教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG097	A	半	2	校際臺大（學）	9UAA		Exploring Taiwan: Film and Social Culture in Taiwan	是			3	通			3191	郭任?	二 3 博雅教學館103, 二 4	A2UG
+114	2	0	0	深造預備英文寫作		寫作教學中心 ; 大學以上可選修，教室博雅301，34節統一上課、第2節實作。第一週請務必出席。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG027	A	半	3	校際臺大（學）	9UAA		English Writing for Academic Pursuit				3	通			3192	胡至柔	四 2 博雅教學館301, 四 3-4	A1UG
+114	2	0	0	深造預備英文寫作		寫作教學中心 ; 大學以上可選修，教室博雅301，34節統一上課、第5節實作。第一週請務必出席。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG027	B	半	3	校際臺大（學）	9UAA		English Writing for Academic Pursuit				3	通			3193	胡至柔	四 3 博雅教學館301, 四 4-5	A1UG
+114	2	0	0	創意與寫作表達		寫作教學中心 ; 大學部以上可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG033	A	半	3	校際臺大（學）	9UAA		Writing as Creative Communication				3	通			3194	蘇虹菱	一 3 共同教學館404, 一 4-5	A1UG
+114	2	0	0	提筆表達你的觀點：批判寫作		寫作教學中心 ; 大學部以上可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG031	A	半	3	校際臺大（學）	9UAA		Writing with a Point of View				3	通			3195	趙雄健	四 2 共同教學館405, 四 3-4	A1UG
+114	2	0	0	森林生物多樣性概論		歷史學系 ; 詳課程大綱。115年5月1日至5日為校外教學日，此時間若與其他課程衝堂，請勿選課 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	0	0		86UG037	A	半	3	校際臺大（學）	9UAA		Introduction to Forest Biodiversity				4	通			3196	丁宗蘇	六 2-4 , 六 6-9	A3UG
+114	2	0	0	森林生物多樣性概論		歷史學系 ; 詳課程大綱。115年5月1日至5日為校外教學日，此時間若與其他課程衝堂，請勿選課 ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	0	0		86UG037	B	半	3	校際臺大（學）	9UAA		Introduction to Forest Biodiversity				4	通			3197	丁宗蘇	六 2-4 , 六 6-9	A3UG
+114	2	0	0	新媒體AI應用英文寫作		寫作教學中心 ; 大學部以上皆可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG058	A	半	2	校際臺大（學）	9UAA		English Writing for the Media and the Web in the Age of AI	是			3	通			3198	歐墨然	二 3 共同教學館308, 二 4	A1UG
+114	2	0	0	經濟貨幣整合：歐盟理論與實證		寫作教學中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG112	A	半	3	校際臺大（學）	9UAA		Economic and Monetary Integration：Theory and Empirics of the EU				5	通			3199	葉國俊	四 5 博雅教學館103, 四 6-7	A2UG
+114	2	0	0	臺灣歷史與人物		歷史學系 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG012	A	半	2	校際臺大（學）	9UAA		Taiwanese History and Person				10	通			3200	歐素瑛	三 8 博雅教學館201, 三 9	A1UG
+114	2	0	0	戰後台灣史		生命科學系 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG043	A	半	2	校際臺大（學）	9UAA		The Postwar History of Taiwan				10	通			3201	歐素瑛	三 6 博雅教學館201, 三 7	A1UG
+114	2	0	0	職場交涉藝術		大學部以上皆可選修。 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG095	A	半	2	校際臺大（學）	9UAA		The Art of Negotiation	是			3	通			3202	胡至柔	二 3 新生教學館504, 二 4	A2UG
+114	2	0	0	職場英文寫作與口語表達		寫作教學中心 ; 大二以上可選修，教室博雅302，67節統一上課、第5節實作。第一週請務必出席。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG026	A	半	3	校際臺大（學）	9UAA		English Written and Oral Communication for Professional Pursuit				3	通			3203	陳巧玲	四 5 博雅教學館302, 四 6-7	A1UG
+114	2	0	0	職場英文寫作與口語表達		寫作教學中心 ; 大二以上可選修，教室博雅302，67節統一上課、第8節實作。第一週未到視同放棄選課。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG026	B	半	3	校際臺大（學）	9UAA		English Written and Oral Communication for Professional Pursuit				3	通			3204	陳巧玲	四 6 博雅教學館302, 四 7-8	A1UG
+114	2	0	0	職場倫理與職場精神		政治學系 ; 選上本課程者第一週務必出席。 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：哲學思維與道德推理；97-105入學：哲學思維與道德推理	0	0		82UG010	A	半	3	校際臺大（學）	9UAA		Occupational Ethics and Workplace Spirituality				6	通			3205	洪英正	一 7 博雅教學館301, 一 8-9	A2UG
+114	2	0	0	讀中生智：字裡行間的永續未來		大學部以上皆可選修。 ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG096	A	半	2	校際臺大（學）	9UAA		Reading to Connect : A Sustainable Future Between the Lines	是			3	通			3206	胡至柔	二 6 普通教學館204, 二 7	A2UG
+114	2	0	0	讀中生智（三）：時事思辯		寫作教學中心 ; 大學部以上皆可選修。 ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：語言與文學；97-105入學：一般通識(人文學)	0	0		8HUG049	A	半	2	校際臺大（學）	9UAA		Reading to Connect (3) : Making Impacts	是			3	通			3207	柯凱?	三 6 共同教學館307, 三 7	A1UG
+114	2	0	0	STREAM導論		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG057	A	半	3	校際臺科大（學）	9UAB		An Introduction to STREAM				2	通			3208	黃信洋、洪秀錦、許碩驛	三 6 未定, 三 7-8	A1UG
+114	2	0	0	USR永續發展導論		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG110	A	半	3	校際臺科大（學）	9UAB		Introduction to USR Sustainable Development				2	通			3209	王瑩	二 8 未定, 二 9-10	A2UG
+114	2	0	0	大數據與程式設計導論		通識教育中心 ; 同學需自備筆記型電腦 ;  師大認抵領域：109起入學：邏輯運算領域；106-108入學：數學與邏輯思維；97-105入學：數學與科學思維	0	0		85UG011	A	半	2	校際臺科大（學）	9UAB		Introduction of Big Data and Programming				2	通			3210	李啟龍	一 9 未定, 一 10	A4UG
+114	2	0	0	中醫學概論		通識教育中心 ;   ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	0	0		86UG052	A	半	2	校際臺科大（學）	9UAB		Introduction of Traditional Chinese Medicine	是			2	通			3211	彭溫雅	三 1 未定, 三 2	A3UG
+114	2	0	0	元宇宙中的訪談與助人實作		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG109	A	半	2	校際臺科大（學）	9UAB		Metaverse-based Interviewing and Helping Techniques				2	通			3212	葉北辰	一 3 未定, 一 4	A2UG
+114	2	0	0	文化遺產與永續發展		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG087	A	半	2	校際臺科大（學）	9UAB		Culture Heritage and Sustainable Development				2	通			3213	林宜珍	二 3 未定, 二 4	A2UG
+114	2	0	0	文化遺產與永續發展		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG087	B	半	2	校際臺科大（學）	9UAB		Culture Heritage and Sustainable Development				2	通			3214	林宜珍	三 3 未定, 三 4	A2UG
+114	2	0	0	台灣古蹟建築入門		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG053	A	半	2	校際臺科大（學）	9UAB		An Introduction to Taiwan's Historic Architecture				2	通			3215	陳薏如	五 3 未定, 五 4	A1UG
+114	2	0	0	台灣古蹟建築入門		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG053	B	半	2	校際臺科大（學）	9UAB		An Introduction to Taiwan's Historic Architecture				2	通			3216	陳薏如	五 8 未定, 五 9	A1UG
+114	2	0	0	年代美甲社會價值暨文化探討		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG052	A	半	2	校際臺科大（學）	9UAB		Discussion on the Social Value and Culture of Nail Art in the Era				2	通			3217	高瑞雲	五 3 未定, 五 4	A1UG
+114	2	0	0	技術與社會：從理論框架到永續實踐		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG106	A	半	2	校際臺科大（學）	9UAB		Technology and Society: From Theoretical Frameworks to Sustainable Practices	是			2	通			3218	洪秀錦	四 6 未定, 四 7	A2UG
+114	2	0	0	技術與社會：從理論框架到永續實踐		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG106	B	半	2	校際臺科大（學）	9UAB		Technology and Society: From Theoretical Frameworks to Sustainable Practices				2	通			3219	洪秀錦	四 9 未定, 四 10	A2UG
+114	2	0	0	社會學與人生		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG082	A	半	2	校際臺科大（學）	9UAB		Sociology and Life				2	通			3220	黃信洋	二 9 未定, 二 10	A2UG
+114	2	0	0	城南小旅行		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG085	A	半	2	校際臺科大（學）	9UAB		Cultural Trips Within Taipei City's South Side				2	通			3221	黃信洋	四 6 未定, 四 7	A2UG
+114	2	0	0	原住民美學及藝術策展實踐		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG082	A	半	2	校際臺科大（學）	9UAB		Indigenous Aesthetics and Art Curating Practice				2	通			3222	曾瓊慧	一 9 未定, 一 10	A1UG
+114	2	0	0	原住民族文化資產與藝術實踐		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG084	A	半	2	校際臺科大（學）	9UAB		Indigenous Cultural Heritage and Artistic Practices				2	通			3223	簡志霖	二 9 未定, 二 10	A1UG
+114	2	0	0	時事漫談智慧財產與科技法		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG055	A	半	2	校際臺科大（學）	9UAB		Law of Intellectual Property and Technology- Current Topics	是			5	通			3224	Richard Aron Osman	二 6 未定, 二 7	A2UG
+114	2	0	0	配色的基礎與實踐		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG058	A	半	2	校際臺科大（學）	9UAB		Principals and Practical Applications of Color Scheme				2	通			3225	陳鴻興	四 9 未定, 四 10	A1UG
+114	2	0	0	聊天機器人與文化主題探索		通識教育中心 ;   ;  師大認抵領域：109起入學：自然科學領域；106-108入學：數學與邏輯思維；97-105入學：數學與科學思維	0	0		85UG017	A	半	2	校際臺科大（學）	9UAB		Chatbots and Cultural Theme Exploration	是			2	通			3226	陳錦瑜	二 9 未定, 二 10	A3UG
+114	2	0	0	創意療癒水彩與彩繪城南文化		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG086	A	半	2	校際臺科大（學）	9UAB		Creative Healing Watercolor and Painting Chengnan Culture				2	通			3227	鄒家鈺	二 3 未定, 二 4	A1UG
+114	2	0	0	創意療癒水彩與彩繪城南文化		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG086	B	半	2	校際臺科大（學）	9UAB		Creative Healing Watercolor and Painting Chengnan Culture				2	通			3228	鄒家鈺	三 3 未定, 三 4	A1UG
+114	2	0	0	創新與創業		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG092	A	半	2	校際臺科大（學）	9UAB		Innovation and Entrepreneurship				2	通			3229	隋風銘	二 6 未定, 二 7	A2UG
+114	2	0	0	創新與創業		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG092	B	半	2	校際臺科大（學）	9UAB		Innovation and Entrepreneurship				2	通			3230	隋風銘	二 8 未定, 二 9	A2UG
+114	2	0	0	博物館與城市文化		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：歷史與文化、公民素養與社會探究；97-105入學：一般通識(社會科學)	0	0		8SUG041	A	半	2	校際臺科大（學）	9UAB		Museums and Urban Culture				2	通			3231	林宜珍	四 3 未定, 四 4	A2UG
+114	2	0	0	資訊素養與媒體識讀		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG075	A	半	2	校際臺科大（學）	9UAB		Information and Media Literacy	是			2	通			3232	洪秀錦	三 3-4	A2UG
+114	2	0	0	資訊素養與媒體識讀		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG075	B	半	2	校際臺科大（學）	9UAB		Information and Media Literacy				2	通			3233	洪秀錦	三 9-10	A2UG
+114	2	0	0	電影與精神疾病		通識教育中心 ;   ;  師大認抵領域：109起入學：自然科學領域；106-108入學：科學與生命；97-105入學：科學與生命	0	0		85UG023	A	半	2	校際臺科大（學）	9UAB		Movies and Mental Illness	是			2	通			3234	徐昀	四 6 未定, 四 7	A3UG
+114	2	0	0	慢城南的漫書寫		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：歷史與文化；97-105入學：歷史與文化	0	0		84UG051	A	半	2	校際臺科大（學）	9UAB		Writing Therapy Applied in the South Side of Taipei				2	通			3235	許碩驛	四 9 未定, 四 10	A1UG
+114	2	0	0	親密關係暴力事件案例探討		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG104	A	半	2	校際臺科大（學）	9UAB		Case Study on Intimate Relationship Violence				2	通			3236	林麗燕	二 1 未定, 二 2	A2UG
+114	2	0	0	親密關係暴力事件案例探討		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG104	B	半	2	校際臺科大（學）	9UAB		Case Study on Intimate Relationship Violence				2	通			3237	林麗燕	一 6 未定, 一 7	A2UG
+114	2	0	0	職場倫理		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG107	A	半	2	校際臺科大（學）	9UAB		Workplace Ethics				2	通			3238	隋風銘	五 1 未定, 五 2	A2UG
+114	2	0	0	職場倫理		通識教育中心 ;   ;  師大認抵領域：109起入學：社會科學領域；106-108入學：公民素養與社會探究；97-105入學：公民素養與社會探究	0	0		83UG107	B	半	2	校際臺科大（學）	9UAB		Workplace Ethics				2	通			3239	隋風銘	五 3 未定, 五 4	A2UG
+114	2	0	0	舊城南裡究電影		通識教育中心 ;   ;  師大認抵領域：109起入學：人文藝術領域；106-108入學：藝術與美感；97-105入學：藝術與美感	0	0		81UG079	A	半	2	校際臺科大（學）	9UAB		Exploring Cinema Therapy Through Southern Taipei Films				2	通			3240	許碩驛	三 9 未定, 三 10	A1UG
+114	2	10	0	分析專題研究	8		0	0		MAC8009		半	3.0	數學系（碩）	SM40		Special Topics in Analysis	是		5	50	選	◎課程開放上修	N	3241	司靈得	三 2-4 公館 數學館M210	
+114	2	10	0	幼兒遊戲			0	0		HGU0398		半	3.0	幼家科學系（學）	EU06	幼兒發展與教育組	Play in Early Childhood	是		0	50	選	◎限本系(含雙主修)修習◎必須先修過【HGU0004  人類發展】	N	3242	洪宜芳	四 6-8 和平 誠205	
+114	2	10	0	社會科學研究導論			0	0		GBU0034		半	3.0	全球研究學位學程（學）	IUH0		Introduction to Social Science Studies	是		3	50	必		N	3243	姚仕帆	一 6-8 和平 教202會議廳	
+114	2	10	0	全球研究方法			0	0		GBU0036		半	3.0	全球研究學位學程（學）	IUH0		Research Methods for Global Studies	是		3	50	選		N	3244	姚仕帆	三 6-8 公館 Ｃ003	
+114	2	10	0	演奏（唱）曲目詮釋與探討（古典時期之前）			0	0		MUD0012		半	2.0	音樂系（博）	MD90		Seminar in Instrumental (Vocal) Literature (before Classic Period)			0	50	必	◎課程開放上修	N	3245	陳沁紅	一 A-B 和平 樂研五	
+114	2	10	0	鋼琴（一）			0	0		MUU0566	I	半	1.0	音樂系（學）	MU90		Piano(I)			0	50	必	◎限本系(含雙主修)、輔系修習	N	3246	嚴俊傑		
+114	2	10	0	國際政治經濟學概論			0	0		GBU0014		半	3.0	全球研究學位學程（學）	IUH0		Introduction to International Political Economics	是	2	3	50	選		N	3247	姚仕帆	二 2-4 公館 Ｃ003	
+114	2	10	0	批判理論與教育			0	0		EDD0012		半	3.0	教育系（博）	ED00		Critical Theory & Education			0	50	選	◎課程開放上修	N	3248	方永泉 洪仁進 張鍠焜	五 6-8 和平 教803	
+114	2	10	0	專題與實習（三）			0	0		OEU0020		半	1.0	光電學位學程（學）	HU77		Independent Study and Practice (III)	是		0	50	選		N	3249	梁伯維 駱安亞 邱南福 張菁文	五 0 公館 應科大樓B1多功能教室	
+114	2	3	0	教學原理（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			0	0		00UE005	C	半	2.0	師培學院	EU		Principles of Instruction </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 可修	N	3250	吳柏菱	二 8-9 和平 樸204	
+114	2	3	0	教學原理（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			0	0		00UE005	D	半	2.0	師培學院	EU		Principles of Instruction </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	45	選	◎限 一階生 二階生 教育學程生 不佔名額生 登記修習生 資優教育學程生 可修	N	3251	吳柏菱	四 3-4 和平 誠106	
+114	2	3	0	跨領域教學設計（小教）			0	0		00UE536		半	2.0	師培學院	EU		Interdisciplinary Instructional Design			0	33	選	◎限 國小教育學程生 國小不佔名額生 可修	N	3252	吳柏菱	五 6-7 和平 美術館501	
+114	2	3	0	自然科學領域概論（小教）			0	0		00UE553		半	2.0	師培學院	EU		Introduction to Natural Sciences			0	45	選	◎限 國小教育學程生 國小不佔名額生 可修	N	3253	吳柏菱	二 1-2 和平 誠105	
+114	2	10	0	電腦視覺			0	0		GCM0078		半	3.0	圖傳系（碩）	HM72		Computer Vision		1	0	30	選	◎課程不開放上修	N	3254	羅梅君	四 B-D 和平 誠205	
+114	2	3	0	教學原理（教） </br>[ 學分學程：國際教師學程-華語文 國際教師學程-數學 國際教師學程-物理 國際教師學程-國際 ]			0	0		00UE005	E	半	2.0	師培學院	EU		Principles of Instruction </br>[ Program: The Program of International Baccalaureate Educator Certificate-Chinese Language Education The Program of International Baccalaureate Educator Certificate-International  Mathematics Education The Program of International Baccalaureate Educator Certificate-International  Physics  Education The Program of International Baccalaureate Educator Certificate-International Education ]			0	50	選		N	3255	吳柏菱	四 8-9 和平 正203	
+114	2	3	0	學習分析工具實務應用 </br>[ 學分學程：運動科技學程 教育大數據微學程 ]		授課教師:陳俊豪	0	0		05UG032		半	3.0	通識	GU		Learning Analytics Tools Implementation Applications </br>[ Program: The Program of Sports Technology The Program of Big Data in Education ]			3	50	通		N	3256	未定	四 7-9 和平 誠104	A4UG
+114	2	3	0	傳播科技企劃			0	0		GCU0060		半	3.0	圖傳系（學）	HU72		Communication Technology		3	0	45	選	◎限本系(含雙主修)修習	N	3257	邱卉榛	二 9-A 和平 正102	
