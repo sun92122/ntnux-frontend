@@ -7,9 +7,9 @@
     <div class="course-cell course-title">
       <span class="course-name">
         <Button variant="link" size="large" asChild>
-          <router-link
+          <NuxtLink
             :to="{
-              name: 'course',
+              path: '/course/' + (course.course_name || '').trim(),
               query: {
                 year: course.acadm_year,
                 term: course.acadm_term,
@@ -18,7 +18,7 @@
             }"
           >
             {{ course.course_name }}
-          </router-link>
+          </NuxtLink>
         </Button>
       </span>
       <div class="message-group">

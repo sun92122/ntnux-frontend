@@ -45,7 +45,7 @@ import { FloatingSchedule, AdvancedSearch } from "#components";
 useHead({
   title: "",
   titleTemplate: (titleChunk) => {
-    return titleChunk ? `${titleChunk}｜NTNUx` : "NTNUx｜課程查詢系統";
+    return titleChunk ? `${titleChunk.trim()}｜NTNUx` : "NTNUx｜課程查詢系統";
   },
   meta: [
     {

@@ -358,6 +358,14 @@ const course = ref({
   serial_no: route.query.id,
 });
 
+if (route.params.title) {
+  useSeoMeta({
+    title: `${course.value.year}-${course.value.term} ${decodeURIComponent(
+      route.params.title
+    )}`,
+  });
+}
+
 const showIframe = ref(false);
 const showIframeLoading = ref(false);
 
@@ -470,7 +478,7 @@ function getCourseData() {
 
   // If the course data is not found in the state, fetch it from the API
   const i = Math.floor(course.value.serial_no / 1000) % 10;
-  fetch(`data/${acadm}/${i}.tsv`)
+  fetch(`/data/${acadm}/${i}.tsv`)
     .then((response) => response.text())
     .then(async (data) => {
       data = await tsvToJson(data);
