@@ -9,7 +9,7 @@
         <Button variant="link" size="large" asChild>
           <NuxtLink
             :to="{
-              path: '/course/' + (course.course_name || '').trim(),
+              path: '/course',
               query: {
                 year: course.acadm_year,
                 term: course.acadm_term,
