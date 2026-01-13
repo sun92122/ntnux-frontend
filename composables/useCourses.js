@@ -102,7 +102,7 @@ export function useCourses() {
     return {
       ...course,
       credit: Math.round(course.credit * 10) / 10,
-      course_name: course.chn_name.replace(/<\/br>.*/g, ""),
+      course_name: course.chn_name.replace(/<\/br>.*/g, "").trim(),
       time_loc: timeLoc,
       time: timeFormatter(timeLoc),
       location: locationFormatter(timeLoc),

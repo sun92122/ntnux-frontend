@@ -9,12 +9,17 @@
         <Button variant="link" size="large" asChild>
           <NuxtLink
             :to="{
-              path: '/course',
-              query: {
-                year: course.acadm_year,
-                term: course.acadm_term,
-                id: course.serial_no,
-              },
+              // path: '/course',
+              // query: {
+              //   year: course.acadm_year,
+              //   term: course.acadm_term,
+              //   id: course.serial_no,
+              // },
+              path:
+                '/course/' +
+                `${course.acadm_year}/${course.acadm_term}/${
+                  course.serial_no
+                }/${encodeURIComponent(course.course_name)}`,
             }"
           >
             {{ course.course_name }}

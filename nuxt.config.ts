@@ -82,7 +82,7 @@ export default defineNuxtConfig({
   app: {
     baseURL: "", // 使用自訂網域，保留為根路徑
     head: {
-      title: "NTNUx",
+      title: "NTNUx｜課程查詢系統",
       link: [
         {
           rel: "icon",
@@ -100,14 +100,14 @@ export default defineNuxtConfig({
         { rel: "manifest", href: "/site.webmanifest" },
       ],
       meta: [
-        { name: "apple-mobile-web-app-title", content: "NTNUx" },
+        { name: "apple-mobile-web-app-title", content: "NTNUx｜課程查詢系統" },
         { name: "apple-mobile-web-app-capable", content: "yes" },
         { name: "mobile-web-app-capable", content: "yes" },
         {
           name: "apple-mobile-web-app-status-bar-style",
           content: "black-translucent",
         },
-        { property: "og:title", content: "NTNUx" },
+        { property: "og:title", content: "NTNUx｜課程查詢系統" },
         { property: "og:type", content: "website" },
         { property: "og:url", content: "https://ntnux.org" },
         { property: "og:image", content: "https://ntnux.org/favicon.png" },
@@ -120,7 +120,7 @@ export default defineNuxtConfig({
           content: "NTNUx - 更適合師大人的課程查詢系統",
         },
         { name: "twitter:card", content: "summary_large_image" },
-        { name: "twitter:title", content: "NTNUx" },
+        { name: "twitter:title", content: "NTNUx｜課程查詢系統" },
         {
           name: "twitter:description",
           content: "NTNUx - 更適合師大人的課程查詢系統",

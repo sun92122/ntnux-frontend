@@ -353,9 +353,9 @@ const {
 } = useSelectCourse();
 
 const course = ref({
-  year: route.query.year,
-  term: route.query.term,
-  serial_no: route.query.id,
+  year: route.params.year,
+  term: route.params.term,
+  serial_no: route.params.id,
 });
 
 if (route.params.title) {
@@ -407,6 +407,15 @@ function getCourseData() {
     useSeoMeta({
       title: `${acadm} ${course.value.course_name}`,
     });
+    if (route.params.title !== course.value.course_name) {
+      useRouter().replace({
+        params: {
+          ...route.params,
+          title: course.value.course_name,
+        },
+        shallow: true,
+      });
+    }
     setTimeout(() => {
       getDescription(course.value.course_code).then((description) => {
         course.value.description = description;
@@ -437,6 +446,16 @@ function getCourseData() {
               content: description
                 ? description.brief || description.description
                 : "",
+            },
+          ],
+          link: [
+            {
+              rel: "canonical",
+              href: `${useRuntimeConfig().public.baseURL}/course/${
+                course.value.year
+              }/${course.value.term}/${
+                course.value.serial_no
+              }/${encodeURIComponent(course.value.course_name)}`,
             },
           ],
         });
