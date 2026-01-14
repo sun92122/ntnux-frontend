@@ -19,7 +19,7 @@
                 '/course/' +
                 `${course.acadm_year}/${course.acadm_term}/${
                   course.serial_no
-                }/${encodeURIComponent(course.course_name)}`,
+                }/${encodeURIComponent(course.course_name?.trim())}`,
             }"
           >
             {{ course.course_name }}

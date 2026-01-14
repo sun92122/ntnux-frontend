@@ -407,7 +407,9 @@ function getCourseData() {
     useSeoMeta({
       title: `${acadm} ${course.value.course_name}`,
     });
-    if (route.params.title !== course.value.course_name) {
+    if (
+      decodeURIComponent(route.params.title).trim() !== course.value.course_name
+    ) {
       useRouter().replace({
         params: {
           ...route.params,
