@@ -116,7 +116,7 @@ export function useCourses() {
   const coursesFormatter = (courses) => {
     courses.forEach((item) => {
       item.credit = Math.round(item.credit * 10) / 10;
-      item.course_name = item.chn_name.replace(/<\/br>.*/g, "");
+      item.course_name = item.chn_name.replace(/<\/br>.*/g, "").trim();
       item.time_loc = parseTimeInfo(item.time_inf);
       item.time = timeFormatter(item.time_loc);
       item.location = locationFormatter(item.time_loc);
