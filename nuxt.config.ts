@@ -15,11 +15,12 @@ export default defineNuxtConfig({
     },
   },
   nitro: {
-    preset: "cloudflare_module",
+    preset: "cloudflare-module",
     prerender: {
       autoSubfolderIndex: false,
     },
     cloudflare: {
+      wrangler: { name: "ntnux" },
       deployConfig: true,
       nodeCompat: true,
     },
@@ -58,5 +59,5 @@ export default defineNuxtConfig({
     },
   },
 
-  compatibilityDate: "2024-07-05",
+  compatibilityDate: "2025-11-09",
 });
