@@ -15,9 +15,13 @@ export default defineNuxtConfig({
     },
   },
   nitro: {
-    preset: "static",
+    preset: "cloudflare_module",
     prerender: {
       autoSubfolderIndex: false,
+    },
+    cloudflare: {
+      deployConfig: true,
+      nodeCompat: true,
     },
   },
   router: {
@@ -47,8 +51,6 @@ export default defineNuxtConfig({
   },
 
   devtools: { enabled: true },
-
-  ssr: false,
 
   runtimeConfig: {
     public: {
