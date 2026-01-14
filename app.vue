@@ -47,12 +47,24 @@ useHead({
   titleTemplate: (titleChunk) => {
     return titleChunk ? `${titleChunk.trim()}｜NTNUx` : "NTNUx｜課程查詢系統";
   },
-  meta: [
-    {
-      name: "description",
-      content: "更適合師大人的課程查詢系統，更快、更強、行動裝置友好。",
-    },
-  ],
+});
+useSeoMeta({
+  title: "NTNUx｜課程查詢系統",
+  description: "更適合師大人的課程查詢系統，更快、更強、行動裝置友好。",
+  appleMobileWebAppTitle: "NTNUx｜課程查詢系統",
+  appleMobileWebAppCapable: "yes",
+  mobileWebAppCapable: "yes",
+  appleMobileWebAppStatusBarStyle: "black-translucent",
+  ogTitle: "NTNUx｜課程查詢系統",
+  ogDescription: "NTNUx - 更適合師大人的課程查詢系統",
+  ogType: "website",
+  ogImage: "https://ntnux.org/favicon.png",
+  ogImageAlt: "NTNUx - 更適合師大人的課程查詢系統",
+  ogUrl: "https://ntnux.org",
+  twitterCard: "summary_large_image",
+  twitterTitle: "NTNUx｜課程查詢系統",
+  twitterDescription: "NTNUx - 更適合師大人的課程查詢系統",
+  twitterImage: "https://ntnux.org/favicon.png",
 });
 
 const windowWidth = useState("windowWidth", () => window?.innerWidth || 1200);
