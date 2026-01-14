@@ -55,10 +55,10 @@ useHead({
   ],
 });
 
-const windowWidth = useState("windowWidth", () => window.innerWidth);
+const windowWidth = useState("windowWidth", () => window?.innerWidth || 1200);
 
 function updateWidth() {
-  windowWidth.value = window.innerWidth;
+  windowWidth.value = window?.innerWidth || 1200;
 }
 
 onMounted(() => {

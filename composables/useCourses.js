@@ -15,7 +15,7 @@ export function useCourses() {
   const defaultGlobalFilterFields = ["course_name", "teacher", "serial_no"];
 
   const fetchData = async (i) => {
-    const res = await fetch(`data/${currentTerm.value}/${i}.tsv`);
+    const res = await fetch(`/data/${currentTerm.value}/${i}.tsv`);
     if (!res.ok) return null;
     const text = await res.text();
     const data = tsvToJson(text);

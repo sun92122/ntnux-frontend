@@ -137,7 +137,7 @@ const routerLoading = useState("routerLoading", () => false);
 const selectionSchedule = useState("courseSelectionSchedule", () => {});
 const carouselPage = ref(1);
 
-const windowWidth = useState("windowWidth", () => window.innerWidth);
+const windowWidth = useState("windowWidth", () => window?.innerWidth || 1200);
 const responsiveOptions = ref([
   {
     breakpoint: "100000px",

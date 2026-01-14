@@ -3,7 +3,7 @@ export function useSelectCourse() {
   const selectedRows = useState("selectedRows", () => ({}));
   const selectCode = useState("selectCode", () => (new Set()));
   const toast = useToast();
-  const windowWidth = useState("windowWidth", () => window.innerWidth);
+  const windowWidth = useState("windowWidth", () => window?.innerWidth || 1200);
 
 
   function selectCourse(course) {
