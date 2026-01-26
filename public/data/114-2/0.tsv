@@ -1,14 +1,14 @@
 ﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
 114	2	5	0	生涯規劃與就業輔導 </br>[ 學分學程：金牌書院 ]			21	21		A0U0004		半	2.0	運休學院	A		Career Planning and Vocational Counseling </br>[ Program: The Program of Elite Athletes College ]			5	50	選	◎初選 金牌書院學程 研究生得下修	N	0001	李加耀	三 6-7 和平 體002	
 114	2	1	0	網路學習資源 </br>[ 學分學程：金牌書院 ]			10	10		A0U0007		半	2.0	運休學院	A		Online Learning Resources </br>[ Program: The Program of Elite Athletes College ]			1	27	選	◎初選 金牌書院學程 研究生得下修	N	0002	謝邦彥	三 A-B 和平 教404	
-114	2	10	0	運動行銷學專題研究			0	0		PED0025		半	3.0	體育系（博）	AD30		Special Topics in Sport Marketing			0	50	選	◎課程開放上修	N	0003	程紹同	五 7-9 和平 體002	
+114	2	10	0	運動行銷學專題研究			0	0		PED0025		半	3.0	體育系（博）	AD30		Special Topics in Sport Marketing			3	50	選	◎課程開放上修	N	0003	程紹同	五 7-9 和平 體002	
 114	2	10	0	體育政策分析			3	3		PED0052		半	3.0	體育系（博）	AD30		Policy Analysis in Physical Education			0	50	選	◎課程開放上修	N	0004	湯添進	四 2-4 和平 體育館一2樓會議室	
 114	2	10	0	運動社會學專題研究			2	2		PED0076		半	3.0	體育系（博）	AD30		Special Topics in Sport Sociology			0	50	選	◎課程開放上修	N	0005	湯添進	四 7-9 和平 體002	
 114	2	10	0	量化研究法			5	5		SRD0002		半	3.0	休旅所（博）	AD31		Quantitative Methodology			2	30	必	◎課程不開放上修	N	0006	陳美燕	四 6-8 和平 綜603	
 114	2	2	0	實證性研究之文獻評析與統整			4	4		SRD0008		半	3.0	休旅所（博）	AD31		Critiquing and Synthesizing Research for Evidence-Based Practice			2	30	選	◎課程不開放上修	N	0007	林儷蓉	四 2-4 和平 綜603	
 114	2	10	0	運動休閒與餐旅管理專題討論			4	4		SRD0024		半	1.0	休旅所（博）	AD31		Seminar on Sport, Leisure, and Hospitality Management			0	30	必	允許重複修 ◎必須先修過【SRD0001  質性研究法】、【SRD0002  量化研究法】其中一門 ◎課程不開放上修	N	0008	李晶	四 B 和平 綜509國際會議廳	
 114	2	2	0	運動休閒專業英文寫作與口語表達			6	6		SRD0025		半	3.0	休旅所（博）	AD31		Academic Writing and Oral Presentation for Sport and Leisure	是		0	30	選	◎課程不開放上修	N	0009	廖邕	五 7-9 和平 綜603	
-114	2	10	0	運動贊助策略研究			2	2		PEM0100		半	3.0	體育系（碩）	AM30		Studies in Strategic Sport Sponsorship	是		0	50	選	◎課程開放上修	N	0011	程紹同	五 2-4 和平 體002	
+114	2	10	0	運動贊助策略研究			2	2		PEM0100		半	3.0	體育系（碩）	AM30		Studies in Strategic Sport Sponsorship	是		5	50	選	◎課程開放上修	N	0011	程紹同	五 2-4 和平 體002	
 114	2	10	0	休閒運動研究 </br>[ 學分學程：高齡學程 ]			14	14		PEM0106		半	3.0	體育系（碩）	AM30		Studies in Recreational Sport </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]			0	50	選	◎課程開放上修	N	0012	詹俊成	二 7-9 和平 體002	
 114	2	10	0	體育課程專題研究	8		7	7		PEC0036		半	3.0	體育系（碩）	AM30		Special Topics in Physical Education Curriculum			0	50	選	◎課程開放上修	N	0013	闕月清	二 A-C 和平 體003	
 114	2	10	0	運動哲學專題研究	8		12	12		PEC0071		半	3.0	體育系（碩）	AM30		Special Topics in Philosophy of Sport			0	50	選	◎課程開放上修	N	0014	林慶宏	四 2-4 和平 體001	
@@ -161,24 +161,24 @@
 114	2	10	0	運動專長術科：射箭			8	8		FPU0355		半	4.0	競技系（學）	AU32		Sport Specialties: Archery			0	50	必	允許重複修	N	0161	李濤名	一 8-9 公館 教室自排, 二 8-9 公館 教室自排, 四 8-9 公館 教室自排, 五 8-9 公館 教室自排	
 114	2	10	0	運動專長術科：其它			24	24		FPU0356		半	4.0	競技系（學）	AU32		Sport Specialties: Other Sport Events			0	50	必	允許重複修	N	0162	何仁育 朱芳儀	一 8-9 公館 教室自排, 二 8-9 公館 教室自排, 四 8-9 公館 教室自排, 五 8-9 公館 教室自排	
 114	2	10	0	運動專長術科：網球			13	13		FPU0357		半	4.0	競技系（學）	AU32		Sport Specialties: Tennis	是		0	50	必	允許重複修	N	0163	林岱樵	一 8-9 公館 網球場二, 二 8-9 公館 網球場二, 四 8-9 公館 網球場二, 五 8-9 公館 網球場二	
-114	2	10	0	運動專長術科：體操			6	6		FPU0358		半	4.0	競技系（學）	AU32		Sport Specialties: Gymnastics			0	50	必	允許重複修	N	0164	俞智贏	一 8-9 和平 體操房, 二 8-9 和平 體操房, 四 8-9 和平 體操房, 五 8-9 和平 體操房	
+114	2	10	0	運動專長術科：體操			6	6		FPU0358		半	4.0	競技系（學）	AU32		Sport Specialties: Gymnastics			0	50	必	允許重複修	N	0164	未定	一 8-9 和平 體操房, 二 8-9 和平 體操房, 四 8-9 和平 體操房, 五 8-9 和平 體操房	
 114	2	10	0	肌力與體能訓練理論與實務 </br>[ 學分學程：肌力與體能學程 ]			18	18		FPU0359		半	2.0	競技系（學）	AU32		Theory and Practice of Strength Training and Conditioning </br>[ Program: The Program of Strength and Conditioning ]			0	50	選		N	0165	鄭景峰	二 6-7 公館 Ｓ504	
 114	2	10	0	運動營養與表現概論			20	20		FPU0366		半	2.0	競技系（學）	AU32		Introduction to Sports Nutrition and Performance	是		0	50	選		N	0167	利安琪	三 3-4 公館 Ｓ502	
 114	2	10	0	體育教學實習（一）（教）			26	26		PEUE209		半	2.0	競技系（學）	AU32		Teaching Practicum: Physical Education (I)			0	50	選	◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0168	陳信亨 楊琇惟	五 1-4 公館 Ｓ501	
 114	2	20	0	人體解剖生理學 </br>[ 學分學程：肌力與體能學程 運動傷害防護學程 ]			68	68		FPU0001		半	2.0	競技系（學）	AU32		Human Anatomy and Physiology </br>[ Program: The Program of Strength and Conditioning The Program of Injury Prevention and Athletic Training ]		1	0	60	必		N	0169	鄭景峰	四 6-7 公館 Ｅ101	
 114	2	10	0	體育史			50	50		FPU0032		半	2.0	競技系（學）	AU32		History of Physical Education		1	0	50	選		N	0170	李建興	一 6-7 公館 Ｓ101	
-114	2	10	0	體操（二）			50	50		FPU0153		半	2.0	競技系（學）	AU32		Gymnastics (II)		1	0	50	選	◎必須先修過【FPU0250  體操（一）】	N	0171	翁士航	三 8-9 和平 體操房	
+114	2	10	0	體操（二）			50	50		FPU0153		半	2.0	競技系（學）	AU32		Gymnastics (II)		1	0	50	選	◎必須先修過【FPU0250  體操（一）】	N	0171	未定	三 8-9 和平 體操房	
 114	2	10	0	田徑（二）			50	50		FPU0162		半	2.0	競技系（學）	AU32		Track and Field (II)		1	0	50	選	◎必須先修過【FPU0244  田徑（一）】	N	0172	蔡於儒	二 3-4 公館 操場二	
 114	2	10	0	棒（壘）球（二）			50	50		FPU0252		半	2.0	競技系（學）	AU32		Baseball (II)		1	0	50	選	◎必須先修過【FPU0251  棒（壘）球（一）】	N	0173	陳妙怡	三 3-4 公館 操場二	
 114	2	10	0	籃球（二）			21	21		FPU0254	F	半	2.0	競技系（學）	AU32		Basketball (II)		1	0	50	選	◎必須先修過【FPU0253  籃球（一）】	N	0174	梁嘉音	二 1-2 公館 體育館二3樓	
-114	2	10	0	籃球（二）			0	0		FPU0254	M	半	2.0	競技系（學）	AU32		Basketball (II)		1	0	50	選	◎必須先修過【FPU0253  籃球（一）】	N	0175	李秉鴻	四 6-7 公館 體育館二3樓	
+114	2	10	0	籃球（二）			0	0		FPU0254	M	半	2.0	競技系（學）	AU32		Basketball (II)		1	0	50	選	◎必須先修過【FPU0253  籃球（一）】	N	0175	李秉鴻	五 1-2 公館 室外籃球場二	
 114	2	10	0	瑜珈運動			50	50		FPU0363		半	2.0	競技系（學）	AU32		Yoga Exercise		1	0	50	選		N	0176	林維芬	三 8-9 和平 大韻律教室	
 114	2	10	0	體適能與運動處方 </br>[ 學分學程：肌力與體能學程 ]			14	14		FPU0017		半	2.0	競技系（學）	AU32		Physical Fitness and Exercise Prescription </br>[ Program: The Program of Strength and Conditioning ]		2	0	50	選		N	0177	鄭景峰	二 3-4 公館 Ｓ501	
 114	2	10	0	運動技能學習			20	20		FPU0019		半	2.0	競技系（學）	AU32		Motor Learning		2	0	50	選		N	0178	劉有德	五 1-2 公館 體育館二3樓會議室	
 114	2	10	0	排球（二）			36	36		FPU0161		半	2.0	競技系（學）	AU32		Volleyball (II)		2	1	50	選	◎必須先修過【FPU0243  排球（一）】	N	0181	張恩崇	五 3-4 公館 體育館二3樓	
 114	2	10	0	羽球（二）			28	28		FPU0163		半	2.0	競技系（學）	AU32		Badminton (II)		2	0	50	選	◎必須先修過【FPU0245  羽球（一）】	N	0182	李建興	二 3-4 公館 中正堂	
 114	2	10	0	桌球（二）			19	19		FPU0166		半	2.0	競技系（學）	AU32		Table Tennis (II)		2	0	50	選	◎必須先修過【FPU0248  桌球（一）】	N	0183	林岱樵	四 1-2 和平 桌球室	
-114	2	10	0	體操（四）			8	8		FPU0329		半	2.0	競技系（學）	AU32		Gymnastics (IV)		2	0	50	選	◎必須先修過【FPU0328  體操（三）】	N	0184	翁士航	三 10-A 和平 體操房	
+114	2	10	0	體操（四）			8	8		FPU0329		半	2.0	競技系（學）	AU32		Gymnastics (IV)		2	0	50	選	◎必須先修過【FPU0328  體操（三）】	N	0184	未定	三 10-A 和平 體操房	
 114	2	10	0	運動訓練管理學			31	31		FPU0038		半	2.0	競技系（學）	AU32		Management in Sport Training		3	0	50	選		N	0185	張恩崇	四 6-7 公館 Ｓ501	
 114	2	10	0	運動訓練學（含實習）			62	62		FPU0107		半	3.0	競技系（學）	AU32		Sports Training (Practical Training)		3	0	50	必		N	0186	蔡於儒	一 3-6 公館 教室自排	
 114	2	10	0	運動教練學（含實習）			61	61		FPU0108		半	3.0	競技系（學）	AU32		Sports Coaching (Practical Training)		3	0	50	必		N	0187	劉有德	四 1-4 公館 Ｓ102	
@@ -253,7 +253,7 @@
 114	2	0	0	英文（二）		數學系、物理系、化學系、全球研究學程	19	19		00UB8A1	A	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0256	柯珍宜	一 3-4 公館 Ｓ502	
 114	2	0	0	英文（二）		幼家科學系、公領系、特教系、學習科學學位學程、美術系、設計系、企管系、體育系	29	29		00UB8A1	B	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0257	陳嬿如	五 1-2 和平 正301	
 114	2	0	0	英文（二）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	21	21		00UB8A1	C	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0258	曾於萱	五 3-4 和平 正301	
-114	2	0	0	英文（二）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系	22	22		00UB8A1	D	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0259	柯衣凡	五 3-4 和平 無可用教室	
+114	2	0	0	英文（二）		教育系、心輔系、社教系、衛教系、教院不分系、音樂系、科技系    本課程預計停開，請同學於第二階段選課至加退選結束前自行退選，後續由外文組辦理人工加選作業。	22	22		00UB8A1	D	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0259	柯衣凡	五 3-4 和平 無可用教室	
 114	2	0	0	英文（二）		工教系、圖傳系、機電系、電機系、車能學位學程、華語系應華組、華語系國華組	26	26		00UB8A1	E	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0260	陳嬿如	五 6-7 和平 正301	
 114	2	0	0	英文（二）		國文系、歷史系、地理系、臺文系、表演學位學程、東亞系	33	33		00UB8A1	F	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0261	陳嬿如	五 8-9 和平 正301	
 114	2	0	0	英文（二）		生科系、地科系、資工系、營養科學學位學程、光電工程學位學程	29	29		00UB8A2	A	半	2.0	共同科	CU		English (II)	是		0	40	必	◎第一階段需人工加選◎第二階段需人工加選◎加退選階段需人工加選	N	0262	李金安	一 1-2 公館 Ｓ303	
@@ -335,7 +335,7 @@
 114	2	3	0	教育統計學（二）			6	6		E0U0002	D	半	2.0	教育學院	E		Educational Statistics (II)			0	37	選	◎必須先修過【E0U0001  教育統計學（一）】	N	0338	譚克平	四 8-9 和平 教403	
 114	2	10	0	教育統計學（二）			50	50		E0U0002	E	半	2.0	教育學院	E		Educational Statistics (II)			0	50	選	◎必須先修過【E0U0001  教育統計學（一）】	N	0339	趙本強	四 6-7 和平 特115	
 114	2	10	0	社區高齡者服務實習 </br>[ 學分學程：高齡學程 ]			16	16		E0U0006		半	2.0	教育學院	E		Elderly Health Service Practicum </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]			0	50	必		N	0340	吳振邦 蔡昕璋	四 10-A 和平 誠206	
-114	2	10	0	學習與教學導論			26	26		E0U0008		半	2.0	教育學院	E		Introduction to Learning and Teaching	是		1	50	選		N	0341	胡翠君	四 3-4 和平 正105	
+114	2	10	0	學習與教學導論			26	26		E0U0008		半	2.0	教育學院	E		Introduction to Learning and Teaching	是		1	50	選		N	0341	胡翠君 黃翊忠	四 3-4 和平 正105	
 114	2	3	0	高級教育統計學（甲）	8	需要修習過統計相關課程	37	37		E0C8001	A	半	3.0	教育學院	E		Advanced Educational Statistics (A)			0	37	選	◎課程不開放上修	N	0342	郭郡羽	五 3-5 和平 教403	
 114	2	10	0	高級教育統計學（甲）	8	需要修習過統計相關課程	15	15		E0C8001	B	半	3.0	教育學院	E		Advanced Educational Statistics (A)			0	50	選	◎課程不開放上修	N	0343	劉振維	五 2-4 和平 教619	
 114	2	10	0	階層線性模式	8		2	2		E0C8006		半	3.0	教育學院	E		Hierachical Linear Models			1	50	選	◎課程不開放上修	N	0344	林世華	四 2-4 和平 教619	
@@ -676,7 +676,7 @@
 114	2	10	0	變態心理學 </br>[ 學分學程：音樂輔教學程 ]			50	50		PCU0048		半	3.0	心輔系（學）	EU01		Abnormal Psychology </br>[ Program: The Program of Music-assisted Guidance and Special Education ]		2	0	50	選	◎必須先修過【PCU0014  人格心理學】	N	0681	林旻沛	二 2-4 和平 教513	
 114	2	10	0	諮商理論 </br>[ 學分學程：音樂輔教學程 PASSION偏鄉教育學程 高齡學程 ]			48	48		PCU0130	A	半	3.0	心輔系（學）	EU01		Theories of Counseling </br>[ Program: The Program of Music-assisted Guidance and Special Education The Program of PASSION Quality Education in Rural Schools The program of Cultivating Seniors Service Talent in Community ]		2	0	50	必	◎必須先修過(也可以同時修)【PCU0014  人格心理學】◎必須先修過【PCU0117  輔導原理與實務】、【00UE008  輔導原理與實務（教）】其中一門	N	0682	姜兆眉	四 2-4 和平 教513	
 114	2	10	0	綜合活動領域概論 </br>[ 學分學程：PASSION偏鄉教育學程 ]			47	47		PCU0167		半	2.0	心輔系（學）	EU01		Introduction to Integrative Activities Areas </br>[ Program: The Program of PASSION Quality Education in Rural Schools ]		2	0	50	選	◎必須先修過【PCU0114  教育心理學】、【PCU0117  輔導原理與實務】	N	0683	張雨霖	一 6-7 和平 教602	
-114	2	10	0	青少年問題與輔導			50	50		PCU0176		半	2.0	心輔系（學）	EU01		Adolescent Problems and Guidance		2	0	50	選	◎必須先修過【PCU0101  青少年心理學】、【00UE018  青少年心理學（教）】其中一門	N	0684	涂繼方	五 3-4 和平 教602	
+114	2	18	0	青少年問題與輔導			50	50		PCU0176		半	2.0	心輔系（學）	EU01		Adolescent Problems and Guidance		2	2	50	選	◎必須先修過【PCU0101  青少年心理學】、【00UE018  青少年心理學（教）】其中一門	N	0684	涂繼方	五 3-4 和平 美術館601	
 114	2	10	0	學習輔導			36	36		PCU0004		半	2.0	心輔系（學）	EU01		Educational Guidance		3	0	50	選	◎必須先修過(也可以同時修)【PCU0144  學習與教學心理學】、【PCU0036  認知心理學】其中一門	N	0685	吳昭容	一 6-7 和平 教513	
 114	2	10	0	團體輔導 </br>[ 學分學程：高齡學程 ]			25	25		PCU0011	A	半	3.0	心輔系（學）	EU01		Group Guidance & Counseling </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		3	0	30	必	◎必須先修過【PCU0131  諮商技術】	N	0686	張世華	四 2-4 和平 教600	
 114	2	10	0	團體輔導 </br>[ 學分學程：高齡學程 ]			23	23		PCU0011	B	半	3.0	心輔系（學）	EU01		Group Guidance & Counseling </br>[ Program: The program of Cultivating Seniors Service Talent in Community ]		3	0	30	必	◎必須先修過【PCU0131  諮商技術】	N	0687	蘇盈儀	四 2-4 和平 綜10樓教室	
@@ -834,7 +834,7 @@
 114	2	10	0	公民與社會（公民）教材教法（教）	2		14	14		CEUE002		半	2.0	公領系（學）	EU07		Teaching Materials and Methods: Civic and Society		3	0	50	選	◎限本系(含雙主修)修習◎限大三大四修習     ◎限 二階生 教育學程生 不佔名額生 登記修習生 可修	N	0843	劉秀嫚	二 3-4 和平 童技室	
 114	2	10	0	校園危機處理			18	18		CEU0465		半	2.0	公領系（學）	EU07		Campus Crisis Management		4	3	50	選		N	0844	賴宏銓	一 10-A 和平 誠401	
 114	2	10	0	冒險治療			19	19		CEU0481		半	2.0	公領系（學）	EU07		Adventure Therapy		4	3	50	選		N	0845	謝宜蓉	四 8-9 和平 誠大樓公團部	
-114	2	3	0	社會領域探究與實作專題			45	45		CEU0501		半	2.0	公領系（學）	EU07		Special Topics in the Inquiry and Practice of Social Studies		4	0	45	選	◎必須先修過【CEU0507  社會領域課程概論】	N	0846	王錦雀	五 3-4 和平 誠106	
+114	2	10	0	社會領域探究與實作專題			45	45		CEU0501		半	2.0	公領系（學）	EU07		Special Topics in the Inquiry and Practice of Social Studies		4	0	65	選	◎必須先修過【CEU0507  社會領域課程概論】	N	0846	王錦雀	五 3-4 和平 誠301	
 114	2	0	0	戶外探索引導與反思 </br>[ 學分學程：戶外探索領導學程 戶外領導學程 ]			21	21		CEU0506		半	2.0	公領系（學）	EU07		Facilitation Skill and Reflection in Outdoors </br>[ Program: The Program of Outdoor Adventure Leadership The Program of Outdoor Leadership ]		4	2	50	必		N	0847	吳崇旗	四 6-7 和平 誠大樓公團部	
 114	2	5	0	特殊教育導論 </br>[ 學分學程：藝教學程 音樂輔教學程 PASSION偏鄉教育學程 溝通障礙教育學程 ]			8	8		SPU5007	A	半	3.0	特教系（學）	EU09		Introduction to Special Education </br>[ Program: The Program of Art Education Therapy The Program of Music-assisted Guidance and Special Education The Program of PASSION Quality Education in Rural Schools The Program of Communication Disorders ]	是		5	20	必		N	0848	趙本強	四 2-4 和平 特112	
 114	2	0	0	特殊教育導論 </br>[ 學分學程：藝教學程 音樂輔教學程 PASSION偏鄉教育學程 溝通障礙教育學程 ]		非全英語授課。	2	2		SPU5007	B	半	3.0	特教系（學）	EU09		Introduction to Special Education </br>[ Program: The Program of Art Education Therapy The Program of Music-assisted Guidance and Special Education The Program of PASSION Quality Education in Rural Schools The Program of Communication Disorders ]			0	2	必		N	0849	林淑莉	二 6-8 和平 特103	
@@ -880,7 +880,7 @@
 114	2	0	0	情緒管理與壓力調適			25	25		TEU0024		半	3.0	教院學士班（學）	EU13		Mood Management and Pressure Adjustment	是		0	40	選		N	0889	黃翊忠	二 8-10 和平 正301	
 114	2	10	0	跨域學習導論			27	27		TEU0002		半	3.0	教院學士班（學）	EU13		Introduction to Transdisciplinary Learning	是	1	1	50	必		N	0890	何家騏	五 6-8 和平 正403	
 114	2	10	0	組織行為			10	10		TEU0021		半	2.0	教院學士班（學）	EU13		Organizational Behavior	是	1	10	50	選		N	0891	陳大愚	二 8-9 和平 樸202	
-114	2	0	0	國際時事議題英文		◎數位課程   All distance learning courses display synchronous learning and face-to-face learning time only.  Week 2 Face-to-Face Class: February 24 (Tue), Periods A-C (18:40-21:20).    Location will be announced separately.	22	22		TEU0006		半	3.0	教院學士班（學）	EU13		Global News and International Affairs in English	是	2	0	40	必	◎必須先修過【GBU0001  全球研究導論（一）】	1	0892	岳芸	◎面授/同步	
+114	2	0	0	國際時事議題英文		◎數位課程   All distance learning courses display synchronous learning and face-to-face learning time only.  Week 2 Face-to-Face Class: February 24 (Tue), Periods A-C (18:40-21:20).    Location will be announced separately.	22	22		TEU0006		半	3.0	教院學士班（學）	EU13		Global News and International Affairs in English	是	2	0	40	必	◎必須先修過【GBU0001  全球研究導論（一）】	1	0892	未定	◎面授/同步	
 114	2	0	0	系統思考		Class Location: College of Education, Second Conference Room.	10	10		TEU0008		半	3.0	教院學士班（學）	EU13		Systems Thinking	是	2	0	40	必	◎必須先修過【TEU0002  跨域學習導論】	N	0893	林子斌	四 5-7 和平 教室自排	
 114	2	5	0	企業教育訓練			17	17		TEU0019		半	2.0	教院學士班（學）	EU13		Corporate Education and Training	是	2	5	40	選		N	0894	黃翊之	三 9-10 和平 誠301	
 114	2	10	0	全球化關鍵議題			11	11		TEU0023		半	3.0	教院學士班（學）	EU13		Critical Issues in Globalization	是	2	5	50	選		N	0895	譚偉民	四 8-10 和平 正202	

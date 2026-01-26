@@ -1,1 +1,3 @@
-﻿serial_no	course_code	course_group
+﻿acadm_year	acadm_term	authorize_p	authorize_using	chn_name	classes	comment	counter	counter_exceptAuth	course_avg	course_code	course_group	course_kind	credit	dept_chiabbr	dept_code	dept_group_name	eng_name	eng_teach	form_s	limit	limit_count_h	option_code	restrict	rt	serial_no	teacher	time_inf	generalCore
+114	2	4	0	體育（體操遊戲初級）			0	0		00UP132	A	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	5000	龔芸	四 3-4 和平 體操房	
+114	2	4	0	體育（體操遊戲初級）			0	0		00UP132	B	半	1.0	普通體育	PE		Physical Education (Beginning Playing Gymnastics)			0	45	必	允許重複修	N	5001	龔芸	五 3-4 和平 體操房	

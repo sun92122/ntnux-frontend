@@ -27,8 +27,8 @@
 114	2	5	0	西班牙語（二）		母語人士不可選課。	16	16		0HUG504		半	2.0	通識	GU		Spanish (II)			0	50	通		N	1025	張乃翠	三 6-7 和平 正204	A1UG
 114	2	5	0	法語（二）		需修過法文一或學過30小時以上法文。	18	18		0HUG505		半	2.0	通識	GU		French (II)			0	50	通		N	1026	李曉芸	三 6-7 和平 正301	A1UG
 114	2	5	0	韓語（一）		1.韓語為母語者不可選課。2.授權碼發放以大四或延畢同學為優先。	46	46		0HUG506		半	2.0	通識	GU		Korean (I)			0	50	通		N	1027	魯水晶	二 3-4 公館 理圖002	A1UG
-114	2	5	0	泰國語言與文化		母語人士不可選課。	17	17		0HUG507		半	2.0	通識	GU		Thai Language and Culture			0	50	通		N	1028	譚華德	四 6-7 和平 樸306	A1UG
-114	2	5	0	泰語（二）		母語人士不可選課。	0	0		0HUG510		半	2.0	通識	GU		Thai Language (II)			0	50	通		N	1029	譚華德	四 8-9 和平 樸306	A1UG
+114	2	5	0	泰國語言與文化		母語人士不可選課。	17	17		0HUG507		半	2.0	通識	GU		Thai Language and Culture			0	50	通		N	1028	譚華德	四 8-9 和平 樸306	A1UG
+114	2	5	0	泰語（二）		母語人士不可選課。	0	0		0HUG510		半	2.0	通識	GU		Thai Language (II)			0	50	通		N	1029	譚華德	四 6-7 和平 樸306	A1UG
 114	2	0	0	歷史與電影			38	38		0HUG634		半	2.0	通識	GU		History and the Movies			0	100	通		N	1030	陳佳宏	五 3-4 和平 誠201	A1UG
 114	2	0	0	越南語（一） </br>[ 學分學程：國關與外交學程 ]		母語人士不可選課。	5	5		0HUG649		半	2.0	通識	GU		Vietnamese (I) </br>[ Program: The Program of International Relations and Diplomacy ]			0	50	通		N	1031	劉陳石草	三 A-B 和平 誠208	A1UG
 114	2	0	0	越南語（二）		母語人士不可選課。	7	7		0HUG650		半	2.0	通識	GU		Vietnamese (II)			0	50	通		N	1032	劉陳石草	四 A-B 和平 誠107	A1UG
@@ -104,7 +104,6 @@
 114	2	10	0	印刷出版科技專題研究			3	3		GCM0030		半	2.0	圖傳系（碩）	HM72		Special Topics in Graphic Arts and Publishing		2	0	30	選	◎課程不開放上修	N	1104	廖信	一 A-B 和平 一般教室	
 114	2	10	0	影視媒體與文化			10	10		GCM0035		半	2.0	圖傳系（碩）	HM72		Culture and Audio-Visual Media		2	0	30	選	◎課程不開放上修	N	1105	周守訓	三 9-10 和平 綜701	
 114	2	10	0	印前科技專題研究			3	3		GCM0039		半	2.0	圖傳系（碩）	HM72		Special Topics in Advance Pre-press Engineering		2	0	30	選	◎課程不開放上修	N	1106	王希俊	四 A-B 和平 綜701	
-114	2	10	0	網際網路傳播專題研究			0	0		GCM0042		半	2.0	圖傳系（碩）	HM72		Special Topics in Internet Communications		2	0	30	選	◎課程不開放上修	N	1107	周遵儒	四 A-B 和平 新媒體專業教室	
 114	2	10	0	數位影像科技專題研究			4	4		GCM0044		半	2.0	圖傳系（碩）	HM72		Special Topics in Digital Image Processing		2	0	30	選	◎課程不開放上修	N	1108	張晏榕	二 A-B 和平 綜701	
 114	2	10	0	地方編輯			3	3		GCM0118		半	3.0	圖傳系（碩）	HM72		Local Editing		2	0	30	選	◎課程不開放上修	N	1109	涂卉	二 2-4 和平 綜701	
 114	2	2	0	最佳化理論	8		12	12		MTC8005		半	3.0	機電系（碩）	HM73		Optimization			0	30	選	◎課程開放上修	N	1110	辜漢文	三 7-9 和平 機電302會議室	
@@ -150,7 +149,7 @@
 114	2	10	0	工業安全與衛生			23	23		IEU0009		半	2.0	工教系（學）	HU70		Industrial Safety and Hygiene		1	0	50	必		N	1151	郭金國	五 1-2 和平 研討六	
 114	2	10	0	工程數學（一）			34	34		IEU4371		半	3.0	工教系（學）	HU70		Engineering Mathematics (I)		1	0	50	必		N	1152	楊啟榮	四 2-4 和平 研討二	
 114	2	10	0	工程設計 </br>[ 學分學程：理工實作學程 ]		師資生優先選課	13	13		ITU0162		半	3.0	科技系（學）	HU71		Engineering Design </br>[ Program: The Program of STEM Innovation and Practices ]	是		0	30	選	◎限大二大三修習	N	1153	蔡其瑞	五 7-9 和平 科技系TC504教室	
-114	2	12	0	機電整合實務 </br>[ 學分學程：理工實作學程 ]	9	設科組、科教組、師資生優先選課	22	22		ITC9001		半	3.0	科技系（學）	HU71		Mechatronics Practice </br>[ Program: The Program of STEM Innovation and Practices ]			0	30	選	◎限大三 ◎限碩一碩二碩三以上修習	N	1154	支裕文	三 10-B 和平 科技系TB310教室	
+114	2	12	0	機電整合實務 </br>[ 學分學程：理工實作學程 ]	9	設科組、科教組、師資生優先選課	22	22		ITC9001		半	3.0	科技系（學）	HU71		Mechatronics Practice </br>[ Program: The Program of STEM Innovation and Practices ]			0	30	選	◎限大三 ◎限碩一碩二修習	N	1154	支裕文	三 10-B 和平 科技系TB310教室	
 114	2	8	0	人員數據分析 </br>[ 學分學程：AI人力資源學程 ]	9	◎數位課程   學士班:學科組優先選課   碩士班:授權碼     All distance learning courses display synchronous learning and face-to-face learning time only.	33	33		ITC9011		半	3.0	科技系（學）	HU71		Studies in People Analytics </br>[ Program: The Program of Artificial Intelligence in Human Resource Development ]	是		0	41	必	◎限大二修習◎必須先修過【ITU0057  人力資源管理】	1	1155	孫弘岳	◎面授/同步	
 114	2	10	0	圖學 </br>[ 學分學程：設計與科技學程 ]		設科組優先選課	18	18		ITU0004		半	3.0	科技系（學）	HU71		Graphics </br>[ Program: The Program of Design and Technology ]		1	0	30	必		N	1156	蔡其瑞	一 7-10 和平 科技系TC504教室	
 114	2	10	0	人力資源管理 </br>[ 學分學程：AI人力資源學程 ]		◎數位課程   學科組優先選課     All distance learning courses display synchronous learning and face-to-face learning time only.	35	35		ITU0057		半	3.0	科技系（學）	HU71		Human Resource Management </br>[ Program: The Program of Artificial Intelligence in Human Resource Development ]	是	1	3	60	必		1	1157	孫弘岳	◎面授/同步	
@@ -172,7 +171,7 @@
 114	2	0	0	專題製作（一） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	9	9		ITU0155	C	半	1.0	科技系（學）	HU71		Capstone Projects (I) </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	50	必		N	1173	蔡芸琤	五 C-D 和平 科技系TB212教室	
 114	2	0	0	專題製作（一） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	6	6		ITU0155	D	半	1.0	科技系（學）	HU71		Capstone Projects (I) </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	50	必		N	1174	張玉山 許庭嘉	五 C-D 和平 科技系TB312教室	
 114	2	0	0	專題製作（一） </br>[ 學分學程：理工實作學程 ]		本系學生請依指導老師選課，外系勿選。	8	8		ITU0155	E	半	1.0	科技系（學）	HU71		Capstone Projects (I) </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	50	必		N	1175	陳淑媛 嚴萬軒 陳怡靜	五 C-D 和平 科技系TB210教室	
-114	2	10	0	結構設計		師資生優先選課	16	16		ITU0163		半	3.0	科技系（學）	HU71		Structural Design		3	0	30	選		N	1176	陳沛清	四 8-10 和平 科技系TB213教室	
+114	2	10	0	結構設計		師資生優先選課	16	16		ITU0163		半	3.0	科技系（學）	HU71		Structural Design		3	0	30	選	◎限大三修習	N	1176	陳沛清	四 8-10 和平 科技系TB213教室	
 114	2	5	0	計算機結構		學科組優先選課	7	7		ITU2005		半	3.0	科技系（學）	HU71		Computer Architecture		3	0	35	選		N	1177	吳姈蓉	五 10-B 和平 科技系TA509教室	
 114	2	10	0	人因工程		設科組優先選課	9	9		ITU2035		半	3.0	科技系（學）	HU71		Human Factors Engineering		3	0	35	必		N	1178	簡佑宏	四 2-4 和平 科技系TB310教室	
 114	2	0	0	製造科技 </br>[ 學分學程：理工實作學程 ]		設科組優先選課	20	20		ITU2083		半	3.0	科技系（學）	HU71		Manufacturing Technology </br>[ Program: The Program of STEM Innovation and Practices ]		3	0	30	必	◎必須先修過【ITU0002  木工製造】	N	1179	林弘昌	一 2-4 和平 科技系TC501教室	
@@ -186,7 +185,7 @@
 114	2	10	0	基本設計		114-2 入學管道身分為：高職生、轉學生，優先選課	24	24		GCU0013	A	半	3.0	圖傳系（學）	HU72		Basic Design		1	0	30	必		N	1187	陳明秀	四 3-5 和平 新媒體專業教室	
 114	2	10	0	色彩計劃			27	27		GCU0018		半	3.0	圖傳系（學）	HU72		Color Planning		1	0	50	選		N	1188	葉振璧	三 9-A 和平 視聽教室	
 114	2	10	0	圖學（一）			30	30		GCU0168		半	3.0	圖傳系（學）	HU72		Graphic Drawing (I)		1	0	30	選		N	1189	涂卉	三 6-8 和平 新媒體專業教室	
-114	2	3	0	圖文傳播基礎技術（一）		114-2 入學管道身分為：高中生、僑生、外國生，優先選課。第一次上課務必出席，如有任何問題請與授課老師聯繫。	25	25		GCU0174	B	半	3.0	圖傳系（學）	HU72		Basic Techniques of Graphic Communication(I)		1	0	27	必		N	1190	廖信	二 2-4 和平 製作教室A	
+114	2	3	0	圖文傳播基礎技術（一）		114-2 入學管道身分為：高中生、僑生、外國生，優先選課。第一次上課務必出席，如有任何問題請與授課老師聯繫。	25	25		GCU0174	B	半	3.0	圖傳系（學）	HU72		Basic Techniques of Graphic Communication(I)		1	0	27	必	◎限本系(含雙主修)修習◎限大一修習	N	1190	廖信	二 2-4 和平 製作教室A	
 114	2	10	0	應用攝影			15	15		GCU0015		半	3.0	圖傳系（學）	HU72		Applied Photo Technique		2	0	30	選		N	1191	陳仙舟	一 2-4 和平 圖傳系攝影室	
 114	2	10	0	電腦三次元繪圖 </br>[ 學分學程：元宇宙學程 ]			50	50		GCU0036		半	3.0	圖傳系（學）	HU72		3D Computer Graphics </br>[ Program: The Program of Metaverse Narrative ]		2	0	50	必		N	1192	張晏榕	四 8-10 和平 教402	
 114	2	10	0	燈光、音效技術			28	28		GCU0041		半	3.0	圖傳系（學）	HU72		Sound & Light Effects Techniques		2	0	50	選		N	1193	祝濬清	一 7-9 和平 製作教室B	
@@ -235,10 +234,10 @@
 114	2	5	0	機電整合技術			18	18		MTU0029	A	半	1.0	機電系（學）	HU73	　	The Technology of Mechatronics		3	0	30	必	◎必須先修過【MTU0075  應用電子學（一）】	N	1238	陳俊達	二 7-8 和平 機電整合實驗室	
 114	2	5	0	機電整合技術			30	30		MTU0029	B	半	1.0	機電系（學）	HU73	　	The Technology of Mechatronics		3	0	30	必	◎必須先修過【MTU0075  應用電子學（一）】	N	1239	陳俊達	二 9-10 和平 機電整合實驗室	
 114	2	10	0	機械設計 </br>[ 學分學程：台積電半導體學程 ]			54	54		MTU0105		半	3.0	機電系（學）	HU73	　	Mechanical Engineering Design </br>[ Program: NTNU and TSMC Semiconductor Program ]		3	0	50	必		N	1240	莊家維	四 2-4 和平 工501(TA501)	
-114	2	0	0	精密銲接工程	9		20	20		MTC9013		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Precision Welding Engineering			0	50	選		N	1241	程金保	五 A-C 和平 機電301會議室	
-114	2	0	0	產業實務			31	31		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修	N	1242	程金保 陳美勇		
-114	2	0	0	產業實務專題研討			31	31		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修	N	1243	程金保 陳美勇		
-114	2	0	0	材料測試與分析			20	20		MTU0129		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Materials Testing and Inspection		3	0	50	選		N	1244	鄭淳護	六 2-4 和平 誠203	
+114	2	0	0	精密銲接工程	9		20	20		MTC9013		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Precision Welding Engineering			0	50	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1241	程金保	五 A-C 和平 機電301會議室	
+114	2	0	0	產業實務			31	31		MTU0127		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industry Practice		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1242	程金保 陳美勇		
+114	2	0	0	產業實務專題研討			31	31		MTU0128		半	2.0	機電系（學）	HU73	智能鑄造產學攜手專班	Industrial Practice Seminar		3	0	50	必	允許重複修◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1243	程金保 陳美勇		
+114	2	0	0	材料測試與分析			20	20		MTU0129		半	3.0	機電系（學）	HU73	智能鑄造產學攜手專班	Materials Testing and Inspection		3	0	50	選	◎限機電系（學）「智能鑄造產學攜手專班」選修	N	1244	鄭淳護	六 2-4 和平 誠203	
 114	2	20	0	人工智慧概論			50	50		AEU0081		半	3.0	電機系（學）	HU75		Introduction to Artificial Intelligence			0	50	選		N	1245	許閔傑	四 7-9 和平 綜202演講廳	
 114	2	10	0	數位系統實驗			54	54		AEU0004		半	2.0	電機系（學）	HU75		Digital Systems Laboratory	是	1	0	50	必	◎必須先修過【AEU0003  數位系統】	N	1246	林政宏	四 6-9 和平 電機系電子實驗室	
 114	2	20	0	工程數學（一）			70	70		AEU0008		半	3.0	電機系（學）	HU75		Engineering Mathematics (I)	是	1	0	70	必	◎必須先修過【MAU0180  微積分乙（一）】	N	1247	賴以威	一 6-8 和平 教103	
@@ -302,8 +301,8 @@
 114	2	10	0	第二語言習得專題			1	1		CLD0037		半	3.0	華語系（博）	ID84		Seminar on Second Language Acquisition			0	50	選	◎課程不開放上修	N	1305	徐東伯	三 6-8 和平 綜901	
 114	2	1	0	研究方法			10	10		ETM0002		半	3.0	歐文所（碩）	IM82		Research Methodology	是		2	30	必	◎課程開放上修	N	1306	賴嘉玲	二 7-9 和平 博404	
 114	2	1	0	基礎拉丁文			11	11		ETM0037		半	3.0	歐文所（碩）	IM82		Basic Latin	是		2	30	必	◎課程開放上修	N	1307	陳學毅	五 6-8 和平 博404	
-114	2	1	0	英國、愛爾蘭文化與觀光專題研究			9	9		ETM0064		半	3.0	歐文所（碩）	IM82		Special Topics on British and Irish Cultures and Tourism	是		2	30	選	◎課程開放上修	N	1308	賴嘉玲	四 7-9 和平 博404	
-114	2	1	0	歐洲電影與旅行			6	6		ETM0078		半	3.0	歐文所（碩）	IM82		European Film and Travel	是		2	30	選	◎課程開放上修	N	1309	路狄諾	三 7-9 和平 博404	
+114	2	1	0	英國、愛爾蘭文化與觀光專題研究			9	9		ETM0064		半	3.0	歐文所（碩）	IM82		Special Topics on British and Irish Cultures and Tourism	是		2	30	選	◎課程開放上修	N	1308	賴嘉玲	三 7-9 和平 博404	
+114	2	1	0	歐洲電影與旅行			6	6		ETM0078		半	3.0	歐文所（碩）	IM82		European Film and Travel	是		2	30	選	◎課程開放上修	N	1309	路狄諾	四 7-9 和平 博404	
 114	2	1	0	歐洲奇幻文學研究專題			6	6		ETM0083		半	3.0	歐文所（碩）	IM82		European Speculative Literature	是		2	30	選	◎課程開放上修	N	1310	梁孫傑	一 7-9 和平 博404	
 114	2	10	0	政治經濟學專題研究		上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	2	2		EAM0007		半	3.0	東亞系（碩）	IM83		Special Topics on Political Economy			3	50	選	◎課程不開放上修	N	1311	巫俊穎	二 2-4 和平 東亞系第一教室	
 114	2	10	0	研究設計與論文寫作專題		1. 兩領域共同必修，碩士生皆須修習。2. 上課教室為校本部誠大樓9樓，或綜合大樓7樓。（請參考本系所網頁公告之課表）	19	19		EAM0031		半	3.0	東亞系（碩）	IM83		Seminar on Research Design and Essay Writing			3	50	必	◎課程不開放上修	N	1312	張崑將 關弘昌	二 6-8 和平 東亞系第一教室	
@@ -567,7 +566,7 @@
 114	2	10	0	寫作設計特論	8		20	20		ENC3051		半	3.0	英語系（碩）	LM21		Topics on Writing Design	是		0	50	選	◎課程不開放上修	N	1577	張珮青	四 6-8 和平 勤302	
 114	2	10	0	歷史學研究法（二）		本課程為碩二必修課程，碩二以下勿修習。	17	17		HIM0134		半	2.0	歷史系（碩）	LM22		Seminar in Research Methods of Historiography (II)			0	50	必	◎課程不開放上修	N	1578	葉高樹	一 3-4 和平 歷史系研究生第1教室	
 114	2	10	0	故宮檔案專題研究	8		4	4		HIC0014		半	2.0	歷史系（碩）	LM22		Special Topics on Archives of National Palace Museum			2	50	選	◎課程不開放上修	N	1579	葉高樹	二 3-4 和平 歷史系研究生第1教室	
-114	2	10	0	近代中國思想變遷專題研究	8		4	4		HIC0055		半	2.0	歷史系（碩）	LM22		Special Topics on the Intellectual Change in Modern China			0	50	選	◎課程不開放上修	N	1580	黃克武	二 7-8 和平 歷史系研究生第1教室	
+114	2	10	0	近代中國思想變遷專題研究	8		4	4		HIC0055		半	2.0	歷史系（碩）	LM22		Special Topics on the Intellectual Change in Modern China			5	50	選	◎課程不開放上修	N	1580	黃克武	二 7-8 和平 歷史系研究生第1教室	
 114	2	10	0	中國法制史專題研究	8		5	5		HIC0069		半	3.0	歷史系（碩）	LM22		Special Topics on Chinese Legal History			3	50	選	◎課程不開放上修	N	1581	陳登武	一 6-8 和平 歷史系研究生第1教室	
 114	2	10	0	中國族群關係史專題研究（一）	8		6	6		HIC8004		半	2.0	歷史系（碩）	LM22		Special Topics on History of Chinese Ethnic Relations ( I)			2	50	選	◎課程不開放上修	N	1582	呂春盛	四 3-4 和平 歷史系研究生第2教室	
 114	2	10	0	中美關係史專題研究	8		3	3		HIC8011		半	3.0	歷史系（碩）	LM22		Special Topics on History of Sino-American Relations			2	50	選	◎課程不開放上修	N	1583	吳翎君	三 6-8 和平 歷史系研究生第1教室	
@@ -751,7 +750,7 @@
 114	2	3	0	中級寫作（二）			11	11		ENU0288	D	半	2.0	英語系（學）	LU21		Intermediate Writing (II)	是	2	0	20	必	◎必須先修過【ENU0287  中級寫作（一）】	N	1770	多德	五 6-7 和平 誠304	
 114	2	3	0	中級寫作（二）			18	18		ENU0288	E	半	2.0	英語系（學）	LU21		Intermediate Writing (II)	是	2	0	20	必	◎必須先修過【ENU0287  中級寫作（一）】	N	1771	柯衣凡	五 6-7 和平 樸403	
 114	2	10	0	旅遊業英語			26	26		ENU0339		半	3.0	英語系（學）	LU21		Tourism English	是	2	1	50	選		N	1772	陳乃嫻	一 2-4 和平 正302	
-114	2	0	0	文學與文化中的太極			2	2		ENU0352		半	2.0	英語系（學）	LU21		Literary and Cultural Representations of Taiji	是	2	0	50	選		N	1773	蘇榕	五 3-4 和平 誠301	
+114	2	0	0	文學與文化中的太極			2	2		ENU0352		半	2.0	英語系（學）	LU21		Literary and Cultural Representations of Taiji	是	2	0	50	選		N	1773	蘇榕	五 3-4 和平 誠106	
 114	2	10	0	文法與修辭 </br>[ 學分學程：科技化教學產業學程 ]			44	44		ENU6025		半	3.0	英語系（學）	LU21		Grammar & Rhetoric </br>[ Program: The Program of Technology-assisted Teaching Industry ]	是	2	0	50	必		N	1774	吳曉虹	五 3-5 和平 誠305	
 114	2	0	0	英語演講：英語簡報	1		30	30		ENU0218	A	半	2.0	英語系（學）	LU21		Public Speaking: Presentation	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1775	孔繁偉	四 8-9 和平 正306	
 114	2	0	0	英語演講：英語簡報	1		7	7		ENU0218	B	半	2.0	英語系（學）	LU21		Public Speaking: Presentation	是	2	0	30	必	◎必須先修過【ENU0269  英語會話（一）】、【ENU0270  英語會話（二）】	N	1776	吳美貞	四 8-9 和平 正304	
